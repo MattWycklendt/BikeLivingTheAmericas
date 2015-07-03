@@ -1009,7 +1009,7 @@ $(document).ready(function() {
 });
 
 // responsive embed videos
-$(document).ready(function () { 
+$(document).ready(function () {
     $('iframe[src*="youtube.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');
 	$('iframe[src*="youtube.com"]').addClass('embed-responsive-item');
     $('iframe[src*="vimeo.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');
@@ -1031,6 +1031,7 @@ $(function() {
 jQuery(document).ready(function($) {
     var MQL = 1170;
 
+    /*
     //primary navigation slide-in effect
     if ($(window).width() > MQL) {
         var headerHeight = $('.navbar-custom').height();
@@ -1055,4 +1056,5 @@ jQuery(document).ready(function($) {
                 this.previousTop = currentTop;
             });
     }
+    */
 });
