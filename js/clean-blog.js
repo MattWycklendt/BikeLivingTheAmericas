@@ -1031,7 +1031,6 @@ $(function() {
 jQuery(document).ready(function($) {
     var MQL = 1170;
 
-    /*
     //primary navigation slide-in effect
     if ($(window).width() > MQL) {
         var headerHeight = $('.navbar-custom').height();
@@ -1056,5 +1055,4 @@ jQuery(document).ready(function($) {
                 this.previousTop = currentTop;
             });
     }
-    */
 });
