@@ -3,130 +3,65 @@ layout: default
 ---
 
 <!-- Page Header -->
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <hr class="large">
-                    <hr class="large">
-                    <hr class="large">
-                </div>
-            </div>
-        </div>
-    </div>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #map {
+            height: 100%;
+        }
+    </style>
 </header>
 
 
 <!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div id="world" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-		</div>
-	</div>
-</div>
-
-<hr>
-
-
-<meta charset="utf-8">
-<style>
-
-body {
-      background: #fcfcfa;
-}
-
-.stroke {
-      fill: none;
-        stroke: #000;
-          stroke-width: 3px;
-}
-
-.fill {
-      fill: #fff;
-}
-
-.graticule {
-      fill: none;
-        stroke: #777;
-          stroke-width: .5px;
-            stroke-opacity: .5;
-}
-
-.land {
-      fill: #222;
-}
-
-.boundary {
-      fill: none;
-        stroke: #fff;
-          stroke-width: .5px;
-}
-
-</style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+<div id="map"></div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
 <script>
 
-var width = 960,
-        height = 960;
+var map;
+function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+        center: {lat: -34.397, lng: 150.644},
+        zoom: 8
+    });
 
-var projection = d3.geo.orthographic()
-        .scale(400)
-        .translate([width / 2, height / 2])
-        .clipAngle(90)
-        .precision(.1);
+    $.ajax({
+        type: "GET",
+        url: "/raw/track.tcx",
+        dataType: "xml",
+        success: function(xml) {
+            var points = [];
+            var bounds = new google.maps.LatLngBounds ();
+            $(xml).find("Position").each(function() {
+                var lat = $(this).find("LatitudeDegrees").html();
+                var lon = $(this).find("LongitudeDegrees").html();
+                var p = new google.maps.LatLng(lat, lon);
+                points.push(p);
+                bounds.extend(p);
+            });
 
-        var path = d3.geo.path()
-        .projection(projection);
+            var poly = new google.maps.Polyline({
+                // use your own style here
+                path: points,
+                strokeColor: "#FF00AA",
+                strokeOpacity: .7,
+                strokeWeight: 4
+            });
 
-        var graticule = d3.geo.graticule();
+            poly.setMap(map);
 
-        var svg = d3.select("#world").append("svg")
-            .attr("width", width)
-            .attr("height", height);
-
-        svg.append("defs").append("path")
-            .datum({type: "Sphere"})
-            .attr("id", "sphere")
-            .attr("d", path);
-
-        svg.append("use")
-            .attr("class", "stroke")
-            .attr("xlink:href", "#sphere");
-
-        svg.append("use")
-            .attr("class", "fill")
-            .attr("xlink:href", "#sphere");
-
-        svg.append("path")
-            .datum(graticule)
-            .attr("class", "graticule")
-            .attr("d", path);
-
-        d3.json("/BikeLivingTheAmericas/raw/world-110m.json", function(error, world) {
-            if (error) throw error;
-
-            svg.insert("path", ".graticule")
-                .datum(topojson.feature(world, world.objects.land))
-                .attr("class", "land")
-                .attr("d", path);
-
-            svg.insert("path", ".graticule")
-                .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
-                .attr("class", "boundary")
-                .attr("d", path);
-        });
+            // fit bounds to track
+            map.fitBounds(bounds);
+        }
+    });
+}
 
 
-        d3.select(self.frameElement).style("height", height + "px");
-
-        var λ = d3.scale.linear()
-            .domain([0, width])
-            .range([-180, 180]);
-        svg.on("mousemove", function() {
-            var p = d3.mouse(this);
-            projection.rotate([λ(p[0]), 0]);
-            svg.selectAll("path").attr("d", path);
-        });
 </script>
-
