@@ -3,7 +3,7 @@ title: Bike Living The Americas
 header-img: img/home-bg.jpg
 email: mattwycklendt@gmail.com.com
 description: "Blog for Megan Wycklendt and Gordon Dunlop"
-#cbaseurl: "/BikeLivingTheAmericas"
+baseurl: ""
 url: "http://bikelivingtheamericas.com"
 twitter_username: meganwycklendt
 github_username: mattwycklendt
