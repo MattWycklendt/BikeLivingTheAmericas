@@ -1,37 +1,104 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+    {% include nav.html %}
+
 
 <!-- Page Header -->
+<!--
+<header>
     <title>Simple Map</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-        }
-        #map {
-            height: 100%;
-            margin-top: 60px;
-        }
-    </style>
 </header>
+-->
 
 
 <!-- Main Content -->
-<div id="map"></div>
+
+<div class="row" id="map"></div>
+
+
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
 <script>
 
-var map;
 function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-        center: {lat: -34.397, lng: 150.644},
-        zoom: 8
+
+    var customMapType = new google.maps.StyledMapType(
+    [
+        {
+            "stylers": [
+                {
+                    "saturation": -100
+                }
+            ]
+        },
+        {
+            "featureType": "water",
+            "elementType": "geometry.fill",
+            "stylers": [
+                {
+                    "color": "#0099dd"
+                }
+            ]
+        },
+        {
+            "featureType": "poi.park",
+            "elementType": "geometry.fill",
+            "stylers": [
+                {
+                    "color": "#aadd55"
+                }
+            ]
+        },
+        {
+            "featureType": "road.highway",
+            "elementType": "labels",
+            "stylers": [
+                {
+                    "visibility": "on"
+                }
+            ]
+        },
+        {
+            "featureType": "road.arterial",
+            "elementType": "labels.text",
+            "stylers": [
+                {
+                    "visibility": "on"
+                }
+            ]
+        },
+        {
+            "featureType": "road.local",
+            "elementType": "labels.text",
+            "stylers": [
+                {
+                    "visibility": "on"
+                }
+            ]
+        },
+        {}
+    ], {
+        name: 'Journey'
     });
+
+    var customMapTypeId = 'custom_style';
+    var map = new google.maps.Map(document.getElementById('map'), {
+        center: {lat: -34.397, lng: 150.644},
+        zoom: 8,
+        mapTypeControlOptions: {
+            mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
+        }
+    });
+
+    map.mapTypes.set(customMapTypeId, customMapType);
+    map.setMapTypeId(customMapTypeId);
 
     $.ajax({
         type: "GET",
@@ -66,3 +133,9 @@ function initMap() {
 
 
 </script>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

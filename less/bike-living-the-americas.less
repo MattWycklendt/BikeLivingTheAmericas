@@ -68,6 +68,7 @@ hr.small {
 	.sans-serif;
 	.navbar-brand {
 		font-weight: 800;
+        font-size: 16px;
 	}
 	.nav {
 		li {
@@ -80,28 +81,27 @@ hr.small {
 		}
 	}
 	@media only screen and (min-width: 768px) {
-		background: transparent;
-		border-bottom: 1px solid transparent;
-		.navbar-brand {
-			color: white;
-			padding: 20px;
-			&:hover,
-			&:focus {
-				color: @white-faded;
-			}
-		}
-		.nav {
-			li {
-				a {
-					color: white;
-					padding: 20px;
-					&:hover,
-					&:focus {
-						color: @white-faded;
-					}
-				}
-			}
-		}
+		background-color: fade(white, 90%);
+		border-bottom: 1px solid darken(white, 5%);
+        .navbar-brand {
+            color: @gray-dark;
+            &:hover,
+            &:focus {
+                color: @brand-primary;
+            }
+        }
+        .nav {
+            li {
+                a {
+                    color: @gray-dark;
+                    &:hover,
+                    &:focus {
+                        color: @brand-primary;
+                    }
+                }
+            }
+        }
+
 	}
 	@media only screen and (min-width: 1170px) {
 		-webkit-transition: background-color 0.3s;
@@ -293,7 +293,7 @@ hr.small {
 }
 
 footer {
-	padding: 50px 0 65px;
+	padding: 10px;
 	.list-inline {
 		margin: 0;
 		padding: 0;
@@ -460,4 +460,15 @@ img::-moz-selection {
 
 body {
 	webkit-tap-highlight-color: @brand-primary;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+#map {
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
 }

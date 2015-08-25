@@ -2,7 +2,7 @@
 layout:     post
 title:      "10 Simple Habits to Grow a Positive Attitude"
 subtitle:   ""
-date:       2014-12-23 12:00:00
+date:       2014-12-24 12:00:00
 author:     "Megan Wycklendt"
 header-img: "img/post-bg-01.jpg"
 ---

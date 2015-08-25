@@ -51,6 +51,7 @@ hr.small {
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
+  font-size: 16px;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
@@ -65,7 +66,6 @@ hr.small {
   }
   .navbar-custom .navbar-brand {
     color: #404040;
-    padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
@@ -73,7 +73,6 @@ hr.small {
   }
   .navbar-custom .nav li a {
     color: #404040;
-    padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
@@ -162,8 +161,8 @@ hr.small {
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   font-size: 24px;
-  line-height: 1.1;
-  display: block;
+  line-height: 1.1,
+			display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
@@ -259,7 +258,7 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 50px 0 65px;
+  padding: 10px;
 }
 footer .list-inline {
   margin: 0;
@@ -394,4 +393,13 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+html,
+body {
+  height: 100%;
+}
+#map {
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 50px;
 }
