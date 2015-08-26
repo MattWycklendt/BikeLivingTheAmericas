@@ -24,10 +24,15 @@
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
+<!--<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>-->
+<!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>-->
+<script type="text/javascript"
+  src="https://maps.googleapis.com/maps/api/js?libraries=geometry">
+</script>
+
 <script>
 
-function initMap() {
+//function initMap() {
 
     var customMapType = new google.maps.StyledMapType(
     [
@@ -90,8 +95,8 @@ function initMap() {
 
     var customMapTypeId = 'custom_style';
     var map = new google.maps.Map(document.getElementById('map'), {
-        center: {lat: -34.397, lng: 150.644},
-        zoom: 8,
+        center: {lat: 61, lng: -149},
+        zoom: 5,
         mapTypeControlOptions: {
             mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
         }
@@ -100,7 +105,83 @@ function initMap() {
     map.mapTypes.set(customMapTypeId, customMapType);
     map.setMapTypeId(customMapTypeId);
 
+    var bounds = new google.maps.LatLngBounds ();
+
+    function display_route(route) {
+            var route;
+            var steps = route.routes[0].legs[0].steps;
+            var points = [];
+            for (i = 0; i < steps.length; i++) {
+                path = google.maps.geometry.encoding.decodePath(steps[i].polyline.points);
+                for (j = 0; j < path.length; j++) {
+                    var lat = path[j].G;
+                    var lon = path[j].K;
+                    var p = new google.maps.LatLng(lat, lon);
+                    points.push(p);
+                    bounds.extend(p);
+                }
+            };
+
+            var poly = new google.maps.Polyline({
+                // use your own style here
+                path: points,
+                strokeColor: "#FF00AA",
+                strokeOpacity: .7,
+                strokeWeight: 4
+            });
+
+            poly.setMap(map);
+
+            // fit bounds to track
+            map.fitBounds(bounds);
+    };
+
     $.ajax({
+        type: "GET",
+        url: "/BikeLivingTheAmericas/raw/ancorage_to_LA.json",
+        dataType: "json",
+        success: function(route) {
+            display_route(route);
+        }
+    });
+
+    $.ajax({
+        type: "GET",
+        url: "/BikeLivingTheAmericas/raw/LA_to_PuertoVallarta.json",
+        dataType: "json",
+        success: function(route) {
+            display_route(route);
+        }
+    });
+
+    $.ajax({
+        type: "GET",
+        url: "/BikeLivingTheAmericas/raw/PuertoVallarta_to_Panama.json",
+        dataType: "json",
+        success: function(route) {
+            display_route(route);
+        }
+    });
+
+    $.ajax({
+        type: "GET",
+        url: "/BikeLivingTheAmericas/raw/Turbo_to_Santiago.json",
+        dataType: "json",
+        success: function(route) {
+            display_route(route);
+        }
+    });
+
+    $.ajax({
+        type: "GET",
+        url: "/BikeLivingTheAmericas/raw/Santiago_to_Ushuaia.json",
+        dataType: "json",
+        success: function(route) {
+            display_route(route);
+        }
+    });
+
+    /*$.ajax({
         type: "GET",
         url: "/BikeLivingTheAmericas/raw/track.tcx",
         dataType: "xml",
@@ -128,8 +209,8 @@ function initMap() {
             // fit bounds to track
             map.fitBounds(bounds);
         }
-    });
-}
+    });*/
+//}
 
 
 </script>
