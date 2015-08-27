@@ -148,7 +148,16 @@
 
     $.ajax({
         type: "GET",
-        url: "/raw/LA_to_PuertoVallarta.json",
+        url: "/raw/LA_to_LaPaz.json",
+        dataType: "json",
+        success: function(route) {
+            display_route(route);
+        }
+    });
+
+    $.ajax({
+        type: "GET",
+        url: "/raw/LaPaz_to_PuertoVallarta.json",
         dataType: "json",
         success: function(route) {
             display_route(route);
