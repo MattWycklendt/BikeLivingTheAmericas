@@ -1,13 +1,13 @@
 # Site settings
 title: Bike Living The Americas
 header-img: img/home-bg.jpg
-email: mattwycklendt@gmail.com
+email: megan.wycklendt@gmail.com
 description: "Blog for Megan Wycklendt and Gordon Dunlop"
 baseurl: ""
 url: "http://bikelivingtheamericas.com"
 twitter_username: meganwycklendt
 #github_username: mattwycklendt
-facebook_username: meganwycklendt
+facebook_username: bikelivingtheamericas
 
 # Build settings
 markdown: kramdown
