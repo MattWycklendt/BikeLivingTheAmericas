@@ -3,7 +3,7 @@ layout:     post
 title:      A world apart and planning an adventure
 subtitle:   ""
 date:       2015-8-29 3:00:00
-author:     "Megan Wycklendt"
+author:     "Gordon Dunlop"
 header-img: "blog/2015-8-28-Alaska.jpg"
 ---
 Planning an 18 month cycle trip, spanning the extent of the American continent, has certainly had its challenges.  Not least of these the fact that, for the majority of our planning time, Meg was based in Wisconsin, USA, while I was living 10,000 miles away in Sydney, Australia.  In truth, before beginning work in Peru with Operation Groundswell in May, we’d only spent a sum total of ten days in each other’s company.  Our shared dream to cycle the Americas has come a long way since a chance conversation in Pisco, Peru in the summer of 2011!

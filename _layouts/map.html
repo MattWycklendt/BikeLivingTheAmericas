@@ -191,35 +191,75 @@
         }
     });
 
-    /*$.ajax({
+    $.ajax({
         type: "GET",
-        url: "/raw/track.tcx",
+        url: "/raw/2015-8-30-afternoon.tcx",
         dataType: "xml",
         success: function(xml) {
             var points = [];
+            var currPos;
             var bounds = new google.maps.LatLngBounds ();
+
             $(xml).find("Position").each(function() {
                 var lat = $(this).find("LatitudeDegrees").html();
                 var lon = $(this).find("LongitudeDegrees").html();
                 var p = new google.maps.LatLng(lat, lon);
                 points.push(p);
+
+                currPos = p;//{'lat': int(lat), 'log': ing(clon};
                 bounds.extend(p);
             });
+
+            // Define the symbol, using one of the predefined paths ('CIRCLE')
+            // supplied by the Google Maps JavaScript API.
+            var lineSymbol = {
+                path: google.maps.SymbolPath.CIRCLE,
+                scale: 8,
+                strokeColor: '#393'
+            };
+
 
             var poly = new google.maps.Polyline({
                 // use your own style here
                 path: points,
-                strokeColor: "#FF00AA",
+                strokeColor: "#6600CC",
                 strokeOpacity: .7,
-                strokeWeight: 4
+                strokeWeight: 4,
+                icons: [{
+                    icon: lineSymbol,
+                    offset: '100%'
+                }],
             });
 
             poly.setMap(map);
+            animateCircle(poly);
 
             // fit bounds to track
             map.fitBounds(bounds);
+
+            var marker = new google.maps.Marker({
+                position: currPos,
+                map: map,
+                title: 'Hello World!'
+            });
+
+            // Use the DOM setInterval() function to change the offset of the symbol
+            // at fixed intervals.
+            function animateCircle(line) {
+                var count = 0;
+                window.setInterval(function() {
+                    if (count === 199) {
+                        return;
+                    }
+                    count = (count + 1) % 200;
+
+                    var icons = line.get('icons');
+                    icons[0].offset = (count / 2) + '%';
+                    line.set('icons', icons);
+                }, 20);
+            }
         }
-    });*/
+    });
 //}
 
 
