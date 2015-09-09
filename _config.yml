@@ -4,8 +4,9 @@ header-img: img/home-bg.jpg
 email: megan.wycklendt@gmail.com
 description: "Blog for Megan Wycklendt and Gordon Dunlop"
 baseurl: ""
-url: "http://bikelivingtheamericas.com"
-twitter_username: meganwycklendt
+#url: "http://bikelivingtheamericas.com"
+url: "http://localhost:4000"
+twitter_username: Alaska2Ushuaia
 github_username: mattwycklendt
 facebook_username: bikelivingtheamericas
 instagram_username: bikelivingtheamericas
