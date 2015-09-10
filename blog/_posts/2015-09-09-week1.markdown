@@ -2,7 +2,7 @@
 layout:     post
 title:      Week 1 Anchorage to Gakona
 subtitle:   ""
-date:       2015-8-29 3:00:00
+date:       2015-09-09 3:00:00
 author:     "Gordon Dunlop"
 header-img: "blog/2015-09-09-Alaska2.jpg"
 ---
