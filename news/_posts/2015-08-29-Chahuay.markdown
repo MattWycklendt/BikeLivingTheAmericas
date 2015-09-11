@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Chahuay"
+title:      "Lost and Found in Chahuay"
 subtitle:   ""
 date:       2015-08-29 3:00:00
 author:     "Megan Wycklendt"
