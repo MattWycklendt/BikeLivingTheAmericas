@@ -6,7 +6,7 @@ date:       2015-09-09 3:00:00
 author:     "Gordon Dunlop"
 header-img: "blog/2015-09-09-Alaska2.jpg"
 ---
-For a day that started with me never having entered the United States, I ticked off a few cities (or airports at least) on Tuesday 25th May.  After an overnight flight from Lima, the day began with an early morning passage through US customs in Fort Lauderdale, Florida– a surprisingly uneventful passage given the stories I’d heard of rigorous inquisitions reserved for South American backpacker types.  From Fort Lauderdale to Chicago and a rendez-vous with Meg’s parents.  Brian and Diane had very kindly brought all our cycling gear to Chicago, from their home in Wisconsin, and so we swapped our backpacks for panniers, hiking boots for ‘clip-ins’ and, after a delicious first American burger (thanks Brian & Diane!) and farewell hugs, we were on our way to Alaska!
+For a day that started with me never having entered the United States, I ticked off a few cities (or airports at least) on Tuesday 25th August.  After an overnight flight from Lima, the day began with an early morning passage through US customs in Fort Lauderdale, Florida– a surprisingly uneventful passage given the stories I’d heard of rigorous inquisitions reserved for South American backpacker types.  From Fort Lauderdale to Chicago and a rendez-vous with Meg’s parents.  Brian and Diane had very kindly brought all our cycling gear to Chicago, from their home in Wisconsin, and so we swapped our backpacks for panniers, hiking boots for ‘clip-ins’ and, after a delicious first American burger (thanks Brian & Diane!) and farewell hugs, we were on our way to Alaska!
 
 <img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-09-09-Airport.jpg"/>
 
