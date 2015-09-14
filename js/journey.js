@@ -218,11 +218,19 @@ var stops = [
     },
     {
         title: "09/10/2015",
-        position: { lat: 62.38422, lng: -140.8746 }
+        position: { lat: 62.15106, lng: -140.6863 }
     },
     {
-        title: "We Are Here<br>09/10/2015",
-        position: { lat: 62.38422, lng: -140.8746 },
+        title: "09/11/2015",
+        position: { lat: 61.89835, lng: -140.2206 }
+    },
+    {
+        title: "09/12/2015",
+        position: { lat: 61.35535, lng: -139.0018 }
+    },
+    {
+        title: "We Are Here<br>09/13/2015",
+        position: { lat: 61.25168, lng: -138.8053 },
         show: true
     }
 ];
