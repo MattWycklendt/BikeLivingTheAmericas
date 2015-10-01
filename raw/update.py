@@ -2,7 +2,7 @@ import requests
 import urllib
 import json
 
-location = "57.90737,-130.051"
+location = "56.09976,-129.305"
 s = requests.Session()
 params = {'origin': "Anchorage, AK",
         'destination': location,
