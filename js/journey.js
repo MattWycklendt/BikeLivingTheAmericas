@@ -289,8 +289,32 @@ var stops = [
         position: { lat: 56.67883, lng: -129.7373 }
     },
     {
-        title: "We Are Here<br>09/30/2015",
-        position: { lat: 56.09976, lng: -129.305 },
+        title: "09/30/2015",
+        position: { lat: 56.09976, lng: -129.305 }
+    },
+    {
+        title: "10/01/2015",
+        position: { lat: 55.58348, lng: -128.4206 }
+    },
+    {
+        title: "10/02/2015",
+        position: { lat: 55.17965, lng: -127.7261 }
+    },
+    {
+        title: "10/03/2015",
+        position: { lat: 54.78278, lng: -127.1556 }
+    },
+    {
+        title: "10/04/2015",
+        position: { lat: 54.68224, lng: -127.0253 }
+    },
+    {
+        title: "10/05/2015",
+        position: { lat: 54.39149, lng: -126.6606 }
+    },
+    {
+        title: "We Are Here<br>10/06/2015",
+        position: { lat: 54.39198, lng: -126.6597 },
         show: true
     }
 ];
