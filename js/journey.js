@@ -79,8 +79,8 @@ function display_route(route, poly, bound) {
     for (i = 0; i < steps.length; i++) {
         path = google.maps.geometry.encoding.decodePath(steps[i].polyline.points);
         for (j = 0; j < path.length; j++) {
-            var lat = path[j].J;
-            var lon = path[j].M;
+            var lat = path[j].lat();
+            var lon = path[j].lng();
             var p = new google.maps.LatLng(lat, lon);
             points.push(p);
             if(bound){bounds.extend(p);}
@@ -309,8 +309,28 @@ var stops = [
         position: { lat: 54.68224, lng: -127.0253 }
     },
     {
-        title: "We Are Here!<br>10/05/2015 - 10/11/2015",
-        position: { lat: 54.39149, lng: -126.6606 },
+        title: "10/05/2015 - 10/13/2015",
+        position: { lat: 54.39149, lng: -126.6606 }
+    },
+    {
+        title: "10/14/2015",
+        position: { lat: 54.1442, lng: -125.378 }
+    },
+    {
+        title: "10/15/2015",
+        position: { lat: 54.02692, lng: -124.0379 }
+    },
+    {
+        title: "10/16/2015",
+        position: { lat: 53.92495, lng: -122.776 }
+    },
+    {
+        title: "10/17/2015",
+        position: { lat: 53.58415, lng: -122.6726 }
+    },
+    {
+        title: "10/04/2015",
+        position: { lat: 53.05049, lng: -122.5346 },
         show: true
     }
 ];
