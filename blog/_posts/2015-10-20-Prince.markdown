@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "Kitwanga to Prince George"
+subtitle:   "10 Things I learned from having an injury while bicycle touring"
+date:       2015-10-20 3:00:00
+author:     "Megan Wycklendt"
+header-img: "blog/2015-10-20-Cover.jpg"
+---
+At the end of the Cassiar highway, our next stretch of road was 300miles (500km) of highway 16 from Kitwanga to Prince George. What would normally take us five days, took us fifteen. Luckily we were done with our race with winter and although winter seemed to have the upperhand at times, we came out on top with absolutely stunning views of mountains, fall colors and blue skies on highway 16.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-10-19-Fall.jpg"/>
+
+After a week of spectacular remoteness on the Cassiar highway, we were excited to connect with a variety of hosts on [warmshowers.org](http://warmshowers.org) that lived along our route. With Kirsteen and Andy,  we did some much needed laundry, took an even more needed shower, and stretched our legs on a stunning day-hike just outside of town. With John and Cheryl, we chatted about bike-travel and adventures. At Jolinka and John’s, we were stunned by their beautiful log home overlooking the river and worked out our kinks
+in their mechanical massage chair. Caroline and Theo came to our rescue, agreeing to host us in Prince George, the biggest city we’ve been in since we left Anchorage, Alaska.
+
+And then there was Dee Jay and Kerry who were our heroes when I experienced my first touring injury. When my left leg had started tightening up, we had planned to take a rest day in Houston, BC. After a day of stretches and foam rolling, we got the bikes ready to go. Dee Jay and Kerry packed us a lunch and a bag of our favorite homemade cookies, biked with us for a few kilometers showing us the sites around town and eventually we said our goodbyes. It turns out that one full day of rest and leg
+therapy wasn’t enough and not even 10km later, my IT band seized up and my whole left leg started to cramp. When I started to feel tears roll down my face while cycling downhill, I knew it wasn’t just going to loosen up. I sent Dee Jay and Kerry an email from the side of the road asking if we could stay one more night and within a few minutes we got a reply, “YES! We will bike to you now.”
+
+After a couple more days of ice, heat, yoga and foam rolling, we had another failed attempt at getting back on the road and they insisted that we take our time and stay as long as we needed to fully recover. Dee Jay taught me semantics, we went to the town pool for water therapy (and to soak in the hot tub), and they cooked us delicious, nutrient-filled meals. Having been on many long bike tours themselves, and experiencing their own injuries on the road, they had a lot of helpful advice and
+encouragement. I started to feel less of a burden as they continued to share many uplifting stories of people who have helped them along their own bicycle journeys. We stayed with them for NINE DAYS and after two test-rides, my leg made a full recovery. We can’t thank Dee Jay and Kerry enough for taking us in, showing us unbelievable kindness and being all-around excellent human beings.
+
+Although this is my first injury on this journey, I’m not so foolish to think it will be my last. It’s all part of the adventure. Here are 10 things I learned from this experience.
+
+ 1. **Potassium, magnesium, and electrolytes are your best friends.** Along with other functions, potassium and magnesium impact muscle contractions, which is related to muscle tightness. Now taking a daily multi-vitamin and getting more electrolytes. Water isn’t always enough.
+
+ 2. **Don’t skip my yoga practice/ stretching routine.** Even if it’s cold and I’m tired, I have to do it. Simple as that.
+
+ 3. **Rest days save you time in the long run.** Biking a slow 60 miles (100km) in a day might not seem like a huge feat but biking that length day after day adds up and my body is still adapting and adjusting to what I’m asking it to do. We are still technically in ‘training’ and rest days are essential to building up my body’s capacity to bikelive the Americas. No more racing winter= more rest/exploring days.
+
+ 4. **Listen to your body.** It’s challenging to know what pain is normal and expected and what needs more attention. I have a pretty good intuition and when I trust my gut, I know what my body is telling me. When my leg cramped up, I was worried if I push through, it would lead to an injury that would keep me off the bike even longer. I would be really disappointed in myself if I didn’t listen to my body and give it the rest it’s asking for.
+
+ 5. **There’s no rush.** This isn’t just a trip. This is my life. If I’m honest to myself, this is really what this journey is all about. Overcoming challenges, getting off the beaten road, and meeting wonderful people who inspire me. Not seeing how many miles we can cram into a day.
+
+ 6. **Foam rolling a little each day is better than an hour once a week.** I am in love with my foam roller. It was the best idea to bring a travel roller with us to work out our muscles before and after a ride. Even if it’s raining out and there’s not much room in the tent, or it was an exhausting day and I’m ready to pass out, or if it’s way too cold in the morning and I just want to get on the bike as fast as possible to heat up… there is no good reason for not spending a couple minutes
+loosening/warming up my legs.
+
+ 7. **Stay positive. It’s easy to catastrophize, doubt and worry.** It was scary to feel my leg seize up 6 weeks into a 2- year journey. “Can I really do this? Can my body do this? I’m holding us back…” All bullocks. Take one step at a time and take advantage of every moment. Life could have been a lot worse than being “stuck” in a beautiful town with the most wonderful couple, being taken care of in a comfortable home. Everything will be OK. Enjoy the moment and where it’s brought you.
+
+ 8. **Having a supportive bicycle partner is very important.** Gordon is understanding, easy-going, and practical. If I had a partner who huffed and puffed about having to take another rest day or push me back on the bike before I was ready, I could have ended up in much worse shape. We are a team and if one of us isn’t feeling up to it, we rest and problem solve. That’s that. No guilt trips or pressure. We’re in this together.
+
+ 9. **I really like bicycle touring.** Although I enjoyed delicious home-cooked meals, laying around watching netflix, doing yoga, and drinking wine while brainstorming how to solve world problems, I was still craving the road. After 7 weeks, I still get excited to get on my bike and just go. It’s thrilling to not know exactly what lies ahead or who we will meet or where we will sleep that night. It is way less stressful than it sounds. It’s freeing.
+
+ 10. **There are amazingly generous people in this world.** I am continually amazed, uplifted, and inspired by people I meet. We had been welcomed into an amazing home and cared for as friends. The newspapers and media sources have made society paranoid. We’re terrified of people. From our experience traveling (bikeliving and previously), we have learned to be cautious and aware of our surroundings, but more than that we have found that for the vast majority of the time, people are good. They are kind,
+resilient, generous, and have incredible stories. We are excited to learn and share more about local initiatives we come across, influential and compassionate people, and inspiring stories to uplift us and restore faith in humanity.
+
