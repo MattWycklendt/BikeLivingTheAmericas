@@ -363,6 +363,38 @@ var stops = [
     {
         title: "10/26/2015 - 11/01/2015",
         position: { lat: 50.11329, lng: -122.95430 },
+    },
+    {
+        title: "11/18/2015",
+        position: { lat: 48.76476, lng: -122.47020 }
+    },
+    {
+        title: "11/19/2015",
+        position: { lat: 48.76501, lng: -122.47050 }
+    },
+    {
+        title: "11/18/2015",
+        position: { lat: 48.76471, lng: -122.47050 }
+    },
+    {
+        title: "11/19/2015",
+        position: { lat: 48.11766, lng: -122.77090 }
+    },
+    {
+        title: "11/20/2015",
+        position: { lat: 47.63723, lng: -122.71360 }
+    },
+    {
+        title: "11/21/2015",
+        position: { lat: 47.20832, lng: -123.10700 }
+    },
+    {
+        title: "11/22/2015",
+        position: { lat: 46.90225, lng: -123.02160 }
+    },
+    {
+        title: "11/23/2015",
+        position: { lat: 46.71759, lng: -122.96080 },
         show: true
     }
 ];
