@@ -1,0 +1,1508 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJf8hjUGNFIYQRdFK_hZm_z3k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 34.0871505,
+               "lng" : -105.0507271
+            },
+            "southwest" : {
+               "lat" : 20.6533991,
+               "lng" : -118.2435703
+            }
+         },
+         "copyrights" : "Map data ©2015 Google, INEGI",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1,535 mi",
+                  "value" : 2470585
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 93251
+               },
+               "end_address" : "Puerto Vallarta, Jal., Mexico",
+               "end_location" : {
+                  "lat" : 20.6533991,
+                  "lng" : -105.2252793
+               },
+               "start_address" : "Los Angeles, CA, USA",
+               "start_location" : {
+                  "lat" : 34.052353,
+                  "lng" : -118.2435703
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 34.0522456,
+                        "lng" : -118.2434082
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eW 1st St\u003c/b\u003e toward \u003cb\u003eS Main St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ezynEhmupUR_@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.052353,
+                        "lng" : -118.2435703
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 34.0554353,
+                        "lng" : -118.240463
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eN Main St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qyynEhlupUw@s@{DsDaA_Ac@c@SSQOwD}Ce@a@IICAQQ"
+                     },
+                     "start_location" : {
+                        "lat" : 34.0522456,
+                        "lng" : -118.2434082
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 34.0549826,
+                        "lng" : -118.23978
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eW Aliso St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "omznEzytpUv@yADK\\a@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.0554353,
+                        "lng" : -118.240463
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 34.0548667,
+                        "lng" : -118.239589
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eW Aliso St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "sjznErutpUDOBEJO"
+                     },
+                     "start_location" : {
+                        "lat" : 34.0549826,
+                        "lng" : -118.23978
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1321
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 34.05249939999999,
+                        "lng" : -118.2257464
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eUS-101 S\u003c/b\u003e via the ramp to \u003cb\u003eInterstate 10 Fwy E/Interstate 5 Fwy S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}iznElttpUHORa@HSLWJQZq@Tg@Ro@La@FQNc@Ja@FSBK@E@C?E@E?EAEACAEF[BOHk@Da@BS?GB[@m@@mC?{@@cA@w@Bg@?[DaBDy@BwA@]DsA@U@_@T}C?AL_BHiAHkADo@Dq@De@TuCVcDh@mEFo@@IHu@Fy@Hy@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.0548667,
+                        "lng" : -118.239589
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 mi",
+                        "value" : 2022
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 34.0536606,
+                        "lng" : -118.2051356
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e at the fork to continue on \u003cb\u003eSan Bernardino Fwy\u003c/b\u003e, follow signs for \u003cb\u003eSan Bernardino/Interstate 10 E\u003c/b\u003e",
+                     "maneuver" : "fork-left",
+                     "polyline" : {
+                        "points" : "c{ynE|}qpU?g@Be@H}@Di@?m@Ca@Gi@Gi@GY]{@c@y@e@s@QUiAaB]o@sAmB[c@i@aAaAeC]}AMs@K{@Ga@C]Ae@Cu@A_I?oC?sA?A?mA?A?A?O?A@u@?aC?k@?A?A?]?C?G?A?q@@g@Bo@FqAFw@\\wBPcA~AqIx@aEHa@TiAP_AJs@D[NuBFyA?wA@u@E}@GaAGs@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.05249939999999,
+                        "lng" : -118.2257464
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13.2 mi",
+                        "value" : 21277
+                     },
+                     "duration" : {
+                        "text" : "14 mins",
+                        "value" : 849
+                     },
+                     "end_location" : {
+                        "lat" : 34.0674112,
+                        "lng" : -117.9820617
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eI-10 E/San Bernardino Fwy\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "kbznEb}mpUGi@G]M{@Qw@Sw@WgAQs@Qo@UcAOi@Oo@Qw@QaAOcAOoAEa@YuC[{CMcBKuAE_AEcAGwC?e@@}@?_A@_A@_B@u@@w@HoKBgCBiC?cAB{A@_A?eADuDDyE@eB?U?i@A}@Cy@EcAC_@M{AE]M_ASsAKk@]_BSs@Mc@M_@Sk@[_A{@_CaBkE}@cC}@gCq@oBY{@m@iBYw@[}@IY_B{Eu@uB}AqEaA{Ca@iA[aAq@qB}@kCU{@Ka@I[Ic@Ko@E]Ec@I_AAEE_AAYA[Ac@?c@@u@@k@D{@TuDHqAHgAD}@FcADy@@]@k@@q@?a@?QAO?MCe@Ee@?ICQEa@CWEUKq@K_@I[EUK_@K]So@]aAKUKWYm@[o@i@_Am@eAQWw@iAa@o@a@q@k@mAMWuA}CgAcC[q@cA{B_LqWcDsHmAsCQa@EKCGYo@gD}HgC}FCIgAiC[u@Wu@IYIUMe@I]Ka@GYIe@Ik@Gg@Ea@C]Ee@Cq@CgAAu@A}GE{JCqKCoFAkEA_BAwD?s@Au@AeE?s@AmDG{Q?o@?o@IeUCqJ?m@?m@?aDCwCAqC?i@CiHEkRAaBGqRCyGCqL?]?AAQ?C?o@AaBAuC?qAAiHAuDCcE?sCGwN?WCmKAkCG_R?i@?}@GkM?i@?C?O?A?C?w@CaIAcFA{ECcGAmCCwGA{EAY?mBAiCAiCCeHC}H?oA?oAGyO?q@?C?G?O?CAk@C}KCcYEyKCyHCaGA{CIk`@?yD?}A@[@s@Be@@i@HaADi@Da@D_@D[Lw@Ny@T{@J_@z@oC\\cAZaANa@Na@Pk@Rm@dCwHv@cCfB_GL]VkALq@Jq@Lw@Fi@Jy@H_ATeD@UDm@Do@x@_MFu@Bg@Di@t@aQ@c@Ba@DiADcDD_CD_E@cDAoE?s@?k@?AE{DCmBAg@EeCAsB?KAyBAyBCoACeDAq@?iA?_A@o@BmAD_AF}@FaAJgAL_AJs@PeATeATcAf@iBXy@Tu@X_A^eAtAsDb@oA@CVw@X_AFUV}@Je@H[XmALs@Ji@Ny@F]D_@Fc@Fe@PuAZmCpAaKJq@Js@PoALgAHk@Fq@Fo@B_@B_@Bs@@[?c@?a@?c@?a@ASCk@]uEI_AQyBMqAOqA]yDCa@IeAeA_NA[C]AWAWcA_QC_@Eg@u@qKo@eIGaAQkBKwAOmBWqDa@}Fc@oGk@qIs@gKa@wF_@wF"
+                     },
+                     "start_location" : {
+                        "lat" : 34.0536606,
+                        "lng" : -118.2051356
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "365 mi",
+                        "value" : 587356
+                     },
+                     "duration" : {
+                        "text" : "5 hours 10 mins",
+                        "value" : 18618
+                     },
+                     "end_location" : {
+                        "lat" : 33.3959404,
+                        "lng" : -111.9677112
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eI-10 E\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering Arizona\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "ix|nEzjboUMaBOuBg@mHU{CeAmOa@yF[iEYkEQqC]mEMyB[oEu@iKe@oHsAwRG}@G}@GgAEs@OwBGaAIyAScFe@{IMkC}@}PSgEc@sIeAeSCe@AYQeESwD_@yHKiBMiB?K?CCa@?EEs@AUSaECo@Ey@C{BCoA?qA?}A@}D@cF@cB?A?S@kA?m@@{NDgK@eG@_FByD?aB?oA?I?]@y@?s@D{Q@oB@yCFq\\@yA?yABuF@cJDgLBqP@yA?iA@qC@wD@yDHma@@y@?cAFs\\FmQ?kB@kB@{HHma@FuV?sABqL@eADmR@iA?S?e@?U?aB@{B?sBBkABcABu@Bk@Dm@De@Dc@Dg@Hs@J{@LaAP_AV{APs@T_APq@HWJ_@Vw@To@Ri@L[L[Xq@Xm@Zu@v@iBVk@r@cB\\u@Pe@N[J[Tq@Vy@Nk@Ha@VkAHc@Jk@TsBN_BDw@Bm@B}A?sA?k@Am@Cm@EiAGoAGmAUsFIoACs@Cw@Cy@Ay@Ag@A[?eA?aA?k@@k@?e@B}@D}CBcCFeDJiI?w@?e@A_@Aa@Ag@Cg@Cc@McBMwAGq@[sDU}BKqAKoAC]AUCk@AYA]Am@?u@?m@@i@@[@_@Bc@Dc@B_@Dc@DWBYFc@F_@Jm@Nu@TkAnAmGr@iDnB}JZ{APaAPw@Nu@H]H]Nk@Lc@HSRi@Re@L[Rc@JSxAqCLUVe@j@kALWRe@JWJWTq@Nc@J[J]R{@TeAN{@TqAJaAH_AF{@@c@NkDV_I@q@JmCH{BDmBDsC@gABwD?k@EwGQgLGqDUcNCi@?CCu@K_BMiBIcAQeBQ}AIc@QmA[kBSaAMi@a@mBYcA_@wA]kAY}@Sm@[w@e@qAWq@u@sBM[s@qBk@cBo@eBiEcLaAkCgAaDeAwCuA_EsAmDqAqDg@wAq@mB}@gCYu@Wy@Mc@Uu@YeAS}@U}@Os@Im@c@cC_@eCUqBOyAI_AIcAEw@GyACq@As@CeAAq@?q@?kDBsB?}B@eHEkNCaH?QDsCD{BDoBDwANuDHwAVoDLcBj@iGp@{Hd@}EfBeRd@aFPcCLyBFeBDgA@aBAmBCyAKgBMiBKkAQ_BEWAOCGKs@[yAi@gCkA{EoBcHK]KY?CIWY{@Y{@sCeJY_AAC]cAq@_CMa@e@_B[cAYcAgFuPi@eB{C_KgEcNi@cBMg@IUcAaDyCaKu@{B[eA_@oAUs@Wy@W{@m@qBa@qAWy@Ka@Qs@Q}@Oy@Ow@M_AI}@I}@I}@E}@E_AC}@?mAC{EGeLEeLCmGCkEC{EImRImRAyAAwAAoB?qBG{LAsG?cBBwHLuSBuH@wC@eB?eBC}AAkAG}AImBK_BIaAIgAO_BOoASwAQiAQeAWoAUeAS_A[oAg@iBi@cB_AsCeB_FmAoDkCsHs@sBs@uByAuESo@U{@Qo@a@iBKo@O}@U{AMaAIaAG{@G_AE{@EyAAcAAwA?eBA}MA}M?cPAaF?_D?_DAwO?uOAyBAeTAqJAmC@eFAqHAyC?wKEqV?eT?iE?g@AgCDqEJsDPsCHeAH_AP}AFi@Fm@Fc@Hc@Fa@Hi@ReAr@oDRw@\\sAn@yBVw@b@qAPc@Xq@BGb@aAz@iBn@sAfAyBfCgFpAmCfH_OfA}Bx@cBxA{C~@oBt@}Ax@eBvEsJnDoH@EvCeGlBaEp@uA|@kB`DyGtBkEdFmKl@qAp@uAHMj@oA|@iBl@qAj@kAhA_ChAeCbA_Cz@uBTq@f@sAd@uAb@sATw@`@uAr@kCl@sC^mBX{APcAZuBV}AZeCXoCNiBFy@HkADm@Do@HyAHcBDgADgB@w@?S@[@{@?u@FcJ?cB@}E@kC?mB@cB?G?A?GAc@?K?A?E?oABuW?mA@wIBq`@?oB?wD@qD?q@?_B@uF?{E?i@?cA@wH@uL?WFsq@@aO@mF?wD?sB?qDDiY?cF@oD?yF?]EYBwS?c@?Y?mB?]?A?E?K?K?k@?M?M@_@?K?W?Q?Y?sB?}F?iA@wGBmR?oA?yI@oJ@eH?{IMuOOiRAw@?UAaBIqHGkHCoCCqEAwAAeA?u@@s@?W@[F{CHeBHyAPuBNaBTqBF_@F_@jAcJ`BoMTeB`@eDR{BR}BVmERcH@qABkA?gBCcEC_DOqSAoCAkAAi@?u@CwC?iAAy@Aw@AeBEoCCeAIkCMcCKuBGwAIyAEaACw@As@Ak@AaAAi@?s@?qA@w@@u@B}@NyHD{C@wA?kAAyBM_SAiAImLEsGC}BGwGEiGIoKEoF_@oi@AgDEmIAQCsDEeEAm@Co@As@Es@a@eJIyBE}@EaAAk@Aw@?CAm@@}@@mA@kAFuBHuF@cBBuB@yBCkGCwAA_BCwDCyDCcB?q@CgCCoCCwC?kACeBA}AAeAIyCEaAEiAGmAKuBQgDE_BCgAAm@?K?I?c@?E?CA_@@cBB_BJcFBqA@yB@i@ByDE{KCoBGmJImJ_@_j@g@us@QgWCwB?q@Am@Cw@?YI}BCo@GaBA]Cu@Ag@Eu@G}ACo@SeFSkECm@AYAa@AUAU?SEmAA_@AQCeAAU?UCuA?e@A_@?M?_@Ae@?aA?u@?k@@c@?_B@s@@aADcCDiBJuDFqDFsBBeD@eE?WKwQ?[G}HQ{VMgR?cAIoGA]CaBCg@EiAA]GmAGkAQsDE}@Cy@Cy@A}@As@AcA@{B?GBwBBgADqBD_B@}@@_@@}A@_B?[?cCAsAMwQ?OQsWCwCCeDAsC?}D@wE?}@@A?sAPuS@{BDwB@gABgA@m@@g@B}@DyADcBDyAHwDL{FLmFDaCBgABi@@aABu@@s@Ba@@_@Dg@Bo@B[BYD[Fk@Hm@Fi@f@sChAqEPs@?Ct@eDb@iCTkBNwAX_EP{BLgBj@mHHkABy@DaA@i@AeB?WAa@EiF?Y?C?U@W@UDq@TgCJwA@W?A@?PeCV}C@M?A@KLgBHuAJaBZgHDeAxAq\\@e@DcBDcB?M?S?W?k@AcBAw@E{BGuCIeCGqCEcBEaBE}BKgL?iB?w@?sA@{ABqADeABi@NiCF}@V}CDm@?ED_@JqATiDVgDRmCNiB@SPuBBc@?A@K?E@?Dm@Di@?ABY?ADm@BYBg@JiAHuARmCLuAN{Bd@cGFoABk@B_A@a@?o@AeAAaAI}BM_FGaBEcBKuCWgIk@yQMcCUeGCc@A_@Cm@?o@A]?[?cA?w@By@Bs@Dw@HcAN_CXwDFwAFeBD}A@}@B]?I?S@mB?eAAgE?kJAyBAsC?gBMiHEeACeAIgCUoEIuAa@uEOoBKy@?ACY?AAA?AMmA}D{XUcBM{@QgBYsBIc@g@mDa@wCKgAAIAKM_BGiAEu@Co@Cm@?KAgA?_@?U?q@Cyc@?y@?C?c@?aBAkV?qG?]?u@?w@?kH?kH?_J@kR?}I?yG?W?w@?q]?u@BcP?oA?oAB{VAyQAeH?A?eA?aB?uC?oAAqB?aA@kA?m@?q@@g@@_@@k@Bg@Dq@Do@Ba@Dc@Fk@D_@D]DUBKHm@Ny@Jc@Py@Lg@H[J_@HWHYNa@Vq@FQTi@@C@C`@}@h@kAdFcKx@aBLW\\s@z@oBJWTm@v@wBh@qBZwAHe@Ls@RyARqBHuAJcBBiA?A@{DAuR?mB?G?i@?cACyA@sDEsI?_B?E?U?wB?oA?eA?u@@s@@o@?CBq@Bo@Bg@Bo@Dy@Dg@Fw@Dc@Fk@NiAL}@D]FYHe@XsAJo@Lg@Ja@Le@BMZgAJ_@Xu@Vu@d@qAh@qADM`@eA`@aAz@wBp@eBp@eBxAuD\\}@rCkHvCmHl@yA@C@A?A^aAhAqCp@}ABEBEr@uAj@_ApAsBd@o@DE?An@w@jBmBz@y@b@_@p@g@pDgCj@a@VS^UBC@?h@a@lAaAnDmCzBaBx@k@`Ai@`Ai@@?@AbAi@h@Ul@W~By@lC}@lEwAxAg@XIlAa@ZKZKlAa@|HgCj@Q`Aa@NGDA`@ShAo@hAs@`As@~AqATWDENOhAoA|AsBJMFKb@u@z@}A\\q@\\o@rAwCxAiDv@uBh@uAbAaDt@eCLe@^sAd@oBj@eCVmAb@}Bh@yCN}@Ji@Lu@PcATmAv@oEZ_BRcALo@f@{Bt@{CFUDK|@{Cp@uB`@iAl@kBn@mBlAgDHUr@wBx@iCr@cChAeEv@uC^mAf@{Al@}Ad@iAn@}A|@wBFORi@Vu@Nk@Nq@P{@Jo@Ju@JiAPqBNqBNcB`@oFBSBUDk@@SDw@ReCRkCBYFg@Hu@BOLs@Lo@FYH]H[J[Ni@BGJW\\gARg@j@_B^kATq@Ne@f@gBT}@F[H_@Jk@r@gEFa@Ha@Jq@PuAJq@NyApAkK\\wCHm@h@oENsAFc@Fi@DYH_@DWPaANm@Pq@H_@DKXaA^cA\\{@\\y@^u@BIh@aA\\o@N[|@_B?AjDoGdAmBp@oAr@qAz@aBrBwD\\m@h@gAHMf@aAbFkJr@sA`AeBTe@@CJQBEN_@Vk@`@aA\\_AVw@^qAn@qCJo@?ALw@L_AJs@@WLqAFgADaAD{A?eBCgECaD@sADwBBm@Du@F{@Fq@Fm@NmAL}@LgANiALeANaAJy@J}@Jw@LcAPqANkAL_A?CNkA?CTgBNqALcANcAPuAR}AR{ANoANmAR_BNoAR}ATcBPuA\\oCPyAFc@Lw@L_ALw@XsA?C`@}ADMRu@Tq@`@gAVm@Pa@Xm@d@_Ab@u@f@y@n@{@r@}@x@_Al@k@v@s@v@o@zAcAp@a@n@[vAq@fAe@xAq@r@[tM_GnB_ADABCnBw@rCmArFeCrAm@DAbAc@NGbAe@nAk@pD_BdBy@j@Y~A{@lBiA`BcAh@[`Ak@nQyKBAHGbDqB|IoFdAm@fBiAVOfAq@|@i@r@c@j@_@p@a@h@YtDsBdB{@jB{@fCgA~IkDbCaA`@QlAe@|B}@jAe@rAk@hBs@bBs@vAo@NI|BuAzAeA`Aw@lAgAhAiA`AcAl@u@x@eAp@aA|@yAv@uAXm@HO\\s@Zu@j@{Af@sAt@}Bz@iC^eA`@cAj@mAXm@Tc@PY\\k@f@w@\\i@V]^g@PSp@{@v@aA`AiA|@gARWTWvBkCv@_AjAwAl@w@j@w@Ta@^k@Xc@R]Te@R]Tg@^u@f@kA`@cAv@sBv@sBVu@f@oAp@iB^cALYL[b@}@l@oA`@q@|@yAh@u@r@_Ad@k@fAmA~@cAx@{@d@i@d@k@NQX]lAeBNUNUFKtHqMJSvBuDv@sAj@cAf@{@hAoBj@cAl@eAj@aAf@{@lAwB`@q@d@w@\\m@Zk@Zi@r@mAz@{Ah@_Ab@w@`@s@Zg@Xi@`EqGnAoBzBoD|FcJdCuDHMv@iArAwB`A{ArAuB|AcCtBcDlBwCFILQLONUV_@h@q@~@mAPS@Ch@k@f@k@Z]VW`B_Bj@k@v@s@bA{@dBuA\\WDEt@k@tAeAf@c@fHuFt@o@ZWn@e@rAcAbA{@vJyHpBaBz@w@b@c@d@g@Z]r@y@p@{@p@aAh@y@nB{Cz@wAtGsK`A}Ad@u@h@{@f@y@LSTa@Xg@Zo@DEd@iAd@oA\\iAbAaDPm@Rk@La@Xu@Vq@b@gA@ADIBI^s@h@_A`@o@DG?AZa@h@s@Z_@@ATUX]~@cAx@}@j@o@z@_At@_Ab@o@h@{@Zg@P_@Zo@Xq@^_A\\gATy@j@}BRcAD[\\wCHaADqABi@BqA?gA?u@?aA?w@?mB@qC?{BAwBC_BEuBCkBEwAGqCEyBCsAEwBGwBAyACwAA}A?oA?{@?cA@}A?c@?u@?A@s@FwMDeIDeFDeHBuF@qD@mB?eA@_BHoQBeC@kB@}@BsCBmEBwCB{B@mAB}A@u@@s@@aADcCJwILsKHuFj@w`@^oYFkEDeDFyCBgCHkGF{DDqCB_CJuGF}EDkCB_BDiAHkBBo@Dk@Do@De@De@Dk@Hw@Fu@JiALuABYH{@jCwYHeA@EHw@LyAB_@B_@Dg@Dk@@S@W@Q?S@W@Y@]?O?O?Q@S?[?W?a@?aA?g@?gAAoA?{B@mAAmEAsL?}FAwC?{@?{@@eG@iC@uA@_CB{@@yH?E?wHAyF?_D?wEAuC?aA?q@?}F?qD?yB?yE?u@?gA?qNA_H?uZ?cEAyJ?}B?_EA{W?aAAy@AgX?}BG{DEqA?IK}CIqAGkASyCI_AO_BGg@Gk@KaAQ{A]cCYsB[_CUaBYcBYmAMg@_@sAa@sAe@uA[}@a@kAQm@YcAQw@Sy@Kk@Ie@OiAMoAEg@[sD]aEWoCKcAG]AIYsB_@}BS{AMu@u@aFg@gD]{Bw@kFIc@[sBc@yCc@wCy@kFuAaJMcAUsASqAIg@QoAIo@ACQaBIq@OuACa@SyBGeAEm@IsAEcACy@C{AA_B?aBB{BBwAFyBBmA@s@@{@@]JoFJcDJuAFk@B_@Jq@Fg@NgAN{@Nq@Lm@Nk@J]HWJ_@Pi@Ts@N_@Re@l@sAVi@Ta@P[^k@PYFKXc@~BcD`DqEpCyD~BeDxAsBbBaCxAqBjD}Et@eA|@sAVe@j@_Al@gAP[NYTe@b@aAL[N[\\u@d@mARk@Tm@Vu@f@aBZcA\\iAZ}@jCqIvAuEXeAT{@DSVgAP{@N{@Ly@N_AJq@Fe@P}A@O@ODc@BWB_@B]De@Dw@Ba@@a@@[@c@Bg@?W@M?Q?a@@M?O?cA?KAgD@aFAiE?wE?aG?{D?iF?yj@@eBAqZ?Y?a@?y@?uK?gI?u@AgBA}@As@Ci@Ac@Q}CG{@]}DWuCQyBOaBW{C]wDUoCOgBScC]wDm@iHWkDKkBK_BIaBI{BSaGEwAGeCE}AG}BCu@UkHM}EK{DIaCE_BE}AI{CGcBIqBQgBGq@S{Ac@eCG[cA{DiA}DcAoDu@qCQi@g@gBw@qCo@_C}@_Da@eBUmAQmAMyACc@Es@E}A@wADgBD}@JqAZgDbAsKh@yFl@mG^{Db@{En@yGx@yI\\{D^yD^wD^_EJoAd@wE\\uDb@yEZ_Db@yEX_DFcAHwAFeBHkDBiA?yAAeEKkDIeBKeBQaCSiBSiBUcBUqAg@qCo@cDy@_E{@gEk@sC}@qE]eBq@iDm@}C}@iEMo@SkAWgBKmAEeAAc@Au@?wA?A?G?QDeADg@Dm@JeA?Af@cF^uD`@_E^mDB[d@mEPkBb@cEd@qEVkCd@wETmC@OT{DHmCBmABwB?yCCeCGcDCe@?QMyCGuBKeDGsCE_CAkE?qBBuC@_@DcCN{FT_KBk@@c@DoBH{CB{@L{EJ{EJaELeFHwCHyC@u@P_HDsB@e@BcA@gA?{@?sAAaAAyAEaBC{@EcAIyAEw@McBIcAWwCK_A?EIw@[}D_@qDc@yEi@{Fw@oIKwAACM{BI{A?OCi@GmCCmCA}ABqCDaCLiDHaBT{CLcB`@cDr@gE^sB`@wBx@eD^uA`@wAd@sArB{F\\aAPo@|@wBNa@rByFhA{Cn@mB^kARw@`@iBRcAR{A`@}Cr@_GtBgQnBaPbAyIX_Cx@{G\\kCVyBXeC\\iCR}A`ByMJeAFq@hAiJ`AeIRaBP{AxHko@pLyaA`@iDlA_K|AkMdBwN`BeNzBaR^yCj@uEJy@LkArByP^_DdAoIz@oHrAuK`AkIJiAPyBJ}AFaAJuCF{C@eB@yA@sL?sF?iK@yC?cFB_CB}AHeB@SN}BN_BHy@LaARyAV{AP{@`@sBd@sBZwAp@_Dv@mDh@cCnJcc@ZsATy@l@uB`@oAl@cBd@oAd@cAn@wAf@iA\\s@vA_DtKwUj@mA~@mB`AgBh@{@bA_BbAwA|@gA`AmAb@g@fAuAz@gAh@q@jl@kt@tOuR~DcFbBsBhCcDbBwBjCcDhDgEhByBzAmBdHwIj@s@n@y@~BuCnBaCbC}C`CyCnEsFrDsEfC}C`CyCxAkB`AmAT]|}@keBbAwBnB{DfBoDxAyC|@gBxAuCjAaCvXmj@~AcDZm@^u@hD}Gz@gBx@aBjBuD|@kBBCf@eAlE{IfCeFbCaFdAwB~A_DP]rDoH`c@{{@tDsHfD{GfOmZdVgf@lE{IdHoNbM{VZo@~ByE~A}C`BiDpAiCbAsBhA{B`AqBLUP]Ra@|ImQn@qAn@mAr@qA^q@T]LWnCiEhFqH`@m@p@}@|A}BzD{FfIqLl@}@RWzAyBjEoG`BeChAcBrBiD|@}AdAqBnAaCpAkCrBgEDIj@iAtDqHdA{BLYLYVm@d@oAVu@b@mA^iAlBgGr@qBj@wAh@oAb@}@f@eAbAiB`AaB|@sAh@y@`AoArBmCNS|AwBd@u@v@kAjAwBt@yA`BeD~GcNdDuGv@aBrBaExAwC~A_D|GeNzFeLfD{GfD{GvEkJhCgFv@_Bp@sAVg@nAgC~AaD`AmB~CkGb@}@\\q@\\q@\\s@fAwBlByDv@_BVi@NYzAyCpDiH`C}Ex@_BJU`AoB`HgNrGoMhFkKxCcGfBmDpB_E|@gB~@kBnJkRhEuInCoFzBsE~Zan@R_@f@eAvCeGbBuDh@qAt@mBt@oBl@}Az@mC^iAl@oBTy@No@T}@t@kDZyAr@oDt@sDhAqFr@kDtA_H~@oExAiHd@cC^qBRqAReBL_AJaADg@RoBPsBJiANyAJ_ANiAh@oD\\eB?CJc@?CJa@Le@Pu@Ru@Po@X_ARo@|@iCb@mAd@sArA{DRw@Rk@VaARw@H]XsAZyAfAqFrCiNhDqPn@}Cr@aDf@wB\\sAv@uC`AcD|@}CjAwDtAuE~AoFvAwElAaEnAcEnAgEv@kCBIb@aBZkAH[Fa@FWLw@NiAFg@LoALgBJsANsBBi@Dc@F{@Fc@B[R{ATqARgAb@eBT{@z@cCVk@Zu@Vk@HMj@eA\\m@z@qAb@i@b@k@`@e@p@y@z@eAbAqAd@i@r@}@j@w@f@u@p@kAn@eA~@mB\\w@Xq@r@gBv@oBbAkChAoC~@_Cv@qBzAuD`@eAp@aBp@cBr@iBf@oAj@yAj@uAXq@h@yAd@sA\\cAZcAZcAZiAZqAZuAXsARkATkAPiAPkALeAJy@Hu@LmAL}ALoBFw@DiAHqBFcE@}@?cA?k@?w@CwAIkDIuBUkDW{C]aDIq@K{@a@iDQ{AK_AMiAIw@KkAIkACq@Aq@Ai@Ac@?[A[@a@?e@@_@@s@@c@H{BLkDNsEF{ALaDD{AFyAF_BFaBD_BH{BF{AFaBLwDJaCHyBF}BF_BF}ADeA@WB_AHuBDaAB_ABe@Bs@Dy@F_AFy@JcAJq@Jw@PcADUJi@Nk@T_Ab@yAVu@Na@Na@d@gAj@kAJSj@aAV_@p@aAf@q@d@i@l@o@TUj@i@x@w@v@u@NM|NcNt@q@PSrAsAJKxBcCf@k@TYd@k@t@_A\\e@\\e@t@eApAmBf@u@PWp@eArBeDdAaBbA_Bx@oAl@}@f@y@\\a@TYv@aAx@aAj@m@r@q@nBoBhAeAbBaBn@m@dAcAnDmDzIwIbA_AHKt@w@j@q@tAuAh@i@d@i@X]JMZa@V]^g@d@s@PU`@s@Xg@Xi@`AsB^w@Xs@BGTk@h@}ANg@Ng@Le@f@iBFWJg@FYZcBJk@NcAPwAH_ADa@BYFy@J_BDwA@e@@U?O@u@@aC?}C?eJ?kM?wG?oA?kD?wD?_B?iB?oD@oD?I?i@?sCA}H@{A?_@@sAFqBF_ABc@F{@B]B_@B[J_ADa@L{@T{AJo@Jc@N{@nAgGzB{Kt@uDt@qD|@oEj@qCz@cE`A{El@uCh@kCj@mCj@oCxC{NhDwPN{@Py@j@qCnFoXfAsF~DiSZwA\\yAn@qCZwAn@qC\\wAjBaI`@iBp@uCn@sCxAiGPs@p@wCZwAVuAH_@N}@ZsBVwBLgAZsCP}APaBj@kFh@qEZyCfH{o@r@wGdAoJhDoZJcANuAN{ANsAJ}@PeBDm@Dk@H}AF}ABiA@mA?eAA_AC{AE_BE}@I{AKyA[uEkAqPKwAQ}BQ{BO_CSwCQaCSyCSyCKwAMcBG_AM}ASqCS{CUyCQuCIeBI}AE{AE_BEyAC_BAaBAuB?cCB_DFwDF_CL}DJ{CRyGLaFXoIHaDJ_ERuGLwCBe@Dw@F_ARuBNgBPwALcATsALy@He@Jg@b@gBv@yCXaA`@sAPg@^eAh@qAf@mAr@cBt@iBbAeCvBsF|BwFZw@Zs@r@gBrCeHfAmCzBmFf@qAp@kBb@kAL_@Rs@`@yAR}@Lm@Nq@Lq@Nu@N}@V{A\\yBd@mCl@wDrAkIbCmOdAiGbBcK`@gCvAyIj@eDZsB\\oBF]XiBz@eF^wBNaAvBgMZoBXaBb@qCXmBNaAb@sCZuB\\{BVoBPqAn@wENiA|AiLb@}Cf@qD^qCd@mDf@sDlAaJ\\iCp@cFDa@bAoHZyBXqBX{Bf@uDbAuHZyB`@{Cn@uE^uCTaBr@oFTyA^uCZ{B`@_D^qCTeBNsADg@Fs@F_ADs@Bg@@]B_A@}@@wA?cAE}CG}CC}AG_DE_DIqDG}DGyDGwBKmGk@}[MuHGeEEwAIwFCcBAy@Ac@?mA?m@@{@@kADoA@WDeADaADm@HeAJsAPaBPqBXuCVaCH_AJaAfAcLXwCrCaZX{CdAkKlAkM|A}On@yGZiDfDi]h@{FJeAVeC\\mD`@mENwARsBPkBVcCb@uEhI_{@l@eGT}Bj@}FXaDl@wGZ_DVcCVsCT{B|@aJ~@mJJoA@MN{Ap@yGXwCN_B|ByUVqCh@mFFi@JkA`@eEdAuK~Hay@bBkQb@gETkCb@mEJeAReCHoAHgAHyAN{CHgBFgCH_CR_ITkIVaJLeEH}CHkDVyIBsAFgBDcBBeAh@sRT}HRwHNaGf@oQPwF~@q]fAw`@hAua@`Bmm@fDonAl@_Tr@sWRoHTiINmFPiGFmBFaCB}@D_ADuB@mADwB@iA?eB@eF?mK?mA?uD@sI?sD?s@?_I@oG?uB@eHBmr@@e[?iKBgd@DidAB}o@@iDBmk@@wO?mEB}e@?qGBwf@@}K?wI?qAAiDA_BAmCOeJKkDOaFO_EGoAKwBGcAOiCUkDKyAOuBIaAWaDOgBiBoS}@yJ{AyPo@oHOcB[sDg@kF_CwWgBgSmCyZmBaT}@mKWqCWqDGkAUoEg@gPAe@Y_JOmEEuA{@_Yu@gUMgDyC{`ACs@m@_S?Ai@{PIsBCeAGuBGgBs@cU_Bwg@k@iQY_KcCuv@g@wO[qKwE{{AgAs]oBao@wBsr@QeFWyFMuBU{C[sDYqCa@cDu@mFwByOa@oCg@qDYqB{@gG{AwKKw@ES?CKw@wCcTSsAeDaV_@oC_@eCoAeJoLwz@cDuU{F_b@yJis@}DkYeAwHgBeM_Fi^aNoaAiFw_@q@uEcCiQyFsa@qPamAyEe]oA_Jo@wEkF{_@G]Gg@o@qE{@eGUgBI}@UcCOiC[mIS{DOuBKeAKcAGm@[aCc@}CYwB[yBqB{NWeBUcBIe@Gk@o@oEQoAIk@UgBYmBMaAc@}Cm@qEq@yEyAkKu@qFWiBiAiIw@}FwBuOiCcRaBwLaA}Gm@uEm@iEaAaH_BoLy@_GcAmHg@qDy@{Fw@aG]qCMgASsCG}@EaAA]G}BAYCeB?w@AiCA_D?_AC{ICmMAqEAeAAuFAcEGyS?i@?K?_@Au@?eBA_BAaC?yB?}@?e@CgFKqe@Ks^CcH?cC?_C?wCB_BHkEHaDH}ATwEf@uHv@oLPsCXgEf@yH~AgV\\{EPcCpB}Zv@gLN_C^uFVyD^yFb@{GZ{ED_@f@}HF{@fAmP^wFJ_BN{BRyCN{BJ}AB]X}DjAiQnBqZpCab@LiBJ_BVwDtCmc@Fq@F{@F}@F}@Z{EF}@V{Dn@uJV{Dt@uKb@{GZyEBa@JyAD_@B_@Fq@BSBSD_@D]NiAPoAF]F]F]lDsQtFcYVoAlIsb@hK}h@dDuP\\iBxG}\\pAsG`A_FhAaGvAiHv@cE\\eB`AcFhAaGx@cEh@oC`@wBlAoGvAkHvAoHxAyH|@wEXwA`@qBPaAj@oCpBcK~DoSxAkHvAgH~AgIn@eDLk@\\eBd@gC^kBTgAbAkFZ}AJc@n@iDXsAH_@P{@b@eBp@qCPo@^yAf@sBZuAH[FY\\cBVoAnAqG|BkLxAkHdAsFdAkFn@{CdAmFdAoFfAqFjC}MnAkGb@}BvAgHrA}Gr@qDxG_]hBaJxAqHp@kDbEsS~C}OfEkT`CsL`@oBf@mCVqAbC}L`Jid@~BuL^iBjC{MfCkMnE_UrDaRt@{Dp@aDZcBr@mDf@cC~BsLlAcG`K{g@jC}MnDqQ|FyYb@{BvAeH~AgI~@sElFcXhEgTpCqNzHk`@`BkIfAmFj@yCf@gCR}@\\kBbAeFp@cDz@mE`DePt@oDX{Al@wC^mBr@oDj@yCRcATsAb@kCfAyGxA}IdBuKb@mCZkBXkBdBkKb@wChEyWLs@hBeLlBkLj@oDvGma@xCaRbAoGReAR_ATcAd@gB\\kADKZaA^cAl@yAh@kAl@mAj@cA`A_BbAsA~@mAnBaCd@m@b@i@b@k@b@o@p@gA^m@Xi@t@wAp@{A`AeC`@iAV{@Tw@p@mCd@{Bl@sDv@_FvBsMbAsGr@gEn@yDdHkc@|BkNnA{Hp@eEx@aFTuAHm@tPqdAdFc[pAgIf@wC\\mBnDoQ~CwOxDqRv@}Dz@kEhJce@fd@i|Bj@sCh@sCz@{ETsAhDcUBQ`DcTVmBBMFq@NmAPiBZcEPoCP{DB_AHoD@kC@kH?}S@qJ?oC?yX?{N@wF?{F?}E?{C?{H@gX?cP?}E@}D?{I?{N@wI?uM?{E?mGBin@?iL?uD?wO?aD?yAEeDEwAK{CIaBI{BOwCI{B]oHMkDkD_y@WeGScHE}BGcCA}@C}@I_IMgK?G?EYiWAw@oB_kBQgPIcIcBa_BE_EG}EIwHKwJO}M_@{]I_HC}CEqDMwKA_BCsFAwG?{CEww@AqNAgK?iJAoNAsNAmS?}EAaJAcQA_EAca@A{H?cOAkMAqG?mD?sEAwC?uFAsJ?eKAkH?}D?wEA{E?}D?_@?wCA_B?cC?uB@aA@e@BqA?_@D_ADw@Dw@Dm@Fw@H{@J{@Hu@f@cEXuBJ}@LgAPgBL}AJaBHwAD_AD}@B_ABw@BuA@_B?e@?aA?uCA}AC_FAqFEwHEwL?aAAw@EkNGaQGqPA{BCwD?oBCyFSqi@A{CA}AC_KUgp@AwAAyDCiGCqGCeEA{B@}@?aBBaBBy@HeCLwBJyAL{AN{AH{@J}@L_ALw@L{@F[Fc@X{AXwAp@oDj@wC`@wB^sBN}@RwAL_AJ_AJ{@LyANoBFcAFkADm@Bm@@UFuBBiC@uF?cM@mK?_E?kH?{C@gH?uB?eC?cF?gD?mB@iB?yW?sJ@{SB{m@?}C?_D?gG@mK?kA?kO@{G?{A?{B?iC?yD@eD?sE?mC?uF@aK?{@?cG?cA?_B?}A?{A?}A@_C?}B?_C?}A?{A?}@?_C?sA@oF?kN?_E@uO?wJ?aC@wM@wE?_@?wP@uS@uR?yG?[Beh@?cB?yB?_C?_C?_BAm@AmBCaBAiA[cSa@mWCcBKuGEcCCuEAuFAeC?cA?aAAeDAaG?kD?aBA_A?}@?Y?{BAqB?sBAgK?oAAqA?uCAwFAwI?q@CyW?iA?iAAeHA{IAkD?eAAwAAmHQ{\\EmKKiTAgAAeAGyMEuFAcCKgTAaDEwH_@st@AwCIwMEyI?gC@uA@iAB_ALkDJeBPeC^qDVyBp@qEh@iDzB_OfBiLPsAXmBVkBTwANcAj@{Dl@yDp@mEJq@Js@z@oFFa@p@kEbAeHh@oEZ_DNwA\\oEHwA\\sFNoEFgB?C@e@B_ADmCD{D@oCAwBCiDGcE?a@GiCImBQoDKeBGeAM_BOmBQ_CSmBKcAi@oES}AWkB[qBIg@QcAg@oCe@eC{A{HYuA_@mBQ}@oKij@}CcPm@wCwA{H_@iBeGk[yCsOSgAkAyF[iBO}@_@kBiBoJy@iEWuAi@oCm@}CqAwGeAsFeDyPc@_CcAqFy@iEw@aEe@yB}@yEGYy@iEs@sDw@aEc@uBWsAi@sC[cB_@mByH{`@sAcHaAaFqA}Gw@aEiAaGgAyFaBsIsBqKe@aC[aBUoAOq@aEeTQy@CSWmAeB_JIg@y@mEeCiMa@qBoIoc@gBoJ}@{E{@cFwAaJCMuAmKWqBmA_KwAgL{@iHo@kF{C{VgEo]q@yFWmB[uBO{@Oy@]aB_@}AUaAW_AYeA[cAY}@_@iA{@wBWo@Wk@_@{@a@y@w@_Bi@aAkAoBu@iAiA_BoA_B]e@q@w@gAkAg@g@o@k@Y[YWm@g@oAcAeE}CqCsBIGgA}@u@s@YYSSsA{ASWQUc@m@w@gAw@oAi@aAYk@c@_AYq@eAaC{FoN}ByFWs@_@_A_@gA]mAa@}AQs@{@oEIi@EYCYKw@OaBGw@Ec@A]Ci@IcBCeAA_BAgBQySCsDAcBAcBGkIMgQA}C@}C@_DD}BDcCFyBFeBHcBHmBF}AHgBHwBHeBF_BP_EHcBnD{z@NsDXeKDkD?cA?K?oD?qBImHE_BKuCQiEKoBIoAMuBM}Ag@uGe@_GsAoQKqAi@gHa@cFc@_G_A}L_C{Zg@yGw@gKeAkNy@kKuAaRs@eJu@{JeAkNaAcMaJilAGu@IuA_AuLcC_\\[}D]wEa@eFqAiQm@sHu@}Jm@_IiMmcBQwBKyAsAcQQgC]kECa@QwBgAyN{@eLGm@mAgPYsD_AgMM{AkAaP{AyRSmCw@eKEs@k@mHGs@AO?GMyAiH_aAOeB{A_TQgC]aGAOWqEsCmh@QyC_@aHqAwUwMebCMaCIoAIyAM{Bc@wGOkBSsCIw@KoAEq@S}BUeCQeBQiBUyBMoAUcCU_CYwCc@oEg@eFc@oEi@mFwEef@E]c@iEUaCQcBUcCIs@s@oHg@gF]_D_@sDOeBeBsQYsCMsAIu@UyBQeBO}ASiBq@eHWeCSyBQ}AS_CGi@WiCMaB[cDUoCIcAUoCKmAGw@McBKgAQgCOiBMiBIkAEu@MeBKqAG}@UkDMoBQwCOcCGmAKiBQeDK{BQwDEy@GkAIgBGmAE}@KuBIkBEqAEoACs@GgBEwAEiAIcCGgBGoB]kNEwBCcAEwBEoCEqBE}BAsAEsCCkBC{CCeCAi@AeBAwBCcCAqDA_A?uBA}A?oCCiD?eB?cC@kCBqD@gC@qA@_B@}CD}H@mA@sA@ADkE@uAFoDHmEBeAB}AD{AD{BFsCD}AD}ADkAJkDNsEVcIFiBHuBBeAPmEJ{CJcCFcBF{AHkBHoBF}ADeADo@HwAH}@J_BJiAFq@JiAD]B[NmABWNoAFc@Fe@Js@Jo@NiALq@Ls@\\iBLk@ZcB\\aBXoA\\_BJc@J_@Jc@Ja@J_@Ni@H[HWFSRq@Rm@L_@La@Na@b@oA`@mA\\_AVo@`@gA`@eALYRe@n@uAp@yA^u@j@kA~@mBh@cAv@yA^q@hBmDjBqDzAuCZo@lA_Ct@sAr@sAp@sALUz@_BZo@^q@Xm@b@{@`@}@LYn@uA`@aAl@wAn@}Af@uAl@aBPc@d@sAl@mB^gA\\gALe@Rq@XgATu@Ps@`@_BNi@T_APs@Pw@Ns@R}@RcATgAToAj@eDZoBVcB\\_CXeC^eDTcCNcBJsANwBBg@Dm@LuAFgADw@D{@TaE^cGLyBHuAJeBPuCPmCP{CJ_BJ}AFkAF_ADs@HuAPwCLeBHuABa@HsAPuCT{D?C?CF_A\\sFFiAdAeQRaDVeEN_CNeCl@wJRwD|@gOB]pCee@`AePn@_KpAsTd@uH`BwXp@yKr@uLj@gJb@uH^aG^yGTcEXcEp@eLjCcc@FcAfA{Q~G{iAl@cKhJc}AdAyP`A}OdAuP~D{p@lAcS~HarAlImuAhAeRtA_UZoFt@yLrEev@b@{Gt@qLnHgmArDsm@xAmVdFez@VcEXkE^gFVsD\\oEp@mIx@gK|@mLrCa^`BySdJ}jAlBoVtHo`A|ByYH_AtBaX^}ER}BxCq_@\\wDh@uGT}CRcCToCPiCXoD~@oLVuCRoCPwBReCRaCRaCRgCPeCV{CToCZcEReCRkCPwBv@uJRgCfAkNRaCXoDRaCVaDT_DTmCV}CVcDVeDNuBTsCTkCReCPyBP_CTwCt@_Jf@uGf@kGFk@\\iEp@_J\\gEXaDXwDZeELsATwC|AsR^cFf@oGb@eFVoDVwCLeBLmAn@sId@_G\\eEPyBvDcf@^wE|@yKx@iK`@aFnA{O|AuRh@aHh@qG`@oFb@sFj@eHb@oFb@sFPyBdAmMj@kHz@uKXqD~@kL~@sLn@_In@}H|A{Rr@wIv@}JJyA\\aEJkArAsPv@eJrA_Q\\gENeBLkBb@kFt@mJhAmNd@cGr@yIfA}Mb@eGf@gGD_@HaAVgD\\cEd@wF\\mEVwCNiBBc@LyAXuDXiDV_DTsCNuBPyBN{AVcDPoBJuABQ^_F`BsSpAkPfAaNt@cJtByWxAoQrHu_ArAoPxByXr@sInAaPlDmc@bRs~BrA{PhCe[nFaq@HaAHcApAgPl@qH@M^{EjNgeBLeBNeBjBsUXgDxDaf@b@gFz@aKtOgnBtAgQvRibC~MmbBrLmyAnIqdAnIudAhD_b@hH_}@v@aJpDed@x@{JFw@~@iLhAqNb@iFPcCRaCd@eF\\mERcC^eFpAeOj@sHVoC?IBKBa@tC_^PwBHaANcBTyCV{CTuCXmDPsBNaBJmABYBQBQPsBRkCPcC`@gFZuDXkDRiCR_CLaBRcCJoAh@wGJkAFy@|A{QL_BLyARwBRmCXcDp@uIj@aHd@{F\\_E`@gFv@eJp@oIlA_Oh@yGZqDNcBFo@F{@bD{`@h@uGfA{Mr@yIfBoT?ARcCZoDLeBn@sHn@{H`@kFXeDRkCr@gIPyB`@yEZeEXiDP}BFm@R}BLyAFu@PsBDu@JeABYDe@Dk@Dm@H_AFk@Dq@Fu@Hy@Hy@JyATkCXeDN_BPsB\\aEVyCD]HaADk@@OD[@O?M@I@OBOJuAFs@Fs@TsCTgCL}AJoAH{@JuA^sEf@cGDk@Fo@B[Fs@Dm@H_AHaAF}@NeBTiCVwCVeDZ{D\\sDTsCZiEx@yJdAoMPuBNoBDc@PeBPmBP}BNiBNyBb@kFxCy^~Dye@v@{Jl@gHrE{j@R}BrAePDo@\\uD^oEReCNkB`@yE^oERiCJqAH_APsBL{APuBR}BNmBZiDLaBRkCH_ALyAVaD`@{E^oEd@yFZwD`AsLj@cHfBcTnAiOrEwi@ZyD\\gEL}A`Fom@f@}FvC_^v@oId@mEr@wGFg@`@eDRaBn@eFX_CnCuR`DiUJiAr@aFPkAJs@TeBJm@NkAPmAPkAJu@NgAPmAVeBTcBBKRwAXsBFa@VeBVeB`@wCf@oDj@aEJs@Ly@ZaCb@mDTsAp@uETcBXqBt@mFvAeKf@qDPkAHq@ZuBb@aDr@aFl@kEjCmRT}ABS`DcU^iCHm@dAyHF_@dBaMjAsIXmBt@mFJy@Js@^mCZwBPqAb@yCbAoH`@yCh@qD^oCVmBl@iE`@uCZ_CL_AVsBd@sD\\wCN{A^cDb@kENuAZgDZcDp@mHD_@p@cHN}ADc@N{A`@qExAqOn@yG~@_KRoBh@aGXqC\\sD`@mEh@_GLiAj@iGX{Cx@qIv@sI`@_E`@iEPeBTgC`@gET_C\\sDH}@NcBTyBJgALmANeBLmA@Sf@gFp@aHl@qG\\uDZ_D`@oE\\mDj@eGLmALsAFm@PkBz@gJhCkXDe@XuCz@}IJoAZ{Cf@gFNeBf@kFv@gIb@oEPuBtAsN`@mEb@kEh@aGn@wGPaBj@gGl@oGhHyu@nFgk@tCuZrQcmBlE}d@bPucBtA_O`BcQ|@gJj@_GHcAz@yIJeAp@gHLuANyAJmALqALmAl@oGHs@RyBFk@RyBz@_JnAuMb@mE\\sDdA}Kb@mET}BbA_JTyBTiBd@uD`@}CXqB`@{CTyAJ_Ab@{CdFg_@F]pHaj@XoBz@iGzG}f@tBoOx@aGhTy~AL_ApEi\\~Iep@tPmnAhAiIPiApGie@f@wDBSTaBPmAbGgc@b@_Dl@sEbGgc@fX{oBv_@mqChAgIvBsO@KFa@`@wCZ_Cb@_DF_@Js@Ho@Jw@RyABS@GPmApEc\\h@eEv@qFf@sD|@yGL_AJo@Fc@NkAjB}Mf@sDXoBJ{@Hk@Jw@PkAXoBHk@dFe_@NaA?EDUZeC|CyTTaBfAaIHi@BUf@gDj@gEL}@X{BRsAr@kFL}@Z{Bd@kDRyAf@uDt@mFrAyJt@mFh@{Dp@yENgAd@sDd@cDd@kDZyBx@_GXmBv@aGh@yDvAgKRwAt@oF`A_Hp@aFb@eDt@gFFe@z@kGPqATeBVkBVkBNgAT{ANkA\\}BZ_CRyAVeBXwBPqALy@|BmPJq@Fm@Fc@Jq@x@cG~@}GJu@XqB^mCPmAl@oE^mC\\aCh@{Dl@kE`@wCL}@Fe@dCqQLcAj@gEJm@F_@PsAHm@hBuMpB{NZ}Bp@wE\\iCbAoHrM_`Ax@cGp@{ErAwJrFy`@t@mFNgAhByMf@uD\\gCPkATyAFg@d@gDb@aDx@}F`@wCn@wE@E?AD]@A?CjDuVpAoJNkAF]DYh@qDl@}E`@oCj@gE|@oG|@oGLeARqAFg@ZuBVkB\\iCPoAPkAF_@XyBViBNaA^oCLcAV_BVgBV}A^yBNu@RgALs@Ps@F]j@mCpAmG|@eEF]R}@nAcGJg@Lm@TkA`@uBZeBPcAV{AFe@F_@F_@Ju@PmANsALcAJ}@D]D]Di@J}@Ba@D[HaAJmAL_BHu@HmAJoAXoDNkBL{AJwANgBNmBNkBR_Cb@qENqAJy@TaBVmBp@}EDWBOPqA@GDYZ_CBUPmAXoBl@iENeAf@qDb@aDVuBTgBNaB@AH}@XuCHgAFm@JuAJgBFkA@IBc@PkDJiDDgBFsC@}@@kB@kA?oA?eBAqAAgBCgB?EE{B?EI}BGaCKaCA[KgBCYKeBC[YsDG{@WcCQkBc@qD_@qCEWa@qCQiAa@{Bq@oDUgAS_ACKo@sCm@qCw@kD_@_BWoA}CeN_@aBaCsKI_@AE_@_B_@eBgAyEo@uCeAyEq@wCw@mD]{Ao@sCo@qC_@cBo@sCg@yByAqGEQe@_C}@aEu@gDa@aBw@mDeAyEg@}BwAmGa@eBm@mC}@aEi@}Be@yB_@aBgA{Eo@uCo@oCe@uB_AgEw@kDWiAWgAw@oDoAsF}AeHqAwFgA_F}@}Dw@kDmByI}BeKg@cC_@eBcAuEo@wCw@iD_A_Eo@qCWkAWgAWgAQs@o@sC]_BmA}FMo@w@kDmAsFw@kDoAuF_AcEo@uCm@oCo@uCg@}Bw@kDm@mCg@yBo@uC_@cBw@iDw@mD]_BgA{Ew@mDo@sCm@qCy@oDUgAg@{Be@wBi@}B]}Aw@oDy@mDmAsF_@_Bu@kDq@uC}@cEg@{Bg@{Bw@iDw@mDsCqMa@cB_@aBeDaOiAgF]yAMo@g@yBI[o@uC}@}D_@cBUgAg@yB]aBOs@Mo@UgAG]SiAE_@Km@Ks@Gi@SqAMcASgBSeBQgBOiBQsBKyAMgBIcBO{CCu@I_CC_ACgAE_BEiDAgB?yK@uI?cG?wI?aF?mH?eK@eP?uG?{B?M?kA?kG?{H?mW@sC?gA?qE?sE?mE?Q?iDBeBBeBBoADmADs@By@LyBHmANiBPaCHeAFeATqCLuABe@LqBFkADoADmAB{A@wAAqI?iA?{DCyP?eDA{C?oC?aC?mC@yB@yA@eC@u@?_B?gC?y@?o@?w@BeSD{QCeYAmDWkWEwACwA?K?MAw@Aw@MkGQeNQmNEwEAqEAyC?{DBeFFkFVyKJyDN_GB}ABcADcAf@kTJ}JBiHAsEBeH@}@?y@?qA@gJBqX?k@?U?K?s@B}F@mV?sD@eC?_C?mB@wC?eC?{D@M?y@@cBDuBFcBF}AHyAH_AR_CPgBNiANeALw@VcBh@mCj@kCdBsIlA{F`@mBp@qD^yBRuAj@eFFi@RqCDcA@KFuADuAFyD@mC?kA?qF?iA@iABgT?mA?kADuYDu^@}LBmP@cL?a@@]?K?u@Do\\?oE?gE?wA@eD@yUNqs@?u@@qG?sAAwCAiBGkCEkAQiDGmAGaAq@wH]gDMwA_AgJm@uFWcCGw@UuBIu@Gi@Ea@AKK_Ai@oFg@wEyAmOeBaQU{BKqAGcAKgBMgCGcBG{BCwAIgO?{AAuBAkC?AAsBC_EGkJAyEEyLE_JAkBAiACeFGgOEcLE_J?_@?Y?C?O?O?_@CqB@iAAiAIoFA_@?AAcAM}FCcA?GMuGCoCI}CWkLCiAAqA?CIcDCaBKyDCmBAi@MsSA_@?]Ag@?mH@sN?eC@aEBiCD{N@eL@cA@cC@sA@wH?oD?gDCyAAeA?_@Am@?y@EsEA{CCoAAaCAcB?uAAsC@wF?kAAoA?mACcFAcACqDAy@AwCAeEA_AC}H?oBAg@AgCAe@GkDCiBCiB?u@Am@?[CyDGc[?aBAuBAmJEsOA_GAqFAwDAeGA_E?]?k@Am@?oAAyHAmEAy@?qDAoA?oEE}L?wCCiIA{JC}GAeGAkF?}@?[?m@A{@?yA?oAAgB?uD?U?y@?gB@sHBsR@_C?eB?eD@yG@aD@gCDuU?cA?A?k@?i@BoC@{A@cCDkB@iAByADuBDcBb@wSHaDd@{SHyDFuCPiHPuI@i@@a@Bg@FkDD}CBy@DwD@mC@wB?sA@yCAkFAmAEmE?{@Ag@Ae@A{@Ak@Au@Ao@EoACu@O}CKmAM}AOuAMmAWaCUoBSoBKoAGu@C[IoAGsACi@Cw@As@?a@Ac@?cB@uA@aA@i@@[Bs@@YF}@Bi@@WD]Do@h@sFJ}@PaBHaAHcAPqCDoAB_@NkF@k@@wADgI@uD?yA@gC?M@mCBuI?e@@sC@{A@aB?O?a@@eA?G?EA{E@g@?cB?yD?oCDaSBqH@_D?kC?c@BaF@_F?o@@cA?o@@_D@_A?[?S?qD?Y?eBAgB?iA?Y@Q@_A?wJA{A@{CAcB@]?}@?}@?i@?Q?U?uC?wC?{C?GB}@@}@?]Du@?A?CB{@FwARgEX}FJ_B@[JwBNgCHkBPyCFwAFsB@{A?sAAk@?WAKA]A_@?CAi@KmBOmBSiBY_CE]QgBMeBIgBA]CaAASA}A?yC?CA_D?kB?G?e@?G?}B?G?S?A?A?A?C?E?]?A?A?A?A?A?E?W?AAGC{AIy@AE?AAGCMAI?AIs@G_@Ms@MgAw@uHASASAa@A]AQ?OAOCq@Ay@?qA?w@?]DaADmAPwF@_@@C?M@]@M?C@U@c@@Q@g@LqDD{AFcBJiDBu@DoAByB?I@s@@mA?uN@uC?eBCoECeCEkCGyCE_BAs@CuAAcAAsD@kD?W@qBB}F?W?]BiH?sB@cG?iA?{@@gA?Q@{C@qB@}A@k@@w@@[B[@UDi@Dc@DSFWBQJa@J[L_@FMJUN_@FMXe@RYX_@@A@ADERSFGd@a@PK^Ub@Sb@Qh@Oh@M^Er@Ez@C@?^AH?`FFlFDzC@X?lB?jB?xE@tE@dA@F?\\B@?D?\\@\\@z@A|@?V?bA?xA?N?~A?~A?Z?X@F?^?pB@T?J?TAf@AbA?pEAZ?l@?dDDnA?lAApFCxC?z@?J?F?h@?hCDJ?v@BZ@zBFz@FnDPnBHn@@jA@B?R?F?@?T?`BAfEAzGE|A@\\ArB?fC@vAA^Av@Al@AdAAv@C`@CZEd@I`@IB?\\KJEJEZOf@U^U|@m@d@a@Za@T_@NWXe@`@{@Rm@HWNk@Lm@F[Hm@Hq@F_A@SLqBFaADm@D}@B]Dm@JkALgBJgBB_@B]B[NkBHu@Jw@PkAVuAReATcAXiAb@yAd@}A\\eAXu@~@yBl@sAj@oAb@}@LYl@iAbAeBn@aAn@_Ax@iAp@}@t@_Av@}@VWf@k@bAaAt@q@fAaAbFaEr@k@`@]NKnEmDxIcHXW`Au@`Au@jBaB|@y@~@aAp@s@l@u@f@o@Zc@v@kA|@}ATc@h@iATe@Re@v@mBX{@L_@@?V{@p@cCJc@TeAb@eCNaAR{ALqAJcAFcADsAFkBBeB@mC?k@?]?o@?YCkKA{AGuWAgH?u@?G?C?W?}D@mCAiK?uC?q@AiBAqF?sNAiD?kD?yD?}F?{C?cC?eH@sABiADiA@Q@K@K@O@KBa@B_@Fq@Hw@Hs@Hk@J{@Lw@PcAPw@H_@Nm@Pq@Tw@ZeAd@qAb@kAj@sA\\q@Xo@@?NY@Cv@uAnAkBbAoAt@w@BEr@s@vAuAfCqBhC_Bh@Y`@Ut@]l@WbBm@ZMZIf@OZIXGZGt@MZG^GfAOnAMbBIjAEv@AbE@zKH~HJ"
+                     },
+                     "start_location" : {
+                        "lat" : 34.0674112,
+                        "lng" : -117.9820617
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "105 mi",
+                        "value" : 169721
+                     },
+                     "duration" : {
+                        "text" : "1 hour 26 mins",
+                        "value" : 5184
+                     },
+                     "end_location" : {
+                        "lat" : 32.2002381,
+                        "lng" : -110.9793504
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e at the fork to stay on \u003cb\u003eI-10 E\u003c/b\u003e",
+                     "maneuver" : "fork-left",
+                     "polyline" : {
+                        "points" : "ssyjEdukjTb@?^@dDFbA@xBBrB@hABP?@?jCBZ@Z?r@?~ABtA?jB?^?pEAf@?hA?T?hC@T@T?@?Z?zBDfEB~e@^rD@@?@?j@@@?`C?|H@xG@fG?xB?xB?tCBvBB`BDbABbDHdADrAFjADt@DhETjCPzAL~ALtAJdBPF@pCX~Dd@rAP~C`@hBXxATv@LtCf@vLrBdDh@bANzCd@pC`@jFl@~BVhAJrALx@Hz@Fd@D~CVvAHr@D@?j@DhADVBtGVnBFjBDrBDrABpABr@@vB@pD@~FAtLA`B?pVE`C@Z?b\\@xA?tNBxM@|YDh@?hB?hE?nCE|N@hBCdC?dC?dEA`F?tAA~D?rJArA?b@?xEAxB?B?^?r@?xD@h@@pGL|@BpABz@@t@@rA?hG?vA?D?vE?F?P?p@?B?f@@n@?@?H?d@?@?Z?|ACz@CnBExCIlBIj@Eh@Cl@Eh@C`AGj@Eh@Ej@GbAI~@Ih@Gj@Gj@GTCj@Gj@Ih@G`AOfBYtCe@`Cg@`AS~@UfBc@hBg@pA_@tAc@pAa@lAc@xEkB`Aa@pAk@rAo@jB}@vDqBjEgCh@]VQz@k@hAw@~BaBhCkB`Aq@fBoAtB}AhFsDrKwHnGsEbCgBl@e@d@[d@]x@k@b@[~B_BzFyDjA{@tGwEnDgCvCuBd@]v@i@XSzAeA`FoDxB}A\\W~@q@v@k@NKXQdAw@d@]f@]j@a@jHgFrA_AfBoAfEyCxB_BRMTQ^WjBqAxAgA~@q@`CcBtB{Ap@e@xDoCxB}At@i@tAcAb@YlA}@hCgBJIdD_CnBuAnBuA^YnVcQhFuDld@}[jI_GzB}AtCsBrAaApA_AdCgBlBsAJIzAeAbWsQlEaDhAw@t@i@rAaAnCmBv@k@pXwRjPmLlA{@jAy@rCsBt~@ep@h@_@ry@gl@fFsDpVcQ~Y{SpN_KviAsx@~tBazA`SkN~MqJx`@cYnJ{GxDoCdJsGJGHGpBuA~DsCtCsBlMcJTQjI_GzAeA|AiAlCmBx@k@v@i@z@m@rAaAtHmFfBoAvB{AnN_KbAq@\\W|G{EzAgAv@i@^YnCmBpA_AfBoAn@e@DCn@e@tAaAtAaAdAu@fD_Cx@m@lA{@dCeB|AgAn@e@rCqB`EuCdBkA~AkAzAeAdBmAt@i@jAy@v@k@pA}@dCgBvCuBhAw@f@]t@i@pBwAnA}@p@e@fEyCvB{AnBwAjAy@lA{@tByA~C{BdEwCFEnCmBr@i@rCoBZWl@a@~@q@f@]`As@lA{@r@g@b@[ZUf@]vB{AnA}@lA{@rA_A^Yv@i@tDkChBqAx@k@`BkAr@g@rA_Aj@a@fAw@f@]PMd@]bBmA`@YhBqAnDeCZU^W|@o@@Aj@_@~@q@z@m@VSjBsA`@Yh@_@~CyBvAeA`EsCvB{AdAu@tCsBz@m@dHaFbH_F~BcBdBmAx@m@ZSrCqBxDoCDCDCpCqBhAw@|BaBjFuD~CyBvDmCvB{ApBuAzAgADCjGoEpDiCx@k@rCqB`@Y@?LKd@[|FcEvIgGvb@oZ|QqMzHsFnBuAhAw@xAeAr@i@JGr@e@|BaB~HuFv@k@rA_AxAcAfV}PtCqBpA}@|AgAx@m@LIhDaCpPqLpSwNzAgAfM}IjBqAlA}@|AeAlAw@v@i@hBkAZQf@[b@Y~@m@dAm@l@]ZSnAs@fAm@d@W|@g@t@a@nBgAVOfAo@tA{@rBsAj@_@^YVOHEHG`@[p@g@XSt@m@t@m@x@u@`A{@d@a@r@q@fCaChAeAbAaAfAaAlAgA`BuAp@m@jB}AtAiArB_BvAeAVQdHoF`CeBhA}@fAw@hA{@lBwArCwBpCuB~EqDlBwA|EsD|BcB|@q@`PuLfE_DtB}A|BgBPKd@_@d@]b@]dAw@ROrFcExBcBbDaCbAw@\\Wb@[VStDsCzAgAPOnByAtDoCVSvAgAnBwA`DcCz@m@t@m@`CeBt@m@jA{@xAiAzAiAxAeAv@m@xAgAhAy@hBwAxBaBnL{ItCwBjBuAXUxBaBxAgAnCuBjA{@vAeArAaAf@a@ROPMfFyD|C_CnCsBvB_BjBwAfAw@`BoAr@i@LId@_@`@[b@]t@i@|BgBfA{@nS}OdEcDx@k@@A|AkArF}DrF_ErByAxB_BdCgBjBsA|EqDfBqA|FgEvDoCxAgAxDqCpCsBnCqBr@g@hNiKjCqB`DaCJI~@q@pCsBpCuBPOvIsGfAy@b@]f@]~CaCtEkDdBqAfE_D`E{CzEsDZWd@_@lCuBxAkAdAy@~GkFb@[fAy@vAgAv@i@fAy@fAy@`@[rCqBhBoAPOnCsB|FiErAcA~EsDzBcBhA{@`DaCjBuAjBuAhAy@hAu@v@i@hAu@jAs@x@e@RKjAq@jAq@nAm@lAm@hAi@~As@|@_@`@QfBs@pCcAl@Sv@WlCy@r@Sr@ShAYbBa@hBc@xAYnB_@fAQNCp@KrASj@Ij@G`@IZETCl@I~@Ih@Gl@Ej@Gl@El@Ev@ELAf@Cj@CRAVANA\\ATATAh@An@Al@APAX?`AAz@A^?tA?|JBf@?vHBdC?|NDhNBxc@HrD?~E@vH@tH@zE?bH@vH@bJ?~E@z@@lE?nD@bA?xA?xC@zQBxGB~C@hD@pFBpSD`C@nB?bE@dC@fE@`C@jB?nB@`C@lB?bA@~@?vA?l@@h@?`A?l@@`A?tA?xA@~@?`A@nB?~@@vA@j@?`A?dC@~B@bA?`A?`A@~@?bA?dA?j@@pA?l@?`AA`A?tAAdAAvAAtACdACh@CfACpFSlAEjBIpHYrHYzGW`Lc@rEShAAtCMrFU`EQjFS~@EbBGzCM|CMfCMrDOtCKzDO|H[tCKjGW|BK~@Er@E~@IfAKn@GbAOhBYfB_@bAUjA[jA]h@Qr@W`A]x@]~BeArAs@fAm@fAq@x@g@j@c@n@c@jByAvAoAlBkB`AgAb@g@n@u@f@o@n@y@z@qAp@aAhBcDnDyG~BgEnAeCv@yAdBcDnAaCpAaCtB{DrCqFfBiDvB_Eb@w@f@_AjBoDz@cBn@kAvB_EpCmF`@u@xBeE`CsE`B{C~AyCrAiCbCuEfAqBxAqClCeFhC}EDIjBmD@A|KySbDgGnEmIrB{DhBmDtDcHvBaEf@_A^u@vDcHdCuEzAuCpFiK|@aBpEsIhEcItB}DrByDbCuEnBqDtCoFjBoDrB}DrByDp@oA`@y@\\o@jDoGpKiSx@_BBExMyVzBcEhC}ExBaErHsNvTab@fAsBfDmGpTsa@DG^w@lBqD~DsH|@cB|JeRfDmGtDcHtB_EfDqGfAoBzBeEfDoG|FwKzAsCfFuJnNwWh@cABEzGkMvKoSnEoIxImP`MsUzBeEzC_GR]|FaMXq@|AsDl@{At@iB`@eAl@eB`@gA`AoCbAcD@CpAcElA_EzA}FXiAh@{Bj@_CvAyG|BoLt@wEdAkH`@wC\\{BBUhEaYT{AJs@DWVmBv@kFXoBVaB~@mGRgAf@qCf@gCl@oCv@aDf@mBh@oBXcAhBcGbB}EjB}Ev@gBl@uAXq@f@gArDmH|BeEf@cAP[@CHO\\o@BG\\m@LSR_@NUbGeLhAyBf@_Av@uAv@yAp@mAZm@`B_DzBiEh@aApBsD@EnA_CbAkB|AyClBmD`@u@tAkCv@eBd@kAl@cBTs@XaAZmA~@uDj@_Cx@oDDONk@?ADOf@oB|@mD\\iAr@aCd@{AdA}CZy@Vw@jA{C`BiEJWlDkJ^_AnBsEjAeCzA_Dn@oAjBoDh@cAxAsCvAmCdHwMrByD|@cBbAoBpD{GzC{Fh@cApA_ClA_C`AgB~@eBnGsLjEgIhAuBrEsIpBwDzIkP`EwHzAqC`B_Dn@iAb@{@dRw]hC_FnAaCtDaH`AiBfCwEdBeD`AiBx@}AbAkB~AwCjBkDtB}DhBiD`AiBd@{@nA_Ct@wAtAgCp@oAz@aBlA_C~DmHtAkChJcQl@iAbB_DxCuFzCyF|GiM~CaG|AuC~@eBtCoF~BkExAsC|GiMxB_EnCgFlCeFbDcGhBkDdBaDhBkDzCoFdBwCdAiBdAeBtAwBtAwBvB}ClAgBhA_BxAqBfAwA|IqLzC}D|@iAxBuC|DkFn@{@xAyBd@s@b@s@`A{Ab@u@f@{@`BsCfAoBxCeF~Qq\\P[@ABEVc@hCuEdB{C|BcEn@iA~@aBfAmBv@qAj@cAfAoB|B_EbCiE`A_Bx@uAn@kAf@{@~B}Dh@{@d@w@`CoDxAsBzAsBhAyAlCcDnDgEhD}DpB_CpB}B|FwGpEgFdGyGfAgAvCqCbByAxDaDpEmDhCsBd@_@rAgArC{BvBcBrAeA|@s@vFoElAaAbAy@bCmBdBuAzAkAROhA_AbAy@t@k@rAeAhA}@pDuCp@i@l@e@nAaAfA}@h@a@ZWx@q@jByA|@s@`BqAlB{Ax@o@fBwA|AoAjA_AbCmB`DgCh@c@`Aw@|@q@dCqB|BgBnH_GjByAf@a@|D}CbDkCjByAzBgBnB}A~BiBnDsCjByAhByA~DaDlByAjB{AzSoPrAgAhA{@bBsAzXwTvAgA|AoAvAiArB_BfBwArAeAvAkAdA}@jA}@pDyChBuA|BeBbD_CjBqA`CeB|BcB`DgCnDsChEgDxAiAx@q@p@i@BCx@o@d@]b@_@lA_A|BiBdAy@hA}@f@a@bAy@r@k@dA{@xAoAp@i@ZWvAsAfAaApCgCz@u@dA}@z@s@rAiAnB{ApC{Bf@_@d@a@|@s@fAw@hBwArAcADElBwAhBwAj@c@p@g@fBsAz@q@jByAfBuAxEuDbAy@jA_AbBsAh@a@h@c@tHaGpFgE`EcD|GoFjDmClB}A|BgBrC}BzAmAp@g@z@s@bBqA`DgCjByAtDwCnCyB`DgC`BqAhA}@~@u@bGwE`ImGbCoBzAkAvBcBpDsC|BiBzBgBzAmAfBwAlByA~@w@b@[f@a@lB{A`GuEfFcEtBcB~BiBrBaBlB{Ar@k@p@g@|@s@~AoAbF_EnCyBtGgFbHuF|@q@tEsDxAiA`Aw@nGaFt@o@nAaAdImGv@o@|BiBxC_CtC}B|K{IzBgBdBsAxB_BhAy@vA}@`C}A`DiBnBeApB_ADA~@c@~As@xGkCtGcCRIDC~GiCzGiC`A_@pCgAzAm@dAa@nCeA~@]dAe@vCqAhAm@jAo@~A}@lCaBnDeCf@a@fCqBlAeA`B{A~A}AzBeCvA_BtAeBr@}@fA{AxAyBf@y@~CaFrD}FpAuBfDiF`H{KfH_LlHkLpHoLjByCzDgGhAiBjAiBbCyDnCkE|DmG`F}HbA_BzH{Ld@u@xA_CxA_CjAiBl@cAzA_CdAaBzBoDzDiGdBmCp@gAd@q@fBsCbCwD|GuK~DmGFKt@mArAqBv@kAbCeDhCkD`DkElCqD`CiDh@y@Zg@BE^k@lAsBdByClBkDt@wAzCuFdAqBzAoCb@u@d@w@Vc@T]rAwB@CzDeGnMeSxK}PxF}IpCmEnDyFzLoRxEqHbA_BzBkDpCgEtKoP`LeQvCqE|AaCzEqHbF_IdGoJzEqHxDcGx`@gn@Zg@tHqLtHsLPWV_@?A@A^m@vSy[lBsCt@gAvB}C|B}CdKyNV_@~GsJzCgEx@mAdA{AzCuEl@}@hAgBjCmEnCwEjBcDfAoBx@yA|CsFn@gAl@iA|AoC`CcE|AeCfDkFjCcErCmEtD}FrCmE\\k@v@qAf@u@dGkJh@y@BC`@q@bA}AnCgEdC}Dl@{@\\e@fAaB`B_C|@oAf@o@t@_A|BwCfByBl@s@x@_ArA_BvA}AzB_CjBmBtAuAhAgAxAsAz@w@t@s@p@k@p@k@nBcBvD}CdBqAzKmIpAcAfAy@n@g@~@s@lCqB`BoAnA_AHGtC{BjCqB~CaC~EuD~AkA~CaCv@o@HId@[h@_@pDqCVStDsCx@q@fG_FzFeF~BwBFGjDcD`C_CdBiB|B_Cb@e@nBsBbCgCzA_BpBsBzA_BjBmBxB}BdBiBfAiAbAeAvAyAfBiBtF}F^a@f@g@~@aAj@m@nBsBtCyCtJ_Kt@w@b@c@`QuQdDiD`@a@bAeAr@w@jBsB`BmBfBqB|BqCvCqDxD_FnF_H`H}IhEqFfAoA~AmBzCkDrC_DpC{CtCaD`FoF\\_@LOrKoLnGeHz@_A`AeAbEqE`MaN~@cADERU|@aAlCyClDyD~EoFzLaNr@s@l@q@jAoAj@m@xCcDtAuAx@y@|@}@rAmAzCkCl@g@b@]b@[r@k@\\Wj@c@@?HIDC@Ap@e@fBkA`Am@z@i@vHoEj@_@lAs@|A_Ab@WnBmAbGmDhAs@nCaBtBoAr@c@@ATMt@e@l@_@vD}BnDwBfI}EnHkE~@k@@?z@i@`WqOtCiBxAaA~@o@lDeCTO|@q@lBuAbBqArAeAdBuA|BmBn@i@bA{@x@s@nAgAbB}AhBeBhDeDfEeExByB|A{AjAkAjDeDlBiBjBaBbByAbAy@bCqBzAmA`CoBlBgBvBaBt@m@d@]zAkAjA{@`BkAb@_@fBuAr@k@dE{C~@s@t@k@vDwC`IiGrFyEpIyG|JaIlF}DzP}MfA{@lAaAxI_HbBgAh@[z@e@n@[pAg@fDcAbI{BpCw@l@SHETGLGb@Q~@_@nAm@FElAq@t@e@dAw@`Au@pAgA~@_Ax@}@bAmAd@m@~AeCTa@P]d@{@pAeCpAcCrA}BlAgB^i@\\c@\\c@xAgB|AeBp@q@`A}@^]hA_Ar@k@`As@xCsBVQdFgDd@]`Ao@HGd@YtCoBnBsAv@k@n@e@XULKDCJIVQPMhA{@lB{ArAgAvKsIbDiC`DeCfDiCnBwAx@i@f@[`@Wx@g@h@Yz@e@jAm@dBy@xBaA~@_@nBs@bA[zBq@rA]hAWfAUbB]lCc@hBU^GLAHAB?\\EvFw@`D_@`De@`Dg@`Di@XCbGuAVG@AJALEFAPEdJ{BrDy@hAUXGjAUXEvEw@vEo@pL}Ap@INAn@I~D]tAKtBKlDOlBEL?Z?BAF?F?L?n@AvIAVBj@E|JC~B?@?L?rA?|QCdHA`@A@?V?d@AlA?rD?p@AbHAvAA`BAjCGzAId@C^EnAIpAO"
+                     },
+                     "start_location" : {
+                        "lat" : 33.3959404,
+                        "lng" : -111.9677112
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 723
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 32.1937944,
+                        "lng" : -110.9795576
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e260\u003c/b\u003e for \u003cb\u003eI-19 S\u003c/b\u003e toward \u003cb\u003eNogales\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "obpcE|sjdTFFDDB@B?B?D?T?lAEB?XAdAElEMlCIPAn@AlACd@Aj@?p@@r@@V@\\BtAHt@HXBNB`@Ft@Jx@N"
+                     },
+                     "start_location" : {
+                        "lat" : 32.2002381,
+                        "lng" : -110.9793504
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "60.1 mi",
+                        "value" : 96783
+                     },
+                     "duration" : {
+                        "text" : "51 mins",
+                        "value" : 3058
+                     },
+                     "end_location" : {
+                        "lat" : 31.3703921,
+                        "lng" : -110.9442276
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eI-19 S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ezncEfujdT\\JNDj@Lf@N`@JPF^JZLLDRFXLf@Rb@RxBfAhCrAtEdC^R^RPHBBTJnGdDzCbBd@TtFtChBv@fBn@VHXJZHZJXHPDZFTFVFTDTFTDZDZFlAP\\DnBRtAHpADt@@~LBT@~KCV@\\AN?T@r@?`@AZ@j@Ab@?lB?rF@fDAvE?F?B?vB@zMAr@?`B?r@?vB?rB?xB?fB?|A@~@@n@@f@@@?Z?~@BrBD`DJz@BnBFbBHtCNbBHvAF`BJfPv@fEPtIVbCD|BD`A?xABzA?fA?hA?v@?fAAr@?pEAnKC`FCjBAvA?xAAD?t@?pDAzA?N?V?V?P?NAN?bD?dJCtOEjECF?B?JAV@D?n@?bFCfF?dD@pDHp@BbADL?z@DzAHt@Fr@DzALzALlANt@H|BX|@Lr@LlBZbBZf@Jl@L~@Tn@Nx@PhCn@|Bj@xCt@tMbD`QfE`AV`Cj@~A^rAZdAT~Cp@`@Hf@Jh@JdDj@p@L~@NtDj@hBTzBXhANjAL`AJz@HP@ZBd@DjE^xALbFTX?X@j@BhBHv@BtCHt@@|DD`BB`B?pJAdCAvAAfLExA?~GCt@?`@A^?\\?lGAX?@?XA~DAxi@OdCAn@?PAlBA~B?`CArECfMC`CAb@A|AAhA?n@?nAAz@A`B?jD?nAA|C?fA?R?Z?t@?lBAdCArDArEAxBAX?jDA`DCp@?b@?`HChB?nBAnDArA?|CA|@A|AAvCAdA?z@?|KEzIAdH?`BAdBATAl@?t@AR?p@?pAAlGAtBArCAhA?l@A`AAbA?fAAfJCbBAtMCrICfBA`A?tCAvBAdDA|A?rAAtA?l@?rAAzAA|AAjHA`A?nBAv@AZ?pCAdA?|CAx@?fA?fBClD?vEA`CAjCAnA?`@?xAAhA?fAAtA?~@?r@AfBAfC?zA?lAAhA?v@?fAAdAA|AA~@?j@?d@?`BAxA?zBCjA?tBAbBAfC?f@AvCAlA?jCAvCAjDAb@?tCA~@?jA?F?~@AfDAV?fFArCA`HCtFAv@@F?d@?p@?pBArACf@?r@ArA?dAApJC~EAnFCfCAbCCpEGxFMjAClGUxDQ~BKxF_@jAGxCSbBMlCQzCU|E]nCSZC|Io@hKw@hLy@`CQ~E]jCQlBMnHi@tDYnJo@bE[tDWnE]|BOzAKvBQbCQbGa@lDW~Gg@rFa@HAfBIzBMzAK`CMxAGzFWlCGZA~AEx@CnEK~NSjOOnNO~@AV?\\Az@Al@?vGEtAExEIhAAlCE`GG|BA`MMv@CjBCfCC|CEnCCjEElDExDEpc@g@xCCbHIpLOzFGlTU^A^?D?hLMrBEX?`@Ab@?bBCl@Aj@A~ACdA?hDEv@Ax@AzAChAAB?B?@?d@?nFInKItBBbCBdDHnADxBJhCPtALfE^hMjApCVvIx@z@H|@HzEb@J@|Gn@|Fh@`BNxEb@|D\\tJ|@tGn@rP|A|BRnBP`Hp@bCTtCV`AJ|Eb@`CR~D`@`DVxEb@\\D`PxAzD\\|BTfDZdK~@t@HlShBlBPxHt@~BRjBPhAJ\\BnHt@dGj@x@Hn@Fj@DnAJ`@DlBV^B\\DjAN~@Nj@J`Cb@zBd@~Bf@`Cj@zBn@bBb@xAf@jBn@dXzJhE~AxBt@nAd@`Bj@rAb@`EjAzA^f@Jt@RrAZ`GrAdE~@pDt@xIlBzEfApFvAnA^pBh@jA^tDhAtBp@~@V|@ZZHpAb@~Af@rAd@j@PjC|@zBv@f@RvAh@bBp@dBn@tBx@xAl@fCdAvAl@hAf@p@X^PfBt@l@VlDvAdAd@r@VxCpAtAj@|BbAbBr@fCfAt@Z`@NvB|@zGtCzGrCVJhCfAtH`D`HtCbAb@hBt@b@Rf@VXJPHd@RbBr@|@^hEhBhBv@dBr@t@ZTJ|NfG~@`@~Ap@|@`@lJ~DrAh@n@V`@P`Bt@~@^bBr@jBv@~HdDp@X@@r@X`GfCr@XbAd@XNd@TfAh@hB~@d@Vd@Tf@Zv@b@jAr@~AbAz@f@lBnAx@h@f@Zb@Xj@^r@d@`@Vl@^d@Zp@`@nAx@PJ~DdCt@b@d@XXNf@XdCvAv@b@vBjAp@^dAh@fCrAlCrAv@^x@`@h@VnB|@|@b@hAf@pAj@hAf@nAh@rAj@`Bp@LFLDHDpAj@fBr@x@^vClAlBv@fFvB|BbApKnEzB~@bEdB|@`@~B`Ah\\dNjMnFdMjF`Bp@|@^~@`@j@TtB|@bBr@l@VrBz@dBt@`A`@lChA|CpAfEfBlChAf@Rf@Tf@Td@T|@`@dBv@hAj@|@b@`Bx@f@VjAn@z@b@hAn@t@`@~@f@v@d@zA|@tAx@dAn@f@Z|A`ArBrAjBjAnBlAlHtEpD|BzBvAd@Xd@XRLjAp@PHRLPHTLx@b@NHVLPHRJRJRJRJf@Tz@`@f@Tv@\\z@^h@TTJn@XhAd@n@VFBv@\\~B~@tBz@|B|@pAf@lAf@bDrA`@NPHJDJDj@VDBHBRHRHRHRHTJPFTJd@RXJPFTJTJb@Nz@^jCdA`G`Cp@V^Nj@VzBz@fDpA|Aj@lAb@hBl@nA`@dA\\dBf@hBh@pA\\~@Vx@Rn@N|@Td@Lf@Jj@Ln@NfATzAZzB`@hDf@hEp@nDd@zARzANjFf@rEZP@fBJ\\@dENR?f@Bb@Bt@BbABlAB|CD`CBr@AzB@vAAh@An@A|BEjCKrCGfGK`ACzEMlBEjCEr@CpCIjFMxGQtJSnFMVAxIU^Af@?XAbBEjFM`FMdBCfAEn@CpAEfHOf@Ah@CVAV?f@Aj@Cr@AbFQ@?@?`@Ct@Cl@ExAG`AEzBKzCSn@G|@Gv@EVCzE_@TCTCf@E|AOt@KjAMfCYn@GdBS|BUxAQnAQnAOB?rBWdEg@jBUvEk@`Eg@FANCb@EbAMRC`Ee@~ASnIcApAOdHy@jAOtFq@pBU~@Kh@Id@EdHy@FATCl@Kx@K~@KpAQ|@Kd@GdBSx@Kn@I|De@`AI`@EtEe@~AO~Da@vAOxBSNCdBOnCYb@Ej@GxAO|BU~Gq@xGo@x@IrGq@dEa@xGo@jEc@nCWnI{@jAKbCWjHs@p@GfFg@~Da@xBUpGo@tHs@nFk@rFi@|BUjEc@fHq@nAMj@GdHq@vBUjEa@fAMtCY`CU|@KpBSl@Ex@I`BQp@Il@Gx@IpCWxCWv@IlBKbBK`AEB?n@CRAxBEfDGv@?nB?xA@hA@d@?rDLxAFpBJrCR`AHrALtANtEj@bEj@dBTZDnDb@xC^bEf@pGx@hBVH@lIdAjEh@|ANdAJ`AJb@DlDXjBN^Bf@BfAJ`AFlAFvCLbBHz@DZ@L@|A@nBDzBFjADx@@fEBdA?t@?|@?r@@f@@fA?dEElBC|@GjIUlCKt@A`BGd@EZAlCUtCU~@GvAQpAKvBSbE_@RCt@KrASdBUt@KnCa@vDk@dKeBbCa@~B_@t@Ob@I|@OpAUtFaAnNeC~AWl@IDATC^IxHsAzCk@dF}@pCe@rB_@pA[b@Ml@QPEz@WZKx@YJGZKz@]TK\\Oh@WnAm@vAu@t@a@l@]fAu@l@a@j@c@b@]\\Wd@a@`@]f@a@TUZYd@g@l@m@n@q@bAiAx@gAh@o@b@o@hBiCt@gAj@{@f@q@rEyGvBqCp@u@|AeBx@}@jSaT~AgB|AiBhB}Bn@w@v@gAd@o@~@sA~@wA`A{AhBoCNU`BeCv@kA~EsHxAyB\\g@NUr@cAHMdAuA|@kAV]^g@h@q@d@i@X_@`AkA^c@n@u@JMf@i@DGv@{@XYJMVYr@s@Z]Z[`@a@\\[X[v@s@^]l@i@jEuDfBsAPOXWb@]fAy@nA}@hAy@`Aq@dBiAr@c@fAq@|@i@fBcAhCwAvAs@f@YrBaA`@QXM~Au@rAi@r@[^OzAm@dA_@pBs@`A]z@Y|@YvC}@xDiAnDcA~Ae@rBm@dCs@`Cs@fHuBfA[xDeAhA[@A@?|Bm@lDy@x@QxBg@pAYTCrHgBxCw@LEdEiA`AW`N}DbDaAjBk@h@Ox@Wj@OnCy@pA_@v@UlBk@dBg@`Cq@hCw@vP_F~GqBrAa@j@ObDaAzBq@n@Q^KXKtF_Bh@Of@Op@SnHwBx@WjDaA|DkApEsANEh@ObBg@x@Wp@Sf@OTGRGf@Ol@Qd@O~@YNEXI`AYhA]XIf@Oh@Oj@Oz@WTIh@Of@Oh@Oz@Wh@Qh@Mh@QRGf@ORG|@Yz@Yv@UjAa@pAg@t@Y|@[|@_@fBw@hAg@p@[TM`@QdEyBtAw@fAo@xA}@dBiABCr@e@hBqA`CiBnB_B\\Yt@o@`@YJKZYtAoAtAuAfAiAhAmAn@s@f@k@j@q@jB{Br@{@`AqAt@cAx@iA^i@v@kA~@yAj@}@~@}Ap@iAn@kA`@s@p@oAr@yAx@cBfAaCRc@p@_Bh@qAd@kAl@aBPc@h@yAPi@j@eB\\gAb@wATu@n@yBZoAXgARw@VgATaAj@eCx@sDZuARs@Nk@\\iANe@JYf@oAZw@Xo@l@kATc@Vc@h@}@r@eAj@w@^e@Z_@fAkA`@_@b@a@j@g@v@m@~@q@r@i@|@i@\\Qb@Ux@_@`@Qb@Sd@Qt@W~@Yp@Qv@QlAW~@Mx@MhBQxBSdCQdAIpBQtE[zAKzBQtCUxAK`E[zCWTAdDWd@EpAKvE]vJu@vBQ|CUvBQtGe@n@CLAfBOzCWvFe@bHi@tS}ArCUbIm@fIo@`NeArE]rMcAvDYdDWXC~CWfS{A~AK~@C`BElDEzCBlFH|CDbA@R@l@BvABtBBhA?l@Ap@C`AI~@Mh@I|@SPEhBi@h@QfC}@|By@vAg@n@Sz@[`HcCbBg@l@U@Aj@Ud@QrCaA`Cy@fDoAvB}@zBcAzAs@dB{@|Ay@~A{@jBiAbDsB|CwBnB{AhA}@z@q@lAeAdCyBfCgCdAeAl@o@dCiChAoAhCqCxB_Cr@u@bBgBfBmB\\]\\]jAkAj@g@^Yl@c@h@a@v@g@f@[j@[z@c@~@c@`@Qb@QvAe@d@O|@U|@Up@M"
+                     },
+                     "start_location" : {
+                        "lat" : 32.1937944,
+                        "lng" : -110.9795576
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 592
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 31.3651533,
+                        "lng" : -110.9448111
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e4\u003c/b\u003e for \u003cb\u003eAZ-189 S\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "}_n~DlxcdTHD@?@@@?@?DALC~@Mj@Ep@Ej@A`@Ab@?`@@P?T@n@D^BXDVBVDTBn@Nf@J`@JfBb@B@b@H\\FTBRBT@f@@vA@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3703921,
+                        "lng" : -110.9442276
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 mi",
+                        "value" : 4757
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 374
+                     },
+                     "end_location" : {
+                        "lat" : 31.3326655,
+                        "lng" : -110.9654562
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAZ-189/W Mariposa Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering Mexico\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e_m~D`|cdTb@nC@?JJN`A^rCRxADVDVBNDPNl@Pf@DJJVJVLV`@r@Vf@HNNVLTBHBDLZN^J\\HZFVF\\FZ@FBTBL@NBT@X@Z@V?b@@r@@f@?X@^Bj@D`@B\\BPBRFf@H\\Hb@Nh@Nf@Nd@JTJTHPNZJPLTV^TZVZXX\\ZRP\\Vd@\\rDjCdD`C|JfH`@ZTLRL\\RTLZPBH@@?@@@?@@@@@h@VJDTLd@RRHf@Nh@Pl@Nf@J~@RhAN|@JzAP@@@?@?B?TA`@FP@VDTDTFPDl@Th@VXLVNTNXT\\V`@^b@f@Z`@XZlAdBlA`B\\d@`@f@f@h@`@`@\\Xh@^h@Zj@Vf@Tb@Lz@TVHxA`@jAZnHlB^Jl@NNFF@\\LXHHDf@Pd@Tf@X`@Vf@Xr@d@z@h@^T\\RRJVL^Ph@Rl@Th@PB?PFRDl@Nf@H`@FB?b@Fb@Dr@Dd@D~@D|@FrBJ|BLhAFb@BT@tAHf@DzATpCL|BLh@DVBP?PAJANCXIVIXQLK@?NMLKLMLOT[N[Tm@X_AV{@Rs@Ja@Na@N]HODGJGFEJEHAHAP?"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3651533,
+                        "lng" : -110.9448111
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.8 mi",
+                        "value" : 12523
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 580
+                     },
+                     "end_location" : {
+                        "lat" : 31.2259937,
+                        "lng" : -110.9684741
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMéxico 15D\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "etf~Db}gdTNEHALAFAB?F?R?^BZHJDNFb@R^RB@DBLH@@FBZPdAn@lEdCdBdAhBbAdBfAl@^nAz@j@f@VTb@d@fCnCvB~BlC|CbF|FxBdC~BjCh@h@bA`Ah@d@n@b@l@`@b@Tj@ZnAh@NFnA`@B@l@Pr@PhDn@|Cl@pKrBdJhBvO|CjUpE`Cd@lDp@hCf@jFdAfEz@pEx@fDp@fB`@nBZxC\\jBNdBBx@B`CCn@Ch@A^E|D[tl@gERClCOrBMbBKdAIjAKdDUnBOrCQdAGbGi@xBOjF_@lDY`CO`CQpDW~AMfBMfBKpBQdU_Bt@GRAbBO|a@_DpD]xBUbDk@nB_@nCm@`SwElCq@HCjA_@d@MlAYvDeApCo@nDs@rBWbCc@dCY~Fc@nDUr@ExD@vCAl@C~@ErAEn@E|@GB?`@ARAzC_@|H[rFSpG]z@I~@M~Bc@|@UpA]d@MRIVIRIn@YrAo@dAg@d@WXSnAy@lAy@fBmAp@c@xAcAhAy@pByApA}@h@]h@]n@a@NKvAq@x@WTGVIZGp@K`@EXC|@I`@ApIc@fAG`BGbAAt@@r@Dl@Hr@Pj@Rj@Vb@Tl@`@`@^j@l@j@z@`@r@n@dA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3326655,
+                        "lng" : -110.9654562
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 626
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 31.2213616,
+                        "lng" : -110.971968
+                     },
+                     "html_instructions" : "Take the exit on the \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHermosillo\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "myq}D|ohdTj@bAJTJTJRDFHJHNBDNPBBBBLPDD?@NNTVTVTRTTr@f@fAh@\\Jz@ZlA\\j@Rx@V|@^bAh@r@^t@b@JFHDNN"
+                     },
+                     "start_location" : {
+                        "lat" : 31.2259937,
+                        "lng" : -110.9684741
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "43.2 mi",
+                        "value" : 69506
+                     },
+                     "duration" : {
+                        "text" : "46 mins",
+                        "value" : 2758
+                     },
+                     "end_location" : {
+                        "lat" : 30.667614,
+                        "lng" : -110.9153658
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eHeroica de Nogales - Imuris/Imuris - Heroica de Nogales/México 15 S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow México 15 S\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "o|p}DxeidThAv@r@d@v@h@`BfA`@XXRZRj@^ZRXRTNh@`@v@f@ZR\\Td@Z`@Xp@d@`@TRLXRXP\\PZP^Nj@Rf@PRDPDTFTFZFXD\\DZDL@H?\\B\\@x@@|@Cl@Cl@GdCOdCQxBQlAKd@Cf@ElE[rAKdAIzCU`CO~BQbGc@bAIhBM~Fa@jF_@pBMhLaAvHi@nE]tFa@bDU`Ku@pE[~QsAlMaAvDSh@CdAGdBOJ?tCUjAIHAHAv@GhCStD]`E_@\\CXEn@Kd@Kh@OZKd@Sh@Yr@a@XQLK^[r@u@Z[t@aA~CgEtDyErAaBh@o@fAoANQPMh@c@XQRO~@i@nC_Bd@WVQh@[v@k@\\YTUX[h@q@z@gAf@o@r@_AvAkBxAkBl@{@^c@Zc@LOt@_Al@w@l@w@v@cAZc@X[rBmCrBiC`AoA~@kAf@m@|@kAxAgBr@_AX_@Za@|@gAz@iAv@aAT[VYNOn@i@nBeAdCsA`Ag@^Od@SXKTGb@Kb@Gb@Ej@EZEf@EpCSpCWpCWhAIhAKr@GdFa@lCWxAMXCZCnAMlAKlGg@pCUfAKfAKz@Gx@ItAKXClD[x@Gv@M\\Ir@O\\KVI|@YlBq@|OsF`N}Ep@Sp@W~Ai@p@Wl@ShAa@`@Od@Q~Am@p@Wn@Uh@Sf@U~@_@|@_@HE`@ONId@Sl@]^UZUVSpAgAv@q@x@u@x@u@fB}A~BsBfB{A~@{@hAcAnCaCz@w@z@u@r@q@tAqA\\]PUb@g@v@gA`F_IT_@b@q@j@{@^m@NUJQrCmEBGh@y@x@qAz@sAtBeD|A_Ch@{@pAsBp@gADGj@}@fBoC?AbA_BZe@fGoJBEdKgPrAuBl@}@Ta@JOJM^m@|@uAz@sAhBuCpB}Cz@wAb@o@n@cA`BgCfBuCh@y@r@eAz@yAdBmCz@uARYz@sAdBmCzAcCb@q@n@eAv@kAT[d@e@d@i@Z[j@c@XURMTOt@a@j@WrAk@bFiBn@W`DmAdFkBnDqAf@SlFkBdEyA`Bq@x@Y|LkEzAa@\\Ef@GnAOb@EbC?nIL~MR|LNdA@bFHlBD|A?F?^AX?f@CdEWrFc@tHo@dAI~Io@`DYrRuAzAK|DW`CUzAOn@Iv@O|@Uj@SZKl@UfC_AzHwC|@[z@]rGgC~B{@`@MtHwC`QsGdG{B^MPG`@K`@I`@IRE^E`@EnBMZClCS`AINA`@C`BM~BQlEUjAKb@EVCr@Mf@Kj@MZK`@Ov@WVKzAm@lAc@bAa@xFaCNGrAi@bGeC`K_EnN{FtGmCzImDr@WZIXIRENC^Gj@I^E`@Eb@C^A\\?jA?dFP`FRhCJdPl@|JZl@@pHVdFPpDLnBFjADz@?\\AZAVA\\Er@ItB_@xN}BdKaBnKcBh^eG|OiCdIsAPCxAWtKeBhWcEnDm@b@GjHsAr@Q^IZKtBq@hAa@p@YnCoA^QzFqCvHwDpAs@^UTMn@_@d@[^Uh@c@vBgBxIoKrBkCdGuHr@{@V[Z]^a@NOJKXSVSLITKb@Q`AYzDiAjBi@~DkAb@MRGxBo@xAa@VId@Qh@Sd@Sb@Uh@[jAs@p@e@`@Un@]VMd@Sb@Qf@OTE`@Kf@IpASfHgAb@GpAOh@En@GbDQ`@CfUkAtDQr@GTCt@M\\GdBa@pBk@`FyAdDeA|@_@b@S\\OhD{BrAeAvMaK~BgBfAy@l@_@h@Wd@Sh@On@M\\Ed@EZAV?^B\\@N@NBLBNBXJn@Xn@VnAn@ZNLDVFlAFr@HhAD|@GxCw@|FoEhEoEb@k@`@q@n@yBHm@RcBP}HHcDLmARsA~B}GdC_Gn@kAn@}@LQd@a@ZYRUZWjA[nAYrFe@fRy@JAvAE|]eBjIe@hF]`BCvEEjDJ`Gx@rLtB~Bf@nFdAv[zFhF`AxC`@tE`AnEPvEF`FLnBFbDp@tOfGnDlAbJ|CbBj@t@Pl@LfC`@vCVzFJ~EQdKq@F?d@Ab@?`EM|AGpB]`Ew@nDcA~Ak@PMvBmA`HaElUwLlBo@|MaD`OcDlCaAtHoDrAs@fGiD`EqBpC}AlAo@tFyBhA]jB[lBWZGrJgAjAQrAUxB_@xC]rHgAfB]TCd@Kx@W`@M`@MbBk@tFeC`DwAvBaArCuAlB{@bCiA`Ac@VMdEmBNIjB{@fM}FpI{D`EgB`Aa@v@WVIh@O~Cu@vAU`AMnCSjAIjHg@xFa@D?~Hi@tAKlDWtFSd@ArACxFMzN[f@ArEKhHSnFMvDIR?xMYLAhIS|ACrISnBEzHQTAT?tN[fBE`L[hEIXABA^AfCEdHMz@@fAHb@HTDj@PdA^HFb@Tz@h@f@^XRjBxAJF~AfANLv@f@DBpIfGzGvE`Ar@zK|HjFnDNJxL|Iz@p@JFf@^p@`@NHD@h@Vn@T~@XnAXLB`@FbAJdBHh@DxBPhEZ^BdDVnAHvE\\bBLxCRj@DbBHP@vBRvAH~CV|AHpBNdCPlAH|@FxF`@rCRzE\\~CR`@BtEZxE\\pBNV@tRtA|@Ft@Dv@Fv@Dt@Fx@Ft@D^B|@DhAJR@L@VDzDp@fAV`@JlEdAhCn@~@VNBtAZZJXFzCt@b@N\\Jf@NTFzA^tEdAdARv@Td@J`AV|@T~@Pf@JlAZTFl@Tp@f@BDPRNTp@fALVJTXh@DJFNV`@JLJJLJNNTP\\V^TRJFDLFLDb@N|@R`ATr@Px@NVD\\HJ@JBD?ZHt@N@?d@LNBJBL@NDZFt@Ph@HRBHBXB^BV?V@T@R?TAp@ERGTCVGLCHCTERETIbAa@`@S\\QDCFCTKTMf@U|@c@lAm@LELG\\Q^S^QJEh@Wh@WRINKRGPIb@SdAi@jCoAvG_DRKTMj@Wj@[r@Wf@OZK^Gb@GnKiA|AQtCIh@@XBp@DN@p@FdALr@LnNrAb@FxARfD\\tFt@tB^l@RbP`FzK`DfB`@b@Hl@Hb@B|A?rA?`EIx]_AhJKpAAL@J@`Cf@`E~@n@NzAN`H@zDCD?rABbC\\bCh@jLlChQ`EnAXHB`B^tDv@bE`Ab@LPH\\T|@p@x@x@~@jAh@d@|@v@b@Tl@Td@JfFPd@BlBH`AFNBLBNBTF^N\\Px@h@PL^`@Z^HHZd@Tb@Tl@Tt@Nf@Hj@Bf@Dx@@tBA~O?HBfE?~@@`@DXH`@H`@JVLVjBpCpA`BfAhAPHTJ~Ad@lFp@~AT~@\\n@Zh@`@^VfE|D~JxJnCjCtApAb@Xp@\\PJpBv@nAj@`Cv@j@LNBPBXB\\?jR?rOC|G?tPEjC?^?`@@V@NBr@Nl@PXN`@TzBlBhBvAj@^`Ad@~Ad@pQ`E~Af@ZLb@PPHHFJFdBtB`a@r`@pIpIjArAbGdLjFdLHNxQb_@Rf@T~@Hf@Jd@^|DLfB?Db@tCh@`BhBtG|If[dAdDX`A`GnS|AnFdAlD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.2213616,
+                        "lng" : -110.971968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.4 mi",
+                        "value" : 11856
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 650
+                     },
+                     "end_location" : {
+                        "lat" : 30.6203283,
+                        "lng" : -110.9936473
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eImuris - Magdalena de Kino/México 15D\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "qwdzD`d~cThBfFNX~@hBNVb@p@z@fAtAdBp@z@fApAf@v@p@hAn@tAt@vBXz@Rp@Z~A^lBdAdFR|@Vz@^jATh@Th@l@hAt@hAd@h@t@z@jApAvA|AzAfBd@j@\\d@\\j@r@nAn@pAb@`An@fBf@|Ab@tATp@Vx@Rj@pA|DjAnDf@nAd@hAhA~BnAvBdB`Cb@j@NR~@rADHdHhJl@t@lNhRbGfIbApAZb@h@r@n@t@b@Z^Xh@Zb@N`@Lf@JXDdBTbKhArD^J@nD`@zEh@vDf@zObB~JfAp@HXDrI~@L@nAPjALvEj@tCZjAL`@FhF`@rGl@XFNBxB^fANd@DJBl@F|ANlBTrCd@zGlALD|Cr@vAZjAX|@RpDx@dGnAvDv@h@JbHjA~AVj@L`@J@?B@HBjA\\NFVJVLNDz@^d@Tl@\\h@^PNJHTPFFBBn@r@t@~@b@l@l@fAdAzBzB`FfBfErBvElArCp@~Av@zBl@tBZzATvA?DPrALbBHrA@v@?fCGnBGzAAZIlBQbGAZEbBInAM~AQlAQ`AO|@g@pBs@xB[x@]t@Ub@a@x@uBxDwEvIgC~EuMdW_CjEsE~Iq@vA{@rBiAhDWdAy@xDI`@Ox@CJa@nBADMj@YrAYpAQz@Kh@]dBc@tBUz@ADM`@{ArEIVABIVQb@G\\Kr@Cb@C`@@TBf@DTJh@JXJVNXPTTV`@ZRL"
+                     },
+                     "start_location" : {
+                        "lat" : 30.667614,
+                        "lng" : -110.9153658
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "113 mi",
+                        "value" : 181371
+                     },
+                     "duration" : {
+                        "text" : "1 hour 47 mins",
+                        "value" : 6418
+                     },
+                     "end_location" : {
+                        "lat" : 29.0974474,
+                        "lng" : -110.9285308
+                     },
+                     "html_instructions" : "Exit onto \u003cb\u003eMagdalena de Kino - Sta Anna/México 15 S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow México 15 S\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "ap{yDhmmdTnBfATRnAzAz@xAn@hAp@`BjHdQjJxTRf@|DtJVn@nCrGzCfHrA|Cp@`BR`@f@hAdAfC|J|UpEnKd@lABFj@tAbFrLlMzZRf@`FjLhE`Kr@`BjT`h@BHjEfKbFrLfAjCRf@rHvQnEhLzA~DVv@n@bBTl@l@`BXp@Lb@Nf@Jf@R~@Lt@TtA^~B^hC`@jCp@|Dd@`Df@~C`@fCP`At@zEr@dEx@dFfAbHpCjQlAvHnFr\\~@hGDTRnATjALj@BHDLN`@P`@Td@T`@\\d@DFRVd@f@^\\d@`@b@ZVRp@l@l@f@zD~CfH|FjEnDf@b@rK~I|T~Qn@h@lAbAnBbBxCvCl@j@dBbBzA|AvHnHnBnBj@h@fBfBpFnFbI~H`L~KnQfQZ\\LPPVXj@Vj@Tp@X~@\\pAjA`EdAxDhDfM`@lBVjAVdAJZJTJRJRRVNRVXt@p@\\TNJZLLFXJXJPD\\Fp@Fv@Fx@Hr@J^Hz@TB@fAl@hAx@rBhBfA|@f@\\pC~A~DhBtA`AVX\\h@\\n@\\t@Vz@\\nBNrBFr@Fn@Nt@Tz@Xx@Xl@`BvBbCxB~@x@jA~@bBfAVJ\\JhDfAVH@?l@PnAf@f@RZNb@N\\@N?F?RAJAHCNC\\Kf@[PMNQb@i@d@i@l@o@NMJGXMLEFANCf@EL?F?H@H@NBVHzEtBr@^n@\\v@`@v@^dAh@d@VhAj@l@XzBfA|@h@d@Tn@X@@F@\\Pj@XvAt@jAj@PLdBv@TJ~@^l@ZNHz@b@z@`@nFlCtBdAXLZJVFx@JP@N?L?XALALCZGVGNGRMd@[ZYTS^k@rAwBlAuBrBkDXg@fEaHRa@JObA_B`@o@^]`@Yb@Qd@Or@KhBKn@CzAQr@Of@Op@YpAw@f@_@jHiFlCuBtCqBjAw@l@]n@Wz@Qh@Cb@?D?d@Bl@Bz@Dt@BH@~@DRB|@A`@E^E^K\\Kb@UhAk@rAw@\\Qx@a@|GwD`@Wn@]tT}LxMqHbE_CnJiFb@Sn@Yb@QPGv@UbB_@bASvPoCrIyAz`@gHbAQ^I|AYREnE{@vGgA`KgBBAJA`TqDfHoAPEdMuB\\GbDm@zEy@nF}@tHqArCg@VEvJeBdJ}Ad@IjBa@fCc@~GkA^IzCi@rM{Bz@On@I~@IbBMp@Cj@A~BAfMA~F?zFA`EAfA?H?P?N?lAAvh@KfLA|]AN?`AAX?v@?|QKbTC|HAva@GjHAhLArQE|B?p@?v@?dA?xAB|@HdAHx@Hx@Fb@DlBNnL`AlMdAhE\\xALlNfAhUhBrBPfIn@tZfChE\\dOnA|Ff@pFb@jHl@bPlArHn@hTdBlL~@|MfAhIn@|D\\r_@|C~CRZDjJbAbEd@|J~@fGh@nE^lCThBPN@|@Hp@F~@Dv@Bb@@V?dE?pA@T?vHChUA|JA|c@EdOClHApI?`GAvk@I|C@|FAt@?D?vD?rBAvBAlVEvPAlB?xC@|f@Ilk@Ct@AlRCtk@Gt`@Et@@H?|GCvk@Gtk@Ihl@G`k@Eb@?rd@C|DArk@E~@?vEC|b@EjG?vHCxQAtFApIAvNCnQCfOArXCrA?fSEnF?dDApEA`C?d@?hAAbE?jC?bIAlAAtE?jC?jAAvC?tGA`C?`DAzAAhB?fG?rFAT?hAAbE?vEAbFA~PAtB?xDAvLArDAnB?jJAbGAbIAhDA|BA~CAT?zB@dC?t@?|IAdD?J?lB?~AA~@?`A?|@?pEAtHA|EA~BA~G?bNAtIA|`@Exk@K|`@E`D?vEAtMCf@?f@?rHAjC?lKAvE@lSEzC?~CAxB?dMC`BA`I?nKCzGAdE?p\\EtGAR?zVEvJAtGA|a@E`@?PA~FAxVClTCdKAjJApHA`I?lGAzA@R?R@n@DxHd@bBNxCPlBNh`@fCxSvAxV`BnM|@|Fb@pALjHb@hEVx@HfBLxf@fDrj@tD\\BzIr@zPnApN`AxPxA|QhAlFVdJl@vU~A|Il@bSpAt^~BtG^hk@rD`UtAfUvAjAHzQhAvKp@bCPhAFbCN~TvAlUvAdSlAjEXzPdAbMr@`BJ\\DrEJ`MHrDBT?rDDtGFfCBtDGzCDbNLtC@dHFhDBhFD`KFbEDlEBrMHnTPnGDlADpA?nAA`BAp@ArBK`@C`@EdAIz@InAQvR_D`IoA`Di@pLmBzGiAbEg@jAI`ACp@AbA@vABlAFp@Ft@Jn@Lt@Nn@NlA\\`Bl@jFpBXJh@TbAd@r@`@|@l@fAx@fA|@`A|@RRv@z@rCfDtLbNb@d@ZZbAz@p@j@`@X\\R|BtAFDD@rAl@d@RfA\\tAd@vAd@r@P\\Hv@L~@Ll@F`A@d@Az@At@EjAOb@Gf@Kj@Oh@OZOn@YVMd@Yp@_@l@e@rHoG|AqAvDeD`ByATUb@e@RSjCwC`EuEfLsM|GwHlFeGvEmF`H{HrOiQpLqMp@o@`A{@t@m@lDoCfImGpCuB~@u@vGaFtFiE`JaHfA{@jXySlCyBxDuC`BoArWeSlHwFfLyIzEuD|@m@t@e@j@Yj@WNGXMp@StCs@jCk@bOaD|Bg@nEaAdDs@dJoBtDy@nX_GnDy@jE}@pH}AlOeDbFgAfIgB`R_EpDw@vBc@tA[~HaBTGDAf@K`E{@vD{@|Be@vD{@|Co@lBa@~Cs@vEcA|EeAlEaAnDu@pIkBtGwA|Bg@tFmAtEcAzEcAzPuD`Dq@nCm@t@QpCk@jFiA~d@}JLCxCq@lCk@rCk@vH{AfDo@hMkCtJoBnFeAr@M\\E^ERAZCXApAArD?jL?^ArE?nB?jG?~G@rF?lEAfIAxZCpk@CrLAnF?hVAjc@CxG?lC?rF?P?rQAjC?pD?dF?zGCtH?dRArH?fE?jH?tEA`D@~C?bFAtBAVAl@Cp@GbC[vBYhAOdY{DhJqAbKuAbQaCzLaBvj@yHzQeC|MkBvG}@rLaBjL_BxImAbQaCfIiAzj@yHtMgB~Cc@nCa@j@KJArFw@jIiA~Cc@pL{AfAM~Ce@vBY`RgCjG{@xb@_Gn[mEtMgBNC|j@yH|`@qFdIgApj@uHn[kElHaA`l@aI`NiB`IgAJAdFs@pJuArj@uHpY}DzDe@fJqApBYtOwBjQeCfDe@nJqAbKuAnFs@dLyAlIiAb`@gFlWiDlRiC~j@sHxEo@fH_AzZcEn_@_FpDe@hEk@lL}Ah[gEr@KnEk@hd@gG~Cc@vQcCdFo@xHeAbBU`C[vG}@t]uEbk@uHnXoD`G{@nIgAvj@oHlKwAtEo@|WkDp[kEnNkBz@Kvd@gGjDc@`JoAhJqA~MiB`D_@~T{C~T_DpAQtC]rHeA~HgAjDc@fHaA`Ei@DAbGy@nAO\\Gj@GnFq@zNqBlDc@xf@{G~AShk@wHvTwCzRkCnZ_ErMgBhC]|Di@pL_BnEm@fIgAtL_BbCa@hCi@dIuBlA[bAYbl@uOrAa@rD_A|@Sz@Qv@QtASf@IZEvAOj@GlAIvHS`JQfGOpEIrQa@~FMdCK`DQv@GdFq@`U}DpRiDjKkBpFgAbCo@hRaDr@MfL{BhAU|TcEfCg@hc@_IvE{@VEl@M`IyA~FaAn@KbHmAxT{D`BYtYmFbASvFcArDq@j@K`HqAzQcDbF_ApCg@HCjB]n_@}GrEy@v@MvAWxP{CvE}@PA`AGJAdHqAdB]j@KfAUlDo@r@MLEd@SPE~Ck@vXcFdBYpBa@nB[jUiEnDo@bF_Aj@KvQkDvLuBzIaBZGbHuAfGcA~Dw@zDo@|@Q~E{@~Bg@pA[vFaAtFaAda@qHfHqAxXgFtQgD|Dq@f[{FlGkAtEy@|@QzBc@x@MfAQh@Kv@QjI}AbVwE~E_AjQ}CjGeAfCg@d@KlJeBfAUpDo@rW}E~Du@\\E`Ce@hHqAlHsAxEy@n@MrJgBrCg@rBa@xHwAb@IdQcD`Eu@j@K`Dm@fc@aIbDm@`Es@~Ds@fIyAbHqApP{CbOmCzHyAfUcEz@OrDq@l@KZGfBc@d@MNEdE{@b@Gv@I|ASnDk@bCg@nBa@nCi@vCi@rHuAxBa@LCjHwAnj@cKzQeDbAQzH{ApGaAXErCg@zB_@xCk@h@KfCe@fASxA[bAShBc@jDo@lDo@xDu@dDk@fAQrBY~AQzCW\\ApBOf@EbCOhGa@nCQrDSdAGvBOrGa@rBK|BWx@Iv@QdAY|By@`A_@|@]rAi@zBaAfAk@`CsAr@e@|AqA`Aw@zAoAnFkEzOsMjKoIrAcArAgA~BmB`BiA~Au@^OzAg@d@MLCRE\\Gd@Gn@E`BAH?B?~ECtPE|CB`HAxOEtB?jG?jC@`B@B?dk@@tP?bB?n@@VBZDXFXF|C~@j@NjIlC~@XjDdAhKbDd@Nb@Fp@Jb@D^@r@?lF?|GCrDAdHCJ?xDBN?tF?bH@nB?bNChICfECP?f@@|A?VAnAAdFDvA?~@?zDC`CAlCArB?v@?jBApC@hJ@hCAvF?|A?fDEpC?hALfALhDv@nAb@jCtAvB~ApCdDfAnAt@|@zAzBrCnDhBbCZf@Tb@P\\J^Nn@Ln@Hh@Hz@\\zCFd@BJj@lEZpCTzAZvCP`Bt@hFD`@BTLjAThBLx@JbAF`AF|@Bd@BtA?hA?^"
+                     },
+                     "start_location" : {
+                        "lat" : 30.6203283,
+                        "lng" : -110.9936473
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 29.0974808,
+                        "lng" : -110.9309118
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eBlvd. Enrique Mazón López/Internacional A Nogales/México 15 S\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "abrpDhv`dT?\\AtDA`@?~AAh@?zA"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0974474,
+                        "lng" : -110.9285308
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 998
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 29.0886861,
+                        "lng" : -110.9311849
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePeriférico Oriente/México 15\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gbrpDdeadTAb@^AHEFE`A@dAB~@ApC@pDA`C@bC?~@BpC?jCFzGNxABnABb@?T?PAj@G"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0974808,
+                        "lng" : -110.9309118
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 666
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 29.08414849999999,
+                        "lng" : -110.9343925
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCircunvalación\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ikppDzfadTTNF@NB~@?L?B?B?D?B?BA@?B?@AbC@jAD\\Dd@Fb@NRFPHb@TvAx@|@j@bAp@n@v@PVTf@Ld@Jj@Fb@Hr@PfB"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0886861,
+                        "lng" : -110.9311849
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 584
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 29.0790494,
+                        "lng" : -110.9355617
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNueva Circunvalación\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}nopD|zadTp@Hh@JPB`ARb@FpAP\\FdAJd@F\\DfAXVFN@RAh@I\\EJ?dAH|@R~@TXJ`AV^JTH"
+                     },
+                     "start_location" : {
+                        "lat" : 29.08414849999999,
+                        "lng" : -110.9343925
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 29.0790259,
+                        "lng" : -110.93637
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv Ferrocarril\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aonpDfbbdTEx@CNAT?J@LBNDLBH"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0790494,
+                        "lng" : -110.9355617
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1015
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 29.0717462,
+                        "lng" : -110.9420969
+                     },
+                     "html_instructions" : "\u003cb\u003eAv Ferrocarril\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eBoulevard Villas del Pitic\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}nnpDhgbdTV\\RFdAZzBj@~Bf@JBzCr@TFTJZP`@ZTTVRt@fAlB`C`EbFRVxBpC|CvDHFJD@??@?@?@@@?@@??@@??@@@@??@@?@@@?@?@@@?@?@?@A@?JDFBNBF?F?D?"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0790259,
+                        "lng" : -110.93637
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1433
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 29.0698999,
+                        "lng" : -110.956088
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBv. Francisco Serna\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mampDbkcdT@@LRHPJNNV\\j@~@~Ar@lAv@tAhApBR`@HRHVJZFXBPBPBZBb@@~@BxB@bA@fA@z@BtCBxABzBBzBD`J?`@Cz@GlBE|@I`BIlA?TItAANI~BABAT?@EtB"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0717462,
+                        "lng" : -110.9420969
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "377 ft",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 29.07006759999999,
+                        "lng" : -110.9554865
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto the ramp to \u003cb\u003eGuaymas\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{ulpDpbfdTGLGHCBA@C@C@C?C?C?AACACAACAECKAU?]?S@KBMBE@CNQ"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0698999,
+                        "lng" : -110.956088
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 mi",
+                        "value" : 3204
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 301
+                     },
+                     "end_location" : {
+                        "lat" : 29.0415703,
+                        "lng" : -110.9579022
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eAgustín de Vildósola\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "}vlpDx~edTXCNCTCPAj@GHALAb@Cb@E^C^CXCVAbEY~Io@~AM|AGzDSv@EfBKbEOxAKt@EzBKT?l@At@DxANVFzAVvAPnBT~ARhD^h@Fd@DjD\\|ANxBTpEh@tEh@~APnBRpEf@jANhAN|@JbCVdALlALb@DpBRnD`@|LtA|LpA"
+                     },
+                     "start_location" : {
+                        "lat" : 29.07006759999999,
+                        "lng" : -110.9554865
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1065
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 29.0321207,
+                        "lng" : -110.9596387
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eAgustín de Vildósola\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ydgpDzmfdTnDVN@`BNbBNrALrALh@FN@XDXBh@FH@`@BJ@\\DZDv@Hb@Fb@FRBPBtDf@jIdA^FhEf@vCT"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0415703,
+                        "lng" : -110.9579022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71.4 mi",
+                        "value" : 114851
+                     },
+                     "duration" : {
+                        "text" : "1 hour 6 mins",
+                        "value" : 3944
+                     },
+                     "end_location" : {
+                        "lat" : 28.040612,
+                        "lng" : -110.9392769
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eManuel J. Clouthier/México 15 S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow México 15 S\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wiepDvxfdTZ@`BLf@BhBLjDX`@BrDVvGf@P@dETlCRd@DtEXzDZhXpB|CTxALbJv@hE^~F^RBN@PD^FNB`@F`@Hl@NNDTHPFxBx@|CtAfGfCfA`@z@\\nBv@fDtAtAh@fFrB`HpC|D~AvInDjCfAnDvAf@TnBz@jFxBbBr@D@~CrA~EnBbBr@ZLd@Rp@XXHf@JNBbAN~@Jf@Bn@@\\?^Aj@ATATCj@Ef@EXGvAWfCk@vCo@pDq@p@OvDy@NCn@O`AUPGHCn@S^Ob@Sb@URKxDsBf@WRMTOdE}BbJcFdK}FfH{Dl@U`Bm@LAdAUv@MzAObGM~FMvc@iArDMpGO|GM`EGvDE`BG~@E~EQpBKjDCtQe@lCMlCKtJ[hLYpSi@hGOnAEnBE~CI`AIp@Gl@Kf@K^Id@OfA_@|Au@hAq@hBqA`BiAlJoGxHqFxPiLpFuDpA{@p@a@z@e@z@c@HCr@UbAYNGPCx@MVE\\CRCbCKjEMfGSxGWdGSbDSlAIrFU~BK`Ru@bEQhMe@bDOrDM`Kc@pFSnQu@~GWnEOpDQvCM`CIbDOnAG~AGpAGv@Cp@?X?V@Z?d@D^Db@Fr@NbDr@`Bb@xAZpDx@lBd@dDt@nDv@lEbA~FrA`Ez@jGtAfGtApDz@jCl@hDt@dAVvItBlEdAnCl@vD|@xBd@bE|@v@Nb@H|Ct@bFlAfAVhDz@tDx@bIhBzLjC~@RjAZ|@Rf@JRDZDVDR@R@T@X?T?`@CVC^EVGVI\\KVK`DyAdEmBhAg@ZOZIZKZKPE\\ITEZGZCVEXCHAZCt@Cb@AlD?zLEdMCdGE~@AvBCfGAlG?rA?JAtE?fJCzk@MxIApRE`MAbm@KvGCxGCtFAbQCnm@M`NE`MCl@?|@AnKAhCArFCpF?fC@~BDf@Bl@Db@DpBV|Ch@tGhAvQnDxCj@NBfIxAlOxCJBpEz@z@P~Dr@tCj@rIbBxJhBpMbC~AZnHtAlRnD`GjAdCb@LB|GpAlI|AtB`@bCd@|Bb@rCf@dFbAd@J~@PrCf@zCj@dCd@dB^pCf@rB^lB^r@LdB\\nHvAbIzAbBP`Ev@hTfEnHvAjI~AbGdAvDr@lCf@nDp@pGlAPD`NhChOnCpJhBPBvHvAdCd@vNjCrB`@LBrBb@jATjBZVDbGhAlKnB~E~@|Dr@rFdAxFdAhEx@vAVpGjAhCf@fJbB~JjBj@JzB`@fCd@TDz@PbGhAhAR~g@pJnj@hKlGjAD@TD~Cj@pEz@pCd@|GrAvGlArj@fKrMbChJdBbNhChARjI|AbPtClFdAnGjAlGhAjI~Av@NzB`@bEv@pCd@tDt@rAb@p@VZNVLXNn@b@RJp@l@vAtA~@~@tCxCbE~D~G|GnAnA|@z@d@b@f@b@b@X\\Rp@^t@\\h@RXJTFXHVHh@J`BV|AXfS`DhHjA~LpBlC^`Dh@vCd@lDj@vB^hDj@tYtEzF`AhFx@bDj@r@PvMbDlM|CxCv@~HlBnG|AzGfBvAZ|Cv@zA\\nIvBlIrB`IpBtCr@rG|AjHfB`NfDnFrAtLxCfCl@hLrCjBd@~PfEpM`D~DbAzCp@|Ct@tEhAlAXtElA`FlAxEjApEhAlDz@bEbAn@NdFpAbE`A`GzAXHjAXdATl@NrA^xCt@tCr@jAZl]nIf\\fIpLxCvIvBvWpGvEhAtG~AdGxAzBj@jBd@bGxAd[xHlDz@r^bJlD|@bS|EF@ND`Dx@pQnEhEdAzX`H~OxDdM~CnG|AzA`@j@NjNhD`GxApLpC|@RpD`AlLvCtA\\vAXPDXBr@BT?`@?r@GZEZGb@M\\M~@c@TORSl@k@nAoA|EiFfAeAXYPQj@c@\\WNILGl@S`@Mh@Kd@EXAv@CR@P@b@Hp@JVFTHf@Nh@TRN^ZZZnArArAtA`Ax@^Vj@X^Nj@N`@Hd@Dp@Bp@?l@E`AIlJy@dOqAlUuBhAIjAM^Iv@OXI^Mf@Qd@Qh@Wd@Wd@Y^Wb@]RUdEeEx@w@^]^Y`@[VQj@[ZQRIZMr@Yd@Mp@QVGt@M\\Ed@Gh@Cv@Cj@?^?b@@XBb@DtANxKnA~LvAvGt@xBXjAN`PjB~JhA~j@vGd\\tDxM~AfAJpAJrCPlBJbA@`CFlGF~FDhCBtCD|IJfHD|C@l@?t@E~AQr@Mt@O\\KVIZKj@W~CyAzFoC`CkAxAq@`@Od@O\\Kp@Ov@Kr@Kv@Gl@Cr@?f@?z@Dl@DjAN|Fx@lFv@fBVd@Df@DxADz@?`AEtBKtQgA|@Gd_@_CtDSfEYhh@aDjBCtAEbAAzPOrk@c@rJAvCAj[Kzb@s@`BAlAAnDClj@e@jQQpWSF?nBAB?hj@a@ri@[~@?fJEp_@UbBA~ECxA?tBAb[SfNI|NGrLG`a@Kj\\SzKCz^Wpk@g@rYQ~CClAApC?~@AdCBx@@N?F?pA@bBAdIIr]]jBAjh@YzUMvTOlJC~XIhFA~TUjBCz@Cx@E|@Gr@Il@IZCZE`@G`@If@Ix@SdBe@nAa@`J_DlQwFvHmCbBk@l]mLPGpFcBlDkAdOaFnOgFnBo@pVkI|DsA`GmBdC{@bCy@~Ag@hBi@bCk@vFgA`IcB|FmAtA[~EcAp@O`@K|@UlBg@zCaA~@YnGqBpFcBbCu@~HcC`K_DrLsDhEuAfEqAv]sK`DcAv@WpRcG|PoFrAc@`A[NCl@KTGdA[`LmDnH}BvKgD~@YfCw@fF_B\\MlJqCrFgBxGwBpH}Bl_@oLREnH_Cp^aL|CaApRaGbA]f@QVK\\OPI\\Qf@Yn@e@j@c@TS|@_A\\a@b@i@bJcMdB_Cp@aAf@o@bAwA`@i@RWVYVY\\]p@i@d@]VQl@a@b@UtAs@VKnBeA`MkG|EcCbDaB|GkDNG`JqEhNgHxKsFdFiClLcGbPeIl@[vAs@zBmAzVcMrNkHtBcAXOn@YPI`@OtBy@xBw@nEoAl@QjCm@pMuCzJ}BlIkB`IgBpImB`YmG~A_@pDy@hGwAvA[rBc@xBi@tEgAVG`JqBjMsCrFmAzNeDf@KhQ_EzZcHpCo@fDu@`Dy@zi@aMdj@iM`H}A^IvA]fA]d@ShAe@vFwCrAq@h@Wd@Qd@O|@Sn@It@EZAl@?n@Dp@Hn@Ln@P`Bl@n@Z`@Nj@RpA^p@Pd@Hr@HZ@\\?p@Ah@Ep@Kj@KXIZIh@Ud@W~A_AnCcCrCkCt@u@fA_AbAs@l@a@h@[XORIx@[NGRGjDw@fAYnLmChd@kKdH_BzFsA|P{DhDu@dGuAhIkB|Bi@lAWnJuBzM{ClA[jCm@fPyDp@QlBi@|Bu@pDkAXIjEuAvAe@`A]~GwBLEpNsEdJyC|E}AhC{@nAa@bH{BbEwAz@W@An@UZItDiAHEjFcBrDqA"
+                     },
+                     "start_location" : {
+                        "lat" : 29.0321207,
+                        "lng" : -110.9596387
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13.6 mi",
+                        "value" : 21967
+                     },
+                     "duration" : {
+                        "text" : "15 mins",
+                        "value" : 929
+                     },
+                     "end_location" : {
+                        "lat" : 27.9513224,
+                        "lng" : -110.7456451
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLib. Guaymas/México 15D\u003c/b\u003e (signs for \u003cb\u003eCd. Obregón\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ytcjDnybdTTQ`CmA`A}@V[T_@Tc@FMPg@DK?A\\{ALm@Hq@PcBPuBl@wFj@oFf@uEp@iGh@kELeA|BmTp@oFv@uH^wDn@iGFk@D[NsAzAgNzCiYhCaVxCuXb@gE|@gInFcf@x@uH|BqSnA_L\\mDrCgWzAmNpCaWdAwJvAqMb@aE\\aD^eDToBTwALs@n@uCXiA\\iAb@oAr@oBdEyK`C_GjPcc@fD}I`EiKvDuJlCeHnBiF~HkS`GuObCkGpEsLvJaWrGqPrAmDnHwRzCcIjDyInDqJrDqJz@{BxHcSzEkM@E`B_EhEeLfAiCvLkYdL}W|E}KTi@FSFUd@gBfAwEHYHWhA}DtAiEpJ{VnHwRl@wATq@^{@x@oB|@cBXi@^m@t@kAxCaE|@gApCoDpB_C?AzNsQhHcJ|IyKrIsKrJuLjCaDrAaBlCgD~BuCzAmBfC_DfGyHX]\\a@BA`@i@JMHMzGoIvOwRNQtGiIvBqCdFiGjEqFvEaGxE_G|BsCjGwH`@g@bAoAnAyApDyEpDqEdBuBh@s@b@m@`@_@`@]`@[x@k@h@_@RSPONQFIV[Ve@\\m@^aAFOHUHa@D]DW@M?I@U?IDoB?eAHcC"
+                     },
+                     "start_location" : {
+                        "lat" : 28.040612,
+                        "lng" : -110.9392769
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66.6 mi",
+                        "value" : 107165
+                     },
+                     "duration" : {
+                        "text" : "1 hour 19 mins",
+                        "value" : 4722
+                     },
+                     "end_location" : {
+                        "lat" : 27.5142336,
+                        "lng" : -109.928236
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGuaymas - Cd Obregón/México 15 S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wfriDh_}bTDoIAmH?M@_G?{E@q@PyOTe[BuCh@_p@j@}r@LqPZc`@j@kq@@eAX}VNmPDwENeO|@ol@AyDAw@m@uUAy@?e@@s@Bw@Fy@Di@LoAvCuVtBgQzCmWvBqQJy@dAyIFg@|@uHL}@PiAVuAnAmFl@oCr@{Cj@{BpCwLzAsGb@iBBIhAcFf@wBp@sCPy@zAsGfAuEjAcFDQLk@hD{NbAwEjB_IH[pAuFlDkOxFgVhJ}`@bCkKdAmE`CeK|B{JdFqT|EiS|@eEx@oDJ[fLyf@Nk@jBaIrNum@pA_F~@{ChE{MfC}HxGwSrRsl@r@wBfKi[xBwGvLw^pA}DjRil@n@qBl@cBbQ}h@vAqEzDsLvAgE|IgXhAkD`@kAPk@zAoE~FoQb@oAtBqGdBgFtEkN~Kc]~GwStIyWnAsD|O}e@FOvBoGhAqDdDqJzFaQVw@xJoYrDyKnAsD`A}B^_A\\}@\\y@hCsHRi@P]NUT]\\a@\\]z@g@dFuCbFiC`Z}O`KmFbMwGlDsBvBuA|G_EjEkCzBuAJGpLmHjFcDf]ySPK`GsDt@c@f@[ja@sVd[oRXOdHiExFkDRKbTuMpG{D|EyChKqGzQ}K~GeEdAq@zDcC`ToM|IqFfZyQnFeDlNsItLmHzCiB|AaAhBgA\\SdBeA`Am@xJgG|A}@`EcCrEqCxJgGtCeBlBiAnFgDjIeFfAq@^U|GcEzN}IhFcDrHsEtCeBHEHEpA{@lDwBdI}E|HyELI|EyCrA{@d@WxN}IbCyAbGmDpCaBhEoCvMgIb[iRdAo@zFkDdSyLnJ}FBCnDwB\\SpKuGrEoCjGwDv@e@xGaEnJ}FfOcJlIgFtNwIvJcGvIiFxTcNzIoF~@i@dYcQ`SwL`F}Cj@]zVoO|EwC|DcClEmCfBgA^UtSaMxEuCvJcGlS_M`EaCj@]j[oRtAw@xD{BzP}J`BcAjBcAhJuFrDyBxA{@xA}@t@e@xBuAj@_@~NcJvPgKdAm@~@m@`EgClGyD`@U^UJGDGJWBE@CDCfCyAtLoHdAo@vEqCdC_BTSXWVUr@s@nA{Ab@m@NWXa@d@w@JUjCkFR_@R_@pSea@dDsGzMsW|CeG`T}a@b@}@zAyCzIaQnDeH~CgGrB_EbCuEpB}DzKoTlDaHpAeCLUr@wAb@o@`@g@Z_@j@o@d@e@r@i@~@i@bAk@vCoAnIyDzGyCh@WjFaCv@_@l@[d@WbAq@^[~@{@NONSFGDGHIRYJOLQvC}EfFkItA{BdBqCfEsGHIP[~BwDpAqBnAuBZe@zAaCdAcB~@{AhEgHd@u@t@iAlAoBfAeBrBgD~@{AXg@l@aAJS|AcCjAsBVe@Xg@t@}AXs@Ri@j@{A@Gp@{B`@wAJ[Po@`@wAfAsD^oAXeA^qAFWv@iCx@qC`@wAL_@v@qCdAoDjAsDtAgFTq@Rq@v@oCT{@La@X_A`@wAh@gBV}@f@gBPi@Lg@d@yAXaAFUj@oB\\iAf@cBd@cBl@sBVw@p@iCfAwDvEuPNk@`Mkb@Pm@Pm@ZmAPu@No@PiAXkBTkBfC{V~AuO\\_DzCiZ~Gaq@tBsSH{@Fc@PuAFq@@K@OvBmSrBuSXmCjCkWlCuWj@{Fh@qEbCiVbAwJj@qFFo@x@{H|@kJnAoLlAmLTqBxG}o@vAwNt@{GrB}RVgCnAaMhEib@vAaNHu@xG_p@nCoWt@aIdAcKP{A`H_q@rGao@`@{DhCyV^iDXoCVcCdA}JrC_YlAwLjDs\\xFaj@xBmT`AyInBwRv@kHT}BnAqLZkDfAiKPeBj@sF|@yIjAkLRkBjAsKVgCHm@jAwLX{CxA}Nj@sFf@uE`@cEnAoLP_BJmAHoADy@FqABmBCsAIkBOoBQcBK_AYgCq@aHK}@WgCYsDK_AYwCk@}FkA_Lo@aHsAwMSwBoCiXqBoSAMuAiNcA{JuBySE]uAsNwAqN{@qIk@sFq@iHACq@iHcCiVo@kGo@qGsAmMcCkV_AqJe@yEmC}WcBuP{@eIe@oEkBoRyAkOkAmLk@kG]uCu@oHGi@CSI]CMOmAIw@Ey@Gw@Ey@KeFQcIMkFMaFQeKEmCGmFMmFEcCCk@EmCCaAEgBAcACg@?SEaBAu@EsBE_CGmBEoBA_AC_ACm@CwAEgBEoCEqBC}@?_@GkC?c@C_@?CCs@?QA]AYE}BA[C{AC_ACw@Ck@CUEc@Io@Ks@Kg@G_@Qw@UkAOk@Ou@i@oCYoA]_BS}@GYOy@[wAYwAcCmLSy@]aBQ{@UgAUcAOs@YuAi@oCsBoJwAcHgAaFKm@Os@Kc@Q}@Ms@Mg@Q}@oAaGI]WqA_@_BUgAaAyEKa@UcAyAuHG[Mm@EWIa@Io@Ea@Gi@A_@Cg@Cs@?c@?Y@e@@W@]Dc@Be@Fk@D]Hq@Ji@VkAFUJ]La@JYN_@Rc@Vi@d@y@NUPWV]\\c@f@i@XYn@q@nAqAnDsDlAmAdAeATSz@}@bCiCRSXU`@c@X_@|A{Az@}@h@k@|EgFrAuAzByBlHyHpDsDlJwJfAgAfCoCdFgFlAoAn@s@n@q@l@o@~@aAh@i@xA{ArCwClAmAvKcLr@u@tDyDxB}BRQHM^_@tDwDdDgD~AaBt@s@bBiBvCwCh@_@RMZWNKp@_@dAe@fA_@f@MVGPC^Ij@G\\Ep@Ej@CbACjC?pBA|B@zK?R?f@?|C?hAAtB@vF?zEAP?x@?~C@fB?~B@n@?fD@rC?vA?lLD^@jA@bA@V?zC@pB?fGApFBbBCnB?dBCVAxA?V?`BAtB?fB?lBA~A?hA@p@?zAAfB?tA?l@@nA?nEAR?bD@|I?pDBnHD|D@`GDZ?pGGbLKhQ@rE?lE@xMCjAArO?xO@hC?dGArEDzED~@CtAEv@?zBB~BCtBHvEIjCBf@@~@?bE@d@?zC?lCCpC@|CCxACr@?tA?pI@|E?dC?fFC`@?Z@T@t@@\\B^Dv@D`AJ|@Lx@Lt@N^HnBh@lA`@j@ZVL"
+                     },
+                     "start_location" : {
+                        "lat" : 27.9513224,
+                        "lng" : -110.7456451
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 27.5128228,
+                        "lng" : -109.9292111
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eCalle Jalisco/Guaymas - Cd Obregón/Jalisco/Miguel Alemán/Sinaloa/México 15 S\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "}z|fDnj}}SnAr@DBpAj@B@lBzA"
+                     },
+                     "start_location" : {
+                        "lat" : 27.5142336,
+                        "lng" : -109.928236
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.1 mi",
+                        "value" : 3442
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 383
+                     },
+                     "end_location" : {
+                        "lat" : 27.481873,
+                        "lng" : -109.9291561
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eCalle Jalisco/Jalisco\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "cr|fDpp}}SRDL@T?V?l@EvA?pGEdC?tB?bB?lE?zA?`ID|KArKER?tH?^?|H?~KA|K?|KAnF?rBAjD@dDAtF@zKCd@?lL@pA?tA@"
+                     },
+                     "start_location" : {
+                        "lat" : 27.5128228,
+                        "lng" : -109.9292111
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "97.7 mi",
+                        "value" : 157257
+                     },
+                     "duration" : {
+                        "text" : "1 hour 51 mins",
+                        "value" : 6674
+                     },
+                     "end_location" : {
+                        "lat" : 26.381052,
+                        "lng" : -109.0113228
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCd Obregón - Navojoa/Internacional/México 15 S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow México 15 S\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "upvfDfp}}SX@bAsBbAsBh@kA\\u@LW`AqBpFcL`BeDd@u@Vc@`@q@PW|@uAxDmF@AzByC`AmAtAeBvEoGr@cAz@eAV_@`AsA`@k@RW`AuAn@{@bKcNvL{OjDyEHKxDoFdB_C|CkEDE@AJMDIn@y@zCeEz@kAx@gAdFaHxCeEnBoC`B}B~C_FlC}Dx@sA~@{A`@m@jBwCvD{FvD{FhAcBzCmExAyBb@m@f@q@|AkBn@w@~@mAxCaEp@_A~CuE?AnDkFvGeJb@m@jD{EDG|DkFdAwAvBsCRWzDqFjE_GzTuZl@y@dB}Br@cAFKJOPSlH_KbCmDfCoDn@_A|AuBvB_DbB_Cr@_AzCmEnDaF~BaDl@y@p@aAnAcB~DkFjBeCj@w@h@s@bBeCxCqExEaH|GqJ|L{P~DqFjBoCdDyEf\\ud@pG_JFIHMf@s@nDgFfAyAjBoCjBiCfBeClBmCj@w@jCsD`B{BzByCrAoBxCcE|DwFdH}J`@i@dGiIx@kAZc@Xe@|@mAp@}@tDoFzL{Ph\\{d@rVo]pDcFRWhE}FtOwT|KqOdCkDfKyN`NkRVc@fA{AjCmDdCkDxAwB|DwFNSlCqD\\g@|DuFlFoHT[nU_\\pEmG|E{GPYnCwDlWm^bAwA`Z_b@hA{AhGyIzAsBdCmD|QkWfBcChJsMrFyHbAwAtHoKtDiFhCuD`AsAjBiCbB_CT]nBoCtBuCnBoC`CgDvByCNUfBkCj@u@|BaD|AyBrCyDpBqCnBoCr@cAzAqB|@mALURY|BeDjAcBV]d@i@^_@h@g@BAd@a@j@_@TMx@e@DEZOjAo@d@[FEn@c@LKNKh@g@\\_@BCh@s@Z_@lAcBT[`@i@\\g@HOT[^e@R[|AuB\\i@fCwDrBkCn@{@`DqEfBgCjBiCxB}CzAsBdBcCfA_Bj@}@f@aA\\w@BGTo@Rs@ZkAZsARu@BERs@d@kAl@iAZi@~@qAzDsFrBqCJQRWbB_C~E_HrAmB~Xk`@jIqLvAqB\\c@zC_EpLuPbGoILSbHuJf@w@nOcT~@sAfFkH~BeDpEkGpJyMnCyD~@qA|FaIfIiL|E}GdKsNhJ{MvByCxLwPdEyF|EyGBEzCeEXc@|GuJv@gArN{R~A{BzI}LvPaVhD}EfBcC`EqFnEsGpAkBDG`BaCjBsChAaBzA}BR[vDiF~AoB\\a@|BsCBEfCmDnDeFjJsMlQuVDE|E_H~H}KxF{HdAyAtHoKt@cAdPeU^g@Zg@~[ed@|GmJpLqPhFsHvAoBdOqSX_@BEhBeCbHwJhSiYzGoJhPeUfKuNxDmFdOwSjFmH|BaD`SwXlMqQfNsRlK_OpHeKjJuM`QeVhOyS~DyFrAoBjHaKhCoDbHuJfA_B`B}B\\e@\\e@nFqHt@cAnJcNhEiGzGeJpAgBf\\od@HKlVc]dE_Gp@{@xHwKhFmHzAqBhFkH|JkNb@m@vVk]pCyDdDuErDkF~[_d@DEhBgCnJ_NhGuI~GuJhL}OzE}GdGkItVk]tYga@pA_BnGeJnHcKj@y@bLqO`FcHxEuGpUc\\FGpLkPnN}RrGaJjBkCbAwApJqMrF}HfCoDpAgBzAsBbByBtCeE|IgMZa@JMlBiChCsDv@eAxC_ELOdH}JhBcCjBiCRWdEuFzFwHrEyGr@aAf@o@V[ZYf@c@`@a@VMTQ^Ud@Wx@]x@[v@Uv@Sd@In@Ix@IfCO|BOnIe@|Hg@NCLAnHg@l@ExBMf@Er@Gp@GD?|AKrAM\\CXAd@Er@IPI|CUn@G|AKlAIrBOv@GfAGzBQv@G`AIdEYLAj@C|Hi@d@C\\Cf@CpAKXCVCn@G`DUxE[rEYvEYtE]dBMrBOzE]RAhDWr@CxE]tE[zE[lEe@zEWvE[rE]zEYd@CdBOfAI`COl@Gl@EJAfBKdAIXC`AIjBSJBV?LCRCTCr@YxDeBVOhCoAlAo@`Bw@rDmBjAo@nAk@vAq@t@[JCd@Ql@Ql@OVGbAUl@KvBUtD[`EYxAK`Ii@zIo@t@G`@CrCQvDYNAxCUvDWbGa@jHg@pF_@fM{@|CSfBMnDWpEYzCSPAdBMVAlDYxBQxCQ|OgAzE[fE[d@Cr@Cr@Gx@G|BQrE_@`[qBXAZCt@GpF]rL{@l_@mC~AKxGe@jDSxBO|@G|Im@pDWdEYhDY~Jy@pFe@zWaC|BUjAI~Ik@z@IF?jJq@tM_Af@C|M}@r@GpYoBdOeAbGa@lM{@nIo@`XiB|BQrAMfAEzXkBrBOvGe@vAKp@Cn@E|@GjBIhFKhAEdACfCQvBOlIg@zHk@pM}@xGg@`G[zKy@fk@}DDAv@Gp@Ex@Gl@IZEXGZIt@Sd@QZKv@]r@[p@[lB{@@?bDwArLkFnCmA|CqA|FmCpEmBv@_@jGqCpIsDxIyDZOxHiD`PgHhO}GzBaAtIwDlH{CxFkCPGfAe@TOlAi@~RsIbEkBlHaDp@[pCiAtAq@|OiH`OsG~@a@|EmBvIgC|MkD~Ae@d@ORG@?dAYlD_ApCs@`AUb@Ol@Sj@SlAe@tAk@x@c@f@Wt@c@|AaAxKmHn@a@xGmEvByAz@i@zAcAnAy@~@k@~DwBxBaAdDyA~JuEVKdAc@rEmBfBu@jD{AjCoArDaBjGqCtTyJn@YtB{@~CsAlD}A~G_D~WkLvB_ApAk@d@Sp]oOnGsCzK_FhZ{M`CaA|CuAvBcAnO{G`J_EjPkHzRuIVMxDcBp`@cQpJeEv[oN~P{HfU}JTK`U}JlPmHfAg@n[iNlHcDbImDpQ{HlLmFnEoBvHgDbNcGpCmAzBcAnD_BpCoA^OpEoBlEqBtB{@vBaAVM`FyBz@_@n@]|@m@z@i@hA_AxDcD|DcDfb@s]jb@s]fb@y]lb@o]jb@s]pBeBrHiGzCgCjEoDjEqDhAaAxAqApK{IbXoThIyGpQcOzOsMpFqEhByAd@_@h@a@x@m@n@c@j@_@|D_CdGiD|CgBjSiLlBkAbAu@j@e@rAmAjAkArA}Ar@aAt@y@z@aA~@eAtCkDbImJ~DwEPSTUrByBh@e@^_@t@o@rWmT~GyFdb@o]fA_AfA}@LKRQ\\WZYjFiEn@i@fB{Ad^_ZzYqVjGaFrK}Iv@o@~SgQpZ_WvFqElb@u]hOeM~QoOdRsOdGaFxFwEnIeHzCeCjb@u]bKkI|EaE~BoBz^qZlAcAp@m@jB{AhHaGtAiAjSqPta@c]jUkRtK}Ij\\mXlDyC\\W^[jb@s]bCsBtS{P`_@wZ|CgCzJeI~AwA|OsM`BsArAeAlOkMrK{IfNeLrQeOjAaAvAgAfA}@r@e@dGsDHGxCiBPM~CoB~CoBjCaBpAy@rCyBfEmDvBgBbDoCrEuDdW}SJIbEgDPOVSl@i@BCRONOd@_@^[j@e@\\Y^[d@a@^Yp@i@d@a@l@i@tAgA~BoBJIVUr@o@dAy@@AVU\\YhAaAbAy@z@s@hCyBdAy@xAoAjGgFl@e@fA{@vAiANMh@c@lAgAhByAt@q@ZYjDuDjI}IdAgA|@cAl@q@dAiAxA{A\\]d@e@`A{@v@o@ZYfAy@v@q@n@g@t@q@RQhA_At@m@HKpC{Bb@_@b@_@bAy@n@i@t@m@d@_@b@a@RO`@[p@m@d@_@HIbBuA`BqApC}Bt@m@p@k@VSNOv@o@|@u@jA_ABCrGmFxE{D\\YzBkBpAgAf@a@jAcAxBgB`BsAfA}@bA{@|@u@~@w@lAcAlAaAr@m@nB_B|@u@lDuCjB{ATQlAcAVS|@u@pGmFx@o@n@k@d@]r@o@p@i@TSx@q@tFsEjLqJvHiGpCaC\\YFEZWdRsObDmClAaAdBuA`EgDpEuDx@q@dDoC~AkAnAkAXSn@k@f@a@r@k@nAeA`Aw@f@c@FEDC@CrAeALKjAcAvAkA`CoBlAgAvK}IbG_FHG`H{FvEyDbLgJfA_ArC_Cp@m@BAJGBAvAkAbA{@hCwBlB}AfA_AdDoCXSdCuBdCsBv@o@nAeAJI|BkBlAcAbBuAf@a@rHiGp@k@\\YrGkFjAcA`LiJdCsBpFoEbA{@jB}A~@w@DEzE{Dd@_@~CmCtAeAvE}DbCqBvFwENMrC}BxAoA~F}Er@k@lAcA`BsArEuDXUjCyB|AmAz@u@h@c@rC}BbGaFlCyBd@a@vBeBLKfGeF|PoNrFsE`Aw@l`@{[h@e@p]mYvCeCrAgAb]_YpAgAjQyNp@m@VSNKdBwA~IoHpB_BjZwVlCyBZWxHqGxRcPd@_@z@q@l@e@JGh@_@nAaAp@c@pA}@x@o@pAeA~AqABAv@s@f@c@h@a@|@o@ZYdDoCpHiGRONK`@W~@m@dGkDhJkF~M{HrGsDxDwB`DiBxA{@~@i@j@[lVgNRKb\\uQnJoF~M{HfGmD|KqGfAo@fIaFlDmBPKNMhH_E`RkKvD{BdE_CzFeDfFyC^Sp@[TK\\MTITIZKt@S`@INCt@K`@E`@E^C~@AN?bA?|@Dz@H\\DbC`@xAVdARlT|DdDl@RBxXdFdDp@"
+                     },
+                     "start_location" : {
+                        "lat" : 27.481873,
+                        "lng" : -109.9291561
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 26.3796079,
+                        "lng" : -109.0117418
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eNavojoa - Los Mochis/México 15 S\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qp_`DvgjxSHLPNZNh@N^HVDb@Br@Bl@A"
+                     },
+                     "start_location" : {
+                        "lat" : 26.381052,
+                        "lng" : -109.0113228
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94.5 mi",
+                        "value" : 152012
+                     },
+                     "duration" : {
+                        "text" : "1 hour 37 mins",
+                        "value" : 5833
+                     },
+                     "end_location" : {
+                        "lat" : 25.4881236,
+                        "lng" : -108.2383977
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNavojoa - Los Mochis/México 15 S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow México 15 S\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qg_`DjjjxS`BXxB\\p@JlDp@vJhBfCd@~AXtB`@~JjBlDr@~I`BxYlFfAR^HdAPdNfCnDp@p@LzI`B~JhBh^xGff@|I~Bd@L@lB^xLxBrDp@pCf@fANfAJpAJ`@Dt@Fl@JbANf@JlLxBtFbAlUhEzUrEj@JdJ`CF@nI`BpB\\fPxCdF`ApFfAxEt@bCf@lAThNhCj@JrQfDpB\\zKtBjEx@vI`B`NfClSzDjF`AzCj@xBb@bCd@bEt@zLzBxFhAnI~AdHrAdCd@tKtBlCf@pAT`BZfDl@jDp@|Cj@|Cn@bEv@rB^vCj@tCj@D?dDn@tCh@n@Jv@Nt@PfB\\tAXnAZfCh@B?pCh@hDn@`@HvCh@xE`AjEv@pDt@vDr@bBZbBZhCf@PB~IbBlKpBB?r@N~FdAtKvBdCb@lB\\`APbM`C~AZ|B`@h@JlAVpLxB~@Rv@LrFdAtRtDfLvBvCh@v@NVFXDd@Jp@LbARvJhBnDr@lARjCf@bKlBvCj@dARvAXlCf@bBXxHxAjKpBpJdBh@LxL|B~Bb@lIzAdGhAr@NjEx@dDl@pOtCjQfDhM`CjYlFdGhAzGnAdEv@bBXdANfALZBpBLlBDp@?dBAp@Cz@Cx@Gz@In@IpAQtEw@nSmDnEy@dHmAbDi@vd@gIrX_FhMyBzJcBpHoAlDo@TGxEy@tAUjX}E`F_AbGeAxf@{I`Ca@lCe@tB_@bKgBxEy@vBa@`BWp@MxAYxB_@tI{AjASzAYxB_@fHkAhAQ~W}EbOiCdZkFzN_CrBc@jI{AtB_@vSqDx]kGdReDpGiAfMuBbBWpLuB|Ds@tHuAnQ}CbWkEpI{AtGkAbEs@bAQlASdB[|Ba@hCe@xHsApAS|GmAv@MjASpGiAx]iGfKiBfM{B`GgAf@I|OkC`J}AdJcBjB]pCk@~Bc@|GsAvJoBtCm@lB_@bCg@xMkCl@M|K{BjEy@dCg@`RsDnIaBVGh@K|@QzCm@vCm@fLyBbJiBnKsBlE{@zBa@HALCPAPAJAN?T?T?r@FLBPB^HRFb@LZLh@ZRLn@d@l@f@bYzUd@`@fA|@v@f@d@RRFPFVFb@Fr@Hl@BV?TAN?^Ef@ILCx@Qh@SdAe@nAy@x@k@pF}DZUzAeAhAu@lBuAl@e@RS`@a@X_@PUPSTc@T]hAgCTe@`@aAVi@T_@^m@jAcBLOZ_@pBiCdCyCRWjDoEzC}D`AmApAeBp@_AhAaBnBwCfBmCn@_AT]LQRWPQPQLMJIPMTOPKLEJEPGd@M`@Ip@I|@ELAlBElKYz_@iAfCIjAAf@?bA?@?pAH`AL|AZpAXh@LfD~@dE~@pHxA\\HfO|CxDx@dB^lBVzAJhAHfFDh@DXBPBZD\\HVDZJ^J^Nd@RPJXR^Xb@b@b@f@HJZd@RXrAxBbB~CdClEjApBr@jAb@n@X^Z^X\\d@f@XVhBdBz@t@tBlBdB~Ah@d@rApA|@x@p@l@hA|@jChBJHlAv@`BbAh@\\~AbAnAv@jAt@bAr@jAt@VPfC~AfDvBVPn@`@fFdDbC~AlAv@vH~E~@l@j@^jAt@hDxBjDzBbElCrA|@~ClB`CzAxExClBlA`CzAb@X`Av@RJPLj@d@f@`@JJTRFDPVRRVXRXT^NVNVTb@^v@vDhIpC~FXl@bE`JNZ~@rBdGlMn@zAjCrFdCnFnC`G^z@fAzBr@xAj@`AV^n@x@j@n@l@f@t@h@x@b@@?p@V~@Zd@Jt@LhC^rARdCZlDd@~Ep@rBV|KzAB?nBTvLrA`AJfALTBj@DZBd@Br@@j@?dACf@C`@E\\E^El@KvAYvBi@bAYdEeAHCj@M|J}BzEeAfAW`@GvAYbAUlAWdBa@bE_AjFmApCq@nFoA|@QpD{@xOqDhEaAvKeCjHcBd@Kd@MnAa@`A]|@]`@Oh@Ur@_@^Un@]j@_@`@WlA{@`HcFDCHGdI{FXSzIsGdDcC\\W^WbFqDvAeAzB_BbJwGfCkBfDcCdOwKxCuBr@i@lGsE|DsClDkCzCwB|@q@p@e@lByAjE_DbN{J`@YnMgJ~BeBnHmF`LgIvHuF^WrB{ApGuELKxEiDbJwGdEyC`@[zCwBvB}AvBcBbBmAz@o@rDmChDeCXS`FqDvEgDlCoBtEeDjDgCrF_EfAy@fAy@~C_ClBqAfBuAFENK~B_Br@i@~AqAz@k@~BiBvA_AtB_B`PmLjA{@p@c@hE_DfDeCBCr@i@TQ`@YDC~@s@PMj@a@nCqB^YdAw@|AiAt@g@NMv@k@d@]d@]f@_@f@_@bCgBhE_DpIiGtDmChCmBjE_D`GkEnByA|@q@XUz@m@bAu@TOfAy@|@o@ZWn@g@hBoApAaAnA_AfAw@JGlCqBzFcEt@k@ZY^W\\W|@q@jAy@fAy@n@g@lA}@`As@t@i@v@k@PMl@a@n@g@hAy@\\U@AJG`As@jEaDpByAjA{@ZUtCsB`EuCj@c@l@a@bOyK~NsK`Aw@XUbByAfDmCbAy@b@]Z[bGoEzB_BrK_Ih@_@f@_@zEeDbB_Av@]v@]~F{Cn@[pJwEhB_AbFgCxC{ApGaD\\OjCiAdBw@j@WbAe@ZOlFiCrAq@xAw@RK`Ae@~GoD~Aw@f@YhBcAtEqChEwBPKhNeHzBeAjAq@NIv@i@x@y@\\i@NSP_@N[L[N_@J]Li@Hi@VwAz@gFb@kCRiAF]`@}Bd@qCJi@pCyPt@wFb@gDNgAJs@bCoNX{Ab@iC@IJo@b@}B^_Cd@oCt@mExIah@t@gEzIih@@CtBcM\\sBrAyHhDcS?AdEcVdB}JRoAvAmIhBmKLy@p@aEHc@@E`ByIfBkJhAgGz@wFRuAVoBn@gEp@gElByKrA_IPaAr@iElKan@Ha@\\oBdDqRfEyVjAaHFYHk@tA_ItEqXvAaIlAyG`AaFhAmH^cCb@iCRoAhDaSr@cEr@eE~@qFt@mEb@gCj@kDX}AjBoKd@mCPeA?CHa@Hi@hAwG|AaJTwAvAoIZoBjAyGr@kEb@{B|@iFLs@Nk@FQHW\\_ARi@`@_ApMaZhHuPjAmCzAiDhAcCrBaFPc@bEmIhDaIbBsDzBkFTg@Tg@`@_Ab@_A@E@CPa@Rc@h@mAh@oAbA{B`A}B`@}@`@}@Tk@Vm@f@iAf@kANa@Nc@pDaJRc@Pa@tB_FxAiDbFiLhAkCXm@DMzAmDnF}Lj@sAdFmLrA}Cd@gAjAoC|@oB`EsJzEsKx@oBnJsTPc@t@eBHQxNu\\@CzE}Kp@}AvIcSr@_B~@wBHS`AyBdFmLZq@Vg@n@uAJYtBsElBsEr@eBnFmM~@wB`EkJpFcMb@eAlAqCb@aAzGuO`AyBnAuCvD{IrA}CZu@h@kAvEuKlBiEv@gB~DkJ~JoUtCyG?AzEsKfAaC`BqDnBcEhBaEhCaGfCgG~AcEXs@zAsDbBeE~FwMvFsM`BwDh@mAzEaLh@kAdI}QpCqG`AsB~DsItAyCv@iBBIBEvCkHzEsLrCwGBEvB{EzAkDzAkDzIqS~BqFvAeDTe@|EaLzM}ZtEsKBEfC}FvB_FhAmCxEuKbFmLvAeDbDoHbCsFxAeDtDqITi@Rc@Na@x@qBj@sAj@sA~AoDtEqKtEoK`DkHd@cAhCuFhAaCp@yAvAyCf@kAFOFOfBoEp@iBnEuKpDiI`DqHBGvD{IL[jK_VbC}Ff@gA`JuSj@qArEmKnAuCfOk]d@gALWJWFON]x@iBlAsCt@cBbAyBdA{BbBqDl@oAtCqGjCuGdBgEFOt@mBfBeEBG^w@t@aBdAqCxGmO~GmOHOP_@b@_AdCmFzAgDl@yAtAeDx@uBr@gB`@iAbAcChC_GHSjBkEj@qAXq@x@mBhC_GrA}CrDsIrBwEZo@nAwCn@uA@CL]N]jAmCnAuCpA{CbA_CXm@vAaDnAyCrA}C^y@vAeDxAiDtA}ChBeEp@{AxAiDhD}H`EiJ^{@tCyGzAiDpAwChBeEHS~JqUvCoGvA}C`DaHxAaDl@sArBgF\\}@pBeF|AoDfBaEnCqGxAiDRa@zD}ItDwIvEsKbLoW|AoDPa@pByExB_FhDcItDkIlCmGDK|D_JtBaF\\w@LYzC_HlAqCZu@lD_I~CgHVk@tBwEpCuGbC_GzBqF~E_LhK_VvGoOvA_DZs@vK}VNYrDuIzD}Il@wAlJiTlCiG~@uB|AoDVk@f@mAzFqMnBkEnCcGdDiHZy@hJoUvFsMjBgE~DeJrCwGvGiO~CiHfBeEfDyH\\{@f@iAP_@FM|KkW`@_AVm@t@aB^}@`BwDbDwHhEuJzCaHl@{AXu@Pi@Pk@b@}APo@RaAFYBOBENg@@EBG@KVsAD[F[DSZkBdB_KHc@z@kFz@oFX{A|@eFRmAfDaSDW@C@K@IDU`BkJv@_FV{AD]p@wDXyAf@mCNs@xA}HP{@N}@z@cF`@{BDSF[v@sFd@}CFe@NcATsABU@CJm@VcBNw@Ls@pBsLfD_SjCwO`E_VJc@Nw@J_@FQDOd@sAJWP]P]R[nCkDBEt@o@v@o@p@a@j@[XOf@QVKVKjVyJrAi@xD_BzAm@t@_@l@[`@U`@[RONMVUd@c@TUp@u@lCyCnBwBrEeFNU~J}KlKmLfG}GZ_@dBqBXYfCqClAwAb@e@fBoBhAqAf@o@`@g@PU~@sA|AcDPi@Nk@T{@Jc@bA_FNy@l@_DrAwGl@yCn@eDlC_NtAaHPy@dCcMFY@IzAqHHa@H_@nE{T^oBd@{Bf@gCN{@Lm@j@sCr@eDR{@J_@H]\\sAb@yBn@eDLg@Jc@L_@J]L[HQLWVg@Va@T]X]HKPQNMVUnAy@`DkBlDmB|A_ATMhFwCzEqCZQn`@_UbDiBzBqAf@[j@e@n@k@t@w@h@s@f@s@Zi@N]LWJUL[Xu@lAgDRm@rA_EdA_DzC}IjOgd@H]tOce@Vw@Pm@nKm[`G_QvC{IzGiSHWJ[Nc@f@aBhLg]dBmFNc@jDiJNc@jB_Gd@yApBuGZaAfBkFfCqHlBuFzEkNb@sAp@wBh@eBvFwPzBuGh@aBlCgI~DqL~BcHnAsDbF{NbFqOxAiEhC{H~GcSDKhAkD\\eAVgA^mBF]RiANaAb@iDpAuJbA}HFi@XuBR{Az@{FTwAx@eGx@mH~@gHlBeNDa@J{@d@qD|BkQ^sC`BaHn@}ErAeKtDgY`AuHt@iGl@cEp@oFdAyHTkBxA_L^mC~@_HhBuMzAkLBQf@aEFg@r@uFjCoSb@oDt@sFNkAHs@L{AFeABw@?k@?g@EeAGsA[mF[}Eg@sJIoAIiBSyDM_CkAwTQgDWoEMwBOmCIuAeAkRq@iM"
+                     },
+                     "start_location" : {
+                        "lat" : 26.3796079,
+                        "lng" : -109.0117418
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69.7 mi",
+                        "value" : 112108
+                     },
+                     "duration" : {
+                        "text" : "1 hour 4 mins",
+                        "value" : 3834
+                     },
+                     "end_location" : {
+                        "lat" : 24.749571,
+                        "lng" : -107.5697701
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLos Mochis - Culiacán/SIN 1D\u003c/b\u003e (signs for \u003cb\u003eMéxico 15D/Culiacán\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wcqzC~hssS]}GAoEHmBXsCp@{CNm@FUPm@`@qAt@eBf@}@`A}AbAqAfCyCJKJMV[@A`AiAjFgGpB}BhHkIlAuA`DsDt@y@|DqEnNcPbF}F~AiBvAcBV[LOJMvCgDfAmAlGkHvCcDvH}IRUbDsD|AeBfFaG|OwQpEgF`@c@~G_InRmT~AgBlNaPfBmBfFeGtCcDX[RUJKjE_FtA}AHKlL_NPStDcEzAeBlE}GJKxIcKv@{@nPiRbF{FVY`BkBvOmQJMnB{BbG}GhO}PdF{F\\a@hIkJjIkJbH_I^c@fCuCrmAquAxDiEhDyDrBaCrDeEzDmEp@w@PQNQxAcB\\_@PQRU~DsEbCqCbCqC`DqDbEuEpCaDb@e@pDcEnEaF|AiBX]@CJMp@u@p@s@PYRWhCwCbCoCpJwK|DmEpCcDnHkI|HaJ`CoCHIHKpB{BjE}EpDgEtJ}KrB{Bv@s@pAcAlBiAxAo@b@QdBk@fAWvAWzBSxCKzGB`D@hC?j\\FfIAh@?lD?zA@jEBbD@xA?zCBf@?zF@fF?f@?V?VAjBB~C?hD?vD@hF@dC?hJ@|E?vA@hH@tBBnH?rHBxA?xRDnI?rF?vE@pLAvSHnI@zHAbC@z@?bA@lCA|C@xE@lH?^@|ZFnDAb@?|AExAItAOf@Ip@K|Aa@NE`@MRGBAxAm@vAu@^Sn@c@f@a@|@s@x@y@x@_AjPeRhAqAnFcG|@eArCaDfBsBd@k@hAoAp@w@dBoBlBwBhAoA\\a@vCcDtBaCzUkXt@y@`JeKvMgOvBgCHIJMpOmQ|@aAvIwJj@s@nJsKbEsElCaDlAwArOaQbCsClFeGjW{YhDyDRWfCqClBwBfBuBdE{ElAuAbBmB@ADE@An@s@dAkAv@}@rA_BfKiLrDgENQHK@A?APQ|QwSjIuJFG^c@`CmC`AeAzDmEdDwDfE{ElDcEtC_DlC}CpB{BRUjCwCpA}AHKhAsA\\]`MkNl@q@bIeJ^a@~CmDfDwDdDuDtB}B|BgCvAiBhCkD`CqDp@kAv@eBJU`AyBPk@j@}Ad@wAb@aBRy@XuAj@sCtAcId@gCt@{Dn@sDn@uDxD{TX_Bj@gD`@}BtAwHLk@`BcJ`A_Gh@{CLcAHc@hBeK@MHe@BOLm@F]~@qFxAiIVsAfAkGz@_F\\kBZcBPgAf@kC^{BLm@BULq@PaAReALm@Ha@Ry@HUFUH[`@eAL[NYN]LUd@{@z@sAJMlAwA|@y@rAiAROn@c@n@_@\\Ql@Yl@Ut@[hA_@lE{A`C{@hCy@lGwBpE}AbGqB~EcBzIwCv@WdC{@xBu@hKmD|Ai@rN_FRG~DqAtN}EvCaAhGwBhHcCxAg@f@Q~HiC|P}F~@_@hJ_DjGuBbFcB`EwAfC{@tAc@jGsBnCaAxXoJfA_@xLeE~g@eQzAe@zBu@lC_AvBu@tCaApBs@~DsAtDoAxEaBhOgFpJaDhFaBTI~@[rBq@zC_AdGmBtIoCbMaEbCw@pEwArBq@rC}@rGsBlH}BrAc@v@WzAe@hBk@pLyD`GmBnA_@hA_@t@Wp@WlBy@d@U~Ay@zD}BrAaA|CgC\\]zA{APSrFeG`EqEf@i@`BiBfLkMz@aArB}BX[fAoAdCqC`EoEbAgAlLqMzDiE|DmEjAoA^e@jKkLhIiJr_@ib@nFaG|EsFnFaGlGeHV[fZq\\tCcD`SwTrJyKxDgEfJgKzCmDb@e@`EsEvA_B~FyGtV}XvEiF`@c@hF_GxDiE^c@RU?Az@_ADEvBaC~CoDjCwCxBgCf@m@HInByBbAiAzBeCxEoFnEoF|EuFfFaGtI}JvGwHnEiF|VoXfFuF~DkEhCuCvB}B|CeDvDeEBAnAuAFGtO{P^a@hJ_Kb@c@vBaC`AeAl@o@`BiBb@c@fAmAlSuTzAaBxPaR|CgDzKuLxEgFvA{AhCoC|DkEjQqR|FmGbEyEdDkEt@cAhAeBhBoChBqCdC{DfAiBJQxCsEpFoItEkHFIlGyJbM{RrAuBvBkDh@w@R[jBwC|@uAJOPWpGeKl@}@lFiIzBoDjDmFfGuJpFsIjGqJnB}C`GkJDI~IkNxBiDvCoEnG}J`RsYdGmJnAqBfK{Oz@qAbF}HxA}BxBiDvDeGdH{KdAeBhBqCfBsCtFuIj@{@hDkFhCgEzDaGdDcFrDaGl@_Az@uAlDsFfC}DrB_DfC{D`GiJrKsPzEmHdGsJdDkFtAuBxBiD|C{E`A}AbA{AhGsJ`@k@~@gAhAiAdAw@LIxBuAp@[l@[rAc@jA]l@Mx@QlAOt@IvBK`DOxDKtCMnCK|DMhAIxBGnDOvCKtDO~BGvCM|BIzDOvBIhAExFSrCMfDM~DOpLa@xCMt@E~AIfAIlAS~A_@j@ObA_@t@[p@Yn@_@nAu@p@e@nGmF~DeDxBkBbA{@fA{@jB_B`CoBbAy@bCqB|AsA~@u@l@g@hA_AfA_AhA}@NOtCaClGwEdDwBpGiEDCTO@AJGb@[pHaFvE_Db@Y|B_Bf@]nDiCtCeChB{AvAoABA@A@An@i@hDqCdA}@dDqCxJgIrEuDDEXWBC@?TSNMPOd@a@BC^[\\WZWzV}S|DaDvK_JxCgCJI?A@?b@_@|HwG^[dDoCpC_C^[~IqHjFmEbDoC`@]`G_FpAgAtD}Cp@k@r@m@bFcEnFuExBsBj@m@b@i@^e@b@u@j@_Az@_Bh@}@~BgEt@uA^q@|CsFJQpC}E~BiEjBiDnKkRLWfAkBxAmClBoDxQe\\h@cAhE{HDI`AeB|BcEjCsE`AoBrHyMrBsDXg@j@cAfKcRzXgg@bK{QpGgLVc@fFiJl@gANYdAkBzBiEvA}CvB}EzA}DbBuEjI_V`HcSnBwFVs@xAgEv@{B~@oCHSj@aBp@uBrB{FhBmFRk@hAcDfAcDx@{Bj@aBx@}BTq@FMjBoFz@eC|EoNlA{Ct@yBxAqEDKTi@tAgEZ{@|FwPxBmGRi@|AeEz@oBp@wAp@mAhDyFzCiFhAqBfEmHfB}CdAeB|@}AzBuD|AgCbCaErCcFtCeF~DyG~Ygg@\\m@`DoFtC{E|CyF|B{DlFuIrDaGxLuRtC{EdB{CxAiC|ByDr@aAt@_Ar@u@z@w@pAkAxBaBbByAtBgB`BuAxAiA`RsNTQBATQJIla@{[zOiMhG_Fjc@o]lIqGbK_IpLmJ`BkAhAs@fAm@t@a@hAi@l@Yd@SdBm@rA_@lA[rBa@pAQnKmAXEbAM^GB?HAdEk@nJkAzJqA|IcA~g@wGdAQfCYhGs@hGw@|ASlC[xASl@GpDa@~@GPA~@Cp@CvCCfB@P?`FA`B?jAA^?dF?bKA~F?`@?fA?lG?tH?bKA~K?nA?~D?~AHlAFvAJdHt@nD`@h@F`AJfALnC\\rBXnVnCr@Hr@Hp@FvAN|ARH@B@L@@?B@XBpAPlFp@z@Jf@DvLvAdCXhAFpAB`BIp@KpAWl@Q^STI|@g@VOx@s@TSh@m@Z_@h@}@nAiCVk@f@iAf@gAZw@j@mAn@iAbAuB`A{BvAaDxTof@fAaCbCmFlAkC"
+                     },
+                     "start_location" : {
+                        "lat" : 25.4881236,
+                        "lng" : -108.2383977
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "183 mi",
+                        "value" : 294858
+                     },
+                     "duration" : {
+                        "text" : "2 hours 51 mins",
+                        "value" : 10274
+                     },
+                     "end_location" : {
+                        "lat" : 22.8081424,
+                        "lng" : -105.7258784
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eMéxico 15D\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "y{`vC`vpoS`@aAXk@~AcDr@kBdAsBVe@Ra@`A_Bf@u@PWX]`@g@^a@NSPQdBeBx@q@x@o@j@c@zAaAVQlF{C|@k@d@Yd@]pCkBjEwCnm@ka@dEuCnBqAXSvVqPx@k@~CuBp@c@p@e@rNqJxAcA~J_HdBiAbJeGx@i@NKf@]h@]fCeB~AeAxB{Af@]bb@_Yv@i@v@g@vGqErCmBhMsIxCqBd@[dS_Nj@]h@_@fGcEpA_A`@WzAaA`@Yb@[z@k@xByATO~McJxCsBn@i@X]LMt@q@BCxAcA|BwAVMd@W`@SvAw@`Am@vAaAjPwKpCmBnE{C~@m@HILGrCmB|CqBrKkHtA}@hJsGl@_@NKz@k@z@k@l]uU\\U\\UtDcC`D{BrGiEzCsBtByAxHiFLILINKHGpE{C`EoCtA}@ROnAy@ZW|F{DnCmBpBqAPMb@YrN}JnA}@pA{@z@m@b@[FCb@]hBmAjBmAfG}D`BeAxHcFfFkDzGqEfIuFzB_BjA{@hD_CzIoGvByAfBuAjA{@tB{A|AiAfBqA`CeBrCsBrAcADEx@m@j@a@b@]vDmChI_GhFwDzGaFlCqBbEyClCkBHGlCkB~CuBlBmA`DiBhC{AdBgAv@c@pC_BpDuB~A{@BC|CeBjFwCVM|EqCdF_Dn@c@hBqA`@YZULIJIXUz@q@vAmAf@a@~CuCnEgERQxAyAXUZ[nH}GzGmG~B{BDE`ByAvAkApB_BnGwElK}HrJmHbMgJj@a@nAaAtDkCnNqKjBqAZSZS?ANMlA}@pG_FbBmA`As@dCiBjF}DjBwApB{AzEiD`CgBdE{CnAcAnFuDnEeDvB}A|BiBnEgDdGmExFiEzNqKlEeD`OsKrAcAbLsI|BcBtHuFVSFElA_AnBeBTOLKvBeBFE`GeEpDcCvA_A`FqDvAgApDmC|@q@NMnEeDhDeCxFgE`Aq@`@YvCyBnA_An@e@|CaCpEcDjImGnBsA|H_GrCuBxB_Bx@m@bAu@rJgHbRiNjDiCdCiBVSbGoEbAu@@?nMoJx@m@fAy@jA}@^YzAgA~@q@zEmDpDmC~LiJdA{@p@m@~AqAnKwIlIeHdH_GvFwEBExImHfFiEfCwBxCeCvRgPpAiApKaJdG_FxFyEbGcFhDsCtAiAvAkAxJmIdMiKfI_H^YnEwD`BsA^[rAiAVStHkGdXcUtFwErBaB~KkJnAcAjDuCzAmArImHnHgGVUfCsBvHqGfCsBnC}BzCgC|BmBd@a@rC_CtCcC~EaE`H}F`EgDj@e@jEqDnWiTb@_@n@i@r]yYbCuBb@[|AsAzGwF~DgDnEwDhA}@bFiEb@]jAcA~HoGrCcC|BmBHIrCcC|@{@vE{ExBeCfDsD~BcCbLaMtDcEtC}ChU{VTUjCwCpH_IxHqInFcGvA}A|GkHtRcTVYbAeAjDyDnCuClMoNdBgBjAqA~MeO~O_QNOpGgH|DgEtAyAbFcFt@s@hDgD~@eAnDoDhKiK~E_Fx@y@hOoOrNsNjBqBfAgAHIpEoExCyC|GaHvEwEvA}Av@y@dDeD~@aAh@g@Z]xA}AxC_Dn@q@b@e@v@{@j^y_@x@}@dFqF`BeBBC?A~@}@xDcE|@_AjEyEh@i@dPaQDEvByB`RyRlDwDf@k@hAiAh[q\\TWzC}CzFyFv@w@zAwA|NoNdDeDpEiEl@m@BC|DuD~KaLr@s@lCmCnUoUpIiIdEyDr@m@|@u@rB_BnE{CdCcBfD{BjLwHr@e@dEqChCcBpGkE`Ao@z@k@dBiAdFgDvBwAfBkA`IoF`EkCVOvI}FnCiBv@i@fG}D|B}AvDiCdDyBjJkGfImFnDaCxE_DdHyEPKbPmK~F_E|I}FbMmIlBmA`DyBpNkJnEwCxAeA`Am@r\\wTzA_ArSeN\\UhD{BVQbAq@hZaSzHeFfHyEtBwA|DgCfAs@zAeAvBuAzEcDTQTMTOXSxDgCbHuEBAvA}@jBsAnBoA\\SlA{@p@c@dAq@|AcA|@o@fZ}R~AeAPMfEqCfMmIJG?AFEtHaF|JwGlEwCpGiEfV_Pt@g@hBmAzGaElI{E~EuCxQmKbAo@jIyEt@c@hYmP`\\iRtHkErMuHrEkC~HuEn@]lDsBnI}E`K}FdBcAjC}AhGoD`Ak@`FsCbFyCnAs@XOhAq@vAy@~A_ArJwFbBaApHiEfBcAzA}@pAq@^Qt@c@hAm@VMzAw@\\Q|Ay@~Ay@zAw@j@[nAm@|A{@~@g@hAm@l@[`B{@rAo@dB}@`Ag@rC{A|McGpBeA|F{CHENGzEiCbB{@lb@qTtBgAjVeMv@c@b@WPKtDiCpBcA`B{@p@]fAk@fDgBdDeB`B{@xDqBlCsA|EgCdCqAxFwCbHqDtFuCrBgA~F{CvAs@`DcB|CaB`Ag@tBeAfAm@`Ag@nE}BjE{BhCuAjDgBjDiB`DaBj@YzDsB~BkA^UdAi@l@]pDoB~EsCbAk@xHkEhLuGl@[`IqElF{ChGkDjEcCzIaFbCwA~D{BjCyA|EoCrDsB~A_ArGsDxAw@|BsAjDoBhGkDfEaCvFaDjJkFtCaBp@_@dAm@hAo@fCwAbAk@rBiAzDcC`C_B|BcBhA{@jA_AxAkAvAmAx@q@dCqB~BmB|AqAvBiBzCeCdEkD`CoBhB}Al@e@`CqBb@]`@]ZUb@]ZYjAaAhB{AfDoCtHmGlAeAjByA~AqA~AqADEn@g@dCuBrD{CjAaAnBaBdCqBxCeCvD}CpC}B|CiCpD{C`DkCnCyBdDoCzDcD~BmB^[pAeAzF{EnIaH|GwF`CsBpLsJxNuL|DaDxCcCdI}GtIeHfHaGxBiBfEkDjFiEvGgFxEmDzAiA`@Ybc@qZpGmEfGkEvDiCnFyDlA{@dCcB~AkAvBwAlDcClBsAlHgF~AgAzB}AVSzB_Bt@g@bC}AjBmAVOzAaA~B{A`C{AbEiC`G{DpK{GxDeCfDwBhOuJ~GmEvA_AjBkApD}B`HoElAw@pPoKrLwHbAq@tDaCvDaCpHyEvIuF~FwDbHoEvFoDnEuCzFuDxDcC~FuDn@a@lAu@jImFhIkFpJgGxA_AbEiCd^mUld@sYjMcIj@a@TS`C{AfCaBxEyCvEwClDuBl@a@jAu@pGeEd]oTjFiD^UhRyLpBqApMkIb[aS~[sSjd@sY~@m@xBwAbC}AfC_BhG_E|^wUvd@}Ybd@oYnd@uYpJgGfC}AdBaA|A{@fCsAxBgA`Bw@pB}@zAo@dBs@zAm@hAa@hUyIn_@wNj[uL|H{CpAe@dVeJPGbPgGxD{AnM_Ft@[LE|CiAn@SVIh@ObIsCbDoArQkHtIiDjE_B|GiC|OeG|MeFbGcCrFcCVMXMh@WlHqDJGlJuE`Bw@PIzDmBnZ_OfAi@~BiAjLyFnFmCrIcENGbAg@b@U`@UTK~BiAdBy@ZQZOfB}@XM~@e@JGTKfGyCrAs@pEeCdDoBtD}BdBkAPKtH_FlD_C~DaCdAq@rBmAtC}AdAm@jB_ArAu@b@UzFyChCqAxAu@hDgB`EuBzC{AZO@AfAk@jFmCrE_CrKuFpYaOnO}HtLgGbHgDhAm@zBkAzDqBrAq@l@Y|@c@nB{@rCkAhDqA`RgHfEaBjBs@dJmDxEiBjBs@|B}@fAa@xB{@t@[fCaAjFqBfDqAfDqAbI}CnDwAxDyAr@WjAc@`C_AdEaB`C}@fFoBpBw@lBu@nBu@pAg@xB{@z@]|KiEtCgA`Bo@nEeBjBs@hAe@LEj@UnBu@bC_AtBy@hBs@|B{@d@QPINIRMPIRIxAk@rBu@hA_@fCcAZIx@[rAg@\\MLEFCn@WrDuArFqBnG_CzAi@r@WzB{@lCeAhEiBdBw@dEmBfCiAbF}BlFaC`DyArAm@|@a@tCuAjCkA|CwAjCkApCqA`DwAjEqB|CuAxCuArCoAjCkA~CyAfAg@b@UxCsAtLoFvI{Dt@]dEmBbBw@xDgBpEsBlCmAnAi@p@]j@YrAs@zBqAfAq@pBmArAy@|B{ArA{@bAo@hBgAzA{@bDmBdC}A`DmBdDqBzA_AjBgAhBmA|GaEtCiBdC_Bb@]n@e@h@e@d@a@b@e@VYj@s@^c@Zi@`@k@Zk@^u@`@}@l@}A~@eCTk@N]Pa@Zq@Vi@nB}ElAwCf@kAtBaFbBeEjBmEzDkJtAiD|@wBzTsi@~LeZxFiNvAgDrD_Jr@aBnBoEjAmC~CgHnAmCrHwPtDoIxGeOvDqIhGiN~Qqa@|BgFdByDnHiPhIwQjPs^x@gB^s@Xg@NWRY`@m@V_@d@k@Xa@X[\\]l@k@z@s@n@g@pA{@d@]xByAt@g@vCoBfAu@f@]nBqAfAs@\\UzEaDjGkE~AeApQsLnBqAxAaAlEuCrGiExAaAtFsDhD}Bp@a@f@YdAg@t@]fAa@`@On@UhA[tA]tDu@dCg@lFeApFgAnFeAhB_@rMiCxLaCpJmBzMkCzIgBbCg@vCk@lCi@`Ce@zA[zLaChB_@nL}BhHwAli@qKfI_B~_@wHbj@yKlAUlUqEfQmDvFgAxIgBxIeBpAUzBg@r@QlA]|Ai@f@QzAo@`Bw@fBaAr@c@rA{@`KeHlE{CfCeBbCeBbD{BrBuAnBuAjE{CbMwIdKgHtF{DvF{DhAw@jE{CbCaBrGoEjBuAnCkBTQj@_@bEsChDaCtAaAtDiCnE}ClGmEpCmBhAu@z@k@l@a@lCkBr@c@`DyBbAw@~@s@nBuAlOoK|AgA|F}DnBuAjHeFfGgEzQgMh@_@TQl@c@l@a@l@a@`Ao@`As@p@c@XSpCoBh@]lBuAf@_@DClBsAp@g@vDqChAy@lCmBPOhBsAdGqEPOXUj@_@RQvGyEvAeAvAeA|@o@t@i@pAaAVSdBqAbCgBLKLI`D_CfAy@h@a@hAy@|AmAfAw@\\YzBcBz@k@nCqBfE}CxAcA`Aw@dE{ChBoA~AoAhF}DzDqCrDmCt@m@`GkErDqCdAy@zEkDdGoEpByA^YBCn@g@pHmF|@s@zC{BbAu@rImGrDoCzAkA|EmD~AmA|C{BdFuDjEcDv@k@xGaFlGsEZUxAgAnCqBvDqCt@k@hDgCFEpDkC~D{CJI~C_Cn@e@pE_DjCoB~BaB`BkArE}CJIlEsCnEmCtDsBpD_C`BcAlDyBbFgDdFcDvA_AbFeD|FsDzFwDdFcDtDaCb@Y`FaD`C}AvBwAdFmDpCmBx@o@\\UxBeBxBaBpByAdE{CpDoCdHkFzEsDrCuBjCmBjFwDzEmDlDmCvB_BfF_E^W`EeCHGrFaEZWlCoBpB{AnCoBhAw@rEmDl@e@rFaEDC~C_CpB{AjGwEjFyDzEqDt@k@vCwBXShB}A`E_EzAmAnByAnByAh@c@jAcA`@a@xAcBb@k@Za@l@cA\\q@b@_AVs@Z_Ah@qBR{@Nq@Jk@TeBZaCTkBTsB`@gDZqCTgBT_Bt@gGL_Ah@kEZyCd@qDj@sEx@iHv@iGn@mFlBeP`ByM@GbBsNzBgRPiAPeAVoAP{@ZsA^mALa@d@mA~@uBx@{Ah@{@V_@bByBt@w@n@o@dB}AnFeFvBqBlCgCzBsB`FwEvEmEhEeElDcD~@{@`C{BnCeCdD_DnCiClCeCbBaBlDeDb@]h@g@hCcCjEaElFcFzGoGhDcDlG_GvGgG~CwClGcGNM`C}BnBkBrDgDpBsBbBgBnCuC|BkClAwAf@k@pAyAjDiERW|BuCtEyFtCqDrEuFpCoDp@w@pCcDpE{Fz@eAjAyAf@o@hDkEhAqAdAsAdNwPfB_CjC_DzAkBn@{@\\a@~EeGd@k@fH{IfH{ItBgCzAmBlBaClG{HpCiD~AsB|BsCdC{C|AoBfB{BJOBADGJOdBwB^c@~D}E~@cA|BuBx@q@nA}@t@g@lBgAnAo@jAg@rDyA|EgBxAi@xCiAFCbEwArE_BtMyE`EwAzCgApKyDb@O`DkAFClAc@zLkEvGaCbC_AbCy@j@UrNeFpXyJpAe@vOwF~@]NEhC_AbA]|Am@hBy@bBs@r@[r@]v@a@vAu@rAu@lAu@^UdAq@r@e@t@g@~BaBfAw@dE{CdFkD|@m@tBqAzCqBrB}AnFuD|C{B|C{BnAaAlAw@fAs@|AcAhBmAbAu@lBwAt@g@`CgBbCaB|CqBfAu@bEsClLqIdFoDpDcC~BcB|DqCjA}@bIqFfDaC|B}AhCmBjEyC~B_B`@YrEcDlE{CfDcCvC{B|DgDxBoBx@y@rA{AfBiBjAsAlAuAl@u@nBwB|CoD|AkBd@k@dDwDzE}FPUX[FGv@_At@}@t@{@hCwCdCoCtIgKjAsAv@_AzAeBjF_G`AgArA}Ad@i@pBcCFIzFwGpNoPpJwKfFaGjB{B~GcIhAqADERWjIqJ|IcKxEsFhD}DtCcDhCyCfDyDfCwClFmG~AkBhAsA|DsEV[lCkD`BmBtBoC~C_EhAwA`AsAPQ@AFGFKfC}C`CsCbAwAn@{@|AqB|@cA|CmDfAoAl@o@f@i@DEdAaAjBcBBC~AqAhC_Cr@m@pAiAv@o@tAiAtE{DzAoApEyDnBcB~FcFxIwHpD}Cr@m@jB_Bl@g@zAsAbByApAqAvBqBnAmArBqBFEpBkBdB_B`A_A~A{AjJgJ\\[vAuAdBaBvDqDfEeEfD_DnDiDtDoD|LuL~A{Af@e@vBmBbBaBhCoCx@y@pAmAxDqDXW@ATSt@u@l@k@vBsBhAoA^c@`A{Az@_BZw@\\s@To@\\cAT{@TgAPmALaAJy@?CNsBB_CEyB?cAG{BK{Ca@eGUaDAGg@_DOo@e@aBm@}BCGiAmDq@eBGQEOWm@c@{Ac@yA[oAa@oBSaAMy@AMGm@K}@Eq@?OA_@AkAA{ABsAD}@LkAPyAj@uCz@mGPaBn@iFHo@h@{CnAeGZcBXkB@KP{Al@oEj@mDb@aDVsBXmBv@}EJk@Hk@^qBZmB~@gGz@eGf@}Cb@qCXeBVsAT}@R{@f@{Ad@sAv@oBt@eBh@eAh@aApAqBhBeCpBgCvDyE`BiBxAgBf@k@h@m@vBmC|BsC`BuBbBwBjByBdBwBbBgBZa@X_@j@_Ap@oAr@{Ad@qAV_ANw@N_ARsAReBFcADw@BoA@wAAyBCeD?iDCmHC}H@sC?uECmEAeDAkB?{A?a@AY?[?mBAmC@qB@u@@s@By@JmBT}CV}BT}Ad@oCTwATiAl@{Bp@cCb@kBP_AN_A^gBTy@dAmEr@oCZcA`@wAh@cBf@sAr@gBf@eAn@oAd@u@bBsCx@qAvAmBfBaCrAcBfBuBbAkAfB{B~AoBvF_H~BwCx@cAxAiBlA{ANOHKJM|@eApB}Bz@eAjAkBzAcCjBcDp@oAr@{Ap@eBdAuCbB{EjAeD`AiCv@wBb@mAb@mAbAqClAwC`AiClAkDh@yAf@mAb@_A^u@^u@v@yAh@_A|@sA~@qAXa@r@}@|@}@~@cA|@{@TUDGh@e@hAgAnC_CtCcCbB}AfBkBfAiAfAgA`B{AhDyC`FqEpD}CjE_EzAyAjGeGbF}ElK}JbDiCpFuElDkDFGHI`GaFhCqBdAw@v@o@rAiAb@_@`@a@`A{@tBkBzBgBrEsDdAcAvCeCfC}BdEkDdBwA~AuA`DoCnAiArAiAfDsCrAkAnAcAzCgCvCiCnBcBRQtAiAlBaBlBaBxAsArBcBhBeBdBeBbBeBrHiI^c@dG_HfHiItCcDtCcD`FsFpB}BlBwBdHwHnC_D|BkCdCqCNQLOJMPSPSTW~DqEpAyAfAoAv@aAjAwAv@iA^e@^i@h@}@~@_BhAwBdAoBpBeE|BkElCeFrAcCjA{BtAoCtAqC`C_FfBgD~CiGnB{DnBqDbAmB|@oB~AyDn@gBv@}Bb@{Af@_BZiAv@kCXgAjI_Z~Io[@EDQdCwIl@wBrDeNvBsHd@aBx@wCb@eBXgAf@wBTeAJm@P}@PkARyALiAJ_AJcABc@Be@HuBJcCRcEJ_CDiA@Q?O@QFoANuDD{@b@}Jd@mJTkFRcEH_Ch@{LZqGDqA?KDsATiG?E@OTyEJcCDw@Bk@h@sNLeBFw@BWTsBPsATsAVwAVkAXmAZgA\\mAb@sAZ}@\\_ARg@DIVo@\\{@Re@pIiTb@gAnHkRzDkJPa@pAcDd@oAp@eB~@}Bh@kAvBoF^_AfDwIXw@JUBI@ON_@`@cANa@^aAb@eAx@wBXs@Ri@zBsFFK~A_Ef@mAHQrBqF\\u@hDmIz@wBfDwIjK{Wt@qBbGeODKlF}MvDeJ|EgMjBsE~I{TrAaDvE}KnEwKrD{JhFuNrAoDlI}T~Oic@~AkEjA{CzCiIv@qBz@aCbDwIb@mApBeGzA}DtBmF`DiJvAwDxB_G\\y@j@uA|@iBdAiB|@yAp@cAdAuAxAeBbAgAxB}BpEuE`DcD\\a@zCaD`LkLfBkBn@o@b@c@bFiFNOzD}DLOJMd@e@hJuJxG}GrCwC~C_DbBiB~EcFnCsCvD}DdFkFbEgEfAiAbCeCrI{IhHsH~DcEfFiFzEcF|EaFnDsDjBmBvF}FbEgEzGcHjDoDpEgFBEBEtCsDnJqMx@gAxDoFrCaEbAqAXe@PWhAaBlCqDnEgG~CqEbByBhBmCrBsCfH}JnAgBdBcCxL{PR[T]x@gAxF}Hh@s@zFkI|SwY|E}GzEyGxAqB~JuNhGsIlLgPjFoHp@}@bL{OzL_QzHuK~QoW|GkJlDaFnEiG~FgIdBcCnEiG`E{FhD{EvF}H|I{LvGgJbDuEHKFMdAwAj@s@dGkInD_FxB}C|CiExAsBxByCnBoCjKyNfGoIbAsAtAoBbEuFvGgJrAqB~AoCfAmBrAwCt@iBr@gBr@yBnAgE~BcITu@tFiRzCmKhFoQlDwLrE}O|CqKxD_N~@aDxAgF~AmFxHcXbB}Fb@yAh@mBNe@nGwTp@}BpCoJ`FcQfFcQ|@_DnKq^d@_B~@eDhAuDx@eCx@wBbAiCvCqGJSbCoEtBqD~B_EzD_H~CqFlCyEzEiIlCyEtAaCbD}FxEgIfAoBt@qAbCeE`EiHf@y@zB}Dp@iAj@aAjAuBvByDbKeQ~@eB|AiChCsE|EmItAgC`FoIZk@dGoKhBaDjEsHbF{I\\m@dA{Aj@w@lBmCTYvBqCpA{AbCgCzEwEfCiCxDyDr@s@hCkCpJqJdBcBrFqFdDeDvDsDhEkEvDuD~D_EpBqBhGkGlFmFbFaFnEkEv@y@v@{@rAwAhAqAZ]hAsApEyFvDaFV]RYbB{BNSjEwFNShC{DrCuDvBmC\\a@X_@rBgCfAwA~@kA~DkFfEuF~EoG|GaJd@m@|GyIfAyAj@u@f@o@f@o@xEkGz@gAtEeGx@gAfCgDnE{FnBkCbAuApAcBrBkCXa@Za@l@y@LSp@_AbByBZc@rAaBZa@Z_@V[X[`@c@`@a@^_@ZYd@a@ZWj@e@bAs@v@m@bAo@|BwAbDoB~D}B\\SvD{BnBkAzBwAxBsArC_BrCeBbAq@hBmA~@s@tAkA\\[~A}A~AeBlA{AV]dL_PrEuGdA{AlAaBh@s@dA{Av@iAxHyKz@mAfAwAl@s@h@k@pBcBz@m@`Am@v@c@d@SjAi@zBw@rA]ZGxB_@lAQzLeBhEq@xAW`Ba@jBe@|@[fC}@zAu@nBgAhCgBn@k@l@i@lCiCpAmAfAgArPgPlCkCfFcFbOwNdDaDnDmDfFaFvQeQxKwKb`@i_@jDgDpJqJnBmBtCmCdE}DjGeGlCkCnCkCJMr@m@rDoDfCaCn@m@hCwBvAiAl@e@hEaDrEkDjF}DfBuAjBwA`CiBfAw@`BmAnA_Aj@e@^YtFeElCsB|@q@zBcBlB{Al@g@`B{AXWj@o@r@u@~@cAnA{AjB{BpBgCtDmE`JsKpCiDnCcDpBeCj@o@|BoCpA_BbAmAlB}BzDyEbEiFJObEiFpMsPpF_HdFsGNQb@k@lCkDhFyGrAcBpE_GvD}E~@kAt@aAbBsB`@e@lAwAhAmA`@e@^_@x@}@zByB^]jEeEhAiAHGHI~A_B`B}AdBeBlEkEdFaF|B{B~@}@v@w@t@u@xBwBfG_Gj@g@NOLMxBuBjAkArCmCrBqBz@{@HIlRcRpFkF`CyBr@o@pCyBtAaAx@k@lAw@lBiArE_C~@c@fD{AtFkChD}AbCiAbD{AzWyLvDcBx@_@rG{C~HqDdAc@xEiBxCgAPEbBi@vCy@xBk@jCm@tOiDFAFA`B_@dEaA`Dq@zCm@vBe@REBAPEvE_ArBa@hFcAlKoBxHwAvGoAjCg@`AQzBa@dAWRE\\Kf@Q`@QRKd@QXMTMjAq@l@]`As@r@k@l@g@DCBAH?"
+                     },
+                     "start_location" : {
+                        "lat" : 24.749571,
+                        "lng" : -107.5697701
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.6 mi",
+                        "value" : 9089
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 503
+                     },
+                     "end_location" : {
+                        "lat" : 22.7591177,
+                        "lng" : -105.6552517
+                     },
+                     "html_instructions" : "\u003cb\u003eMéxico 15D\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eMazatlán/México 15 S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{uejCvqhdSz@cAf@q@`AyAp@_AhAcBZa@tIwMjBwCxBqD^m@l@eArA{B`CkEtCcFlOkXdQ}ZbGqKhDaGj@eAbByCHMFMx@{AnVic@tL}Sb@y@v@oA`@w@T_@DIn@kAl@aAtAcCl@gAdAoBpBsDhAqBdAoBJKZk@~@cBtAaCxAiC~@aBrAcCdAiBrBqD`ByCt@qAfAoBj@eA`@o@`@s@^s@l@eAnAyBvAgCz@{AdB_D~AoCbB{C`BwCxAiCxAiCz@_BjBcD|AoC~AuCnBiDtBuDt@uAf@}@HO|@{Ad@y@fCmE~AuC~@}A`@u@BEVc@bAiBxEmIhAqBz@wAt@iAT[j@s@b@e@f@m@f@i@n@m@xBsB`B{Ap@m@h@g@jCaC`GqF`HmGVUhB_B"
+                     },
+                     "start_location" : {
+                        "lat" : 22.8081424,
+                        "lng" : -105.7258784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87.1 mi",
+                        "value" : 140178
+                     },
+                     "duration" : {
+                        "text" : "1 hour 23 mins",
+                        "value" : 4979
+                     },
+                     "end_location" : {
+                        "lat" : 21.694283,
+                        "lng" : -105.050728
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eMéxico 15D\u003c/b\u003e (signs for \u003cb\u003eTepic\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "oc|iChxzcSdB}Ah@g@t@k@v@o@TQROVQj@a@VQTOj@_@l@_@XQNKDCtBiAbAe@rAm@jCeAPGxAg@lAc@jBq@fA_@bA]hDkA|CkArBu@x@Yz@[zBy@dA_@jA_@~Ai@x@W\\Mr@Wb@Mb@OhAa@fA_@|Ai@vBw@hA_@nAe@|Bw@r@UdA_@r@WfA_@`A[t@Wl@U`@O^MdEyAnBq@dE{AhC{@rAg@hBo@hAa@zAi@rCiAzAo@r@Y~@c@l@WdAi@RIn@[l@Yt@]l@Yj@WZQfAg@p@[bAe@`Ae@nAk@~@e@t@[n@[l@[`Ac@t@]p@]n@[bAc@dAi@n@[j@Yt@]~Au@t@]bAg@dAe@j@WfAi@fAg@r@[jEiB~HwDzBeAj@WlLsFpCqAvDeB~Aw@pCsAjGwCvDcBnB}@bCcAnCiArBy@hBu@|B_A~Aq@rCiAjCeA\\O~BaApAg@tAk@z@]d@Q\\OZOhCeAxAk@fCeAxAk@dEeBXKNGlBw@x@]`Ac@lAg@bA_@v@[n@YhAe@rCiAh@UlDwA`NsFVIhBu@jBu@vCmAhDuAvAk@dAe@lCeAdCmAvAm@jBw@zAm@jCgAfBs@rH{CxF}BfEeB|CoA|@_@bAa@xImDnCkAnDwA`CaAjDyA|IiDfBy@l@Un@QJEXMf@YJEv@[t@WjBm@nBg@v@QlAUn@Kt@MlAMpAMjAGb@Et@CV?dBC~@AzC?dC?`F@zIA|A@zMApB?vFApIAjH?hLAfFBzPAhKBjFE|@?nA?vC@nC?pHA~A?tA?fH?rB?|AAjH@bLArC@`GAhHAn@?vA?pE@lC?rAAzC@dDA~B?xC?pD?zEEhB@~E?fQAV?V?XAzG?fE@bC?rC?jC?pCAhD?hD?`I?z@AjB?nB?`BAfB@dB?rB?hC?lB?hBA~AGjBK`AGh@GbAI`@E^G^EhAQhBYjB]dB[hDo@pAWnB_@|@QrBa@pCi@lEy@dGkAbF_AdEw@rGoAjCg@hASrE}@`Cc@nOsC~PcDZG~Bc@hB[tE{@vA[zE{@dFcAnB_@zBa@dCc@~Ck@NE`B[tAYlCg@zAYnAWjBe@fA]jAa@|@_@t@]t@_@n@]x@g@xAaAp@e@jA{@pEcD~DsCbFqDpLeJvJgI~AsAn]wY|BmBvFyEHG@ATQjPeNr@k@hB{ApAcA`@]l@o@h@m@Zc@Za@`@o@d@w@l@gA^w@Xs@Z{@Pi@Tq@^eBNu@Jk@NeAHw@Hy@@U@CBc@@Cd@eF\\aEJqAPsBP{Bf@oFv@yIjAcN\\cEFw@LsALyA\\cEtAsOf@}Fd@gFZqDJuANgB`@eEhAmMh@kGPwBToCL{ATwBNqANgANu@Lo@ZyAVaAT{@Tq@N_@x@uBx@cB\\q@n@iA^i@lAiBvCgE`B_C|AyBhAgBbK_OtJoNzCkExFqIvBcDpBwC~BeDjCyD~CwEfM{QR[rByC~CuElBqCbCqD~EgHjAeBrAiB|FuIxA{BpCaEbH}JtJyNrC}DvCiEhDeF~D{F|D}Ft@eA~CwElBwClB_Dn@kAtB{Dv@_BzA_Dl@oAnAqC`AqBfA_ChByDFMjCwFlB_EbBqDx@eB@ArAwC|GwNjDmHnD{HHQp@wAz@eBvBuEpGgNjDqHdCmFx@gBjEeJfCoFt@yAzAyCzD{G@Cv@oAP[PU@CFK~BgDlDwEpBkCbEqFjHqJ\\c@|B_D\\c@~CeE`ByBbB{BxIeLx@iAz@gAJOjCoDp@_A|BwCxCaEbAqAdJyLfOgSrCuDbK}MjCoDdAoA|DkFjA_BlBiCnPqTbGaIHKFKzG{IjKcN~DqFzC{DnGwI`@i@zAoB|CaEpDwEvAoBbCcDpHqJ`DiEjB_Ch@q@dBaCFMJOh@y@^g@JQz@oA@C^e@`@i@`AmAX_@r@{@vCoDBEjDwEzA_Bj@g@h@k@pAgAj@i@TQv@i@z@m@nDuBj@YrQ_IjBy@`Bs@~Aw@`KkEfCiAxIyDvEwBxCqANG@A`KgEtPwH|CqA|V_LJEzLmF@?xUgKbCgAxVyKdOwGlOyGRKxCqAVMjFaCpGmCfDyAfCiAvAo@nAk@NIrQ{HdD}A|DiBdD_BdGcDnC}AxBkA~DyBTK`NuHlH_EJE~QeK^Sld@{Vle@oWrC}A|A}@jBcAdAi@LIfAk@fAo@bAi@bE_C~A{@rAu@h@]`@S@?x@c@VM\\Sx@c@n@]ZQ`Ai@dB_AbB{@|Ay@lBeA~A_Av@e@nAq@XQlAo@~Ay@b@U~@i@rBiArGqD`CuA`B{@pFyCzA{@\\SfBaAjAo@`Ai@zBiA~@i@pC{AtBkAfAm@z@e@dAm@ZSnGkD`DcB\\Qb@UXOtIwErDoB^QvJqElAk@~DmBhF_CbD}A|KeFlFeCjCiA|BeApCoAhD_BpCsA~IaElD_BfGwCz@]fGsC~FkClGyC@?vCuAfAg@dZaNfBy@`F_CxAq@NGLGbGkC~MoGhGsC`CgAtFcCjI{D|DiB~BgArB_AlEsBjF_ClDaBvFiCpEsB|BeAdEmBhAi@|IaEzOmH~CsAtDwAf@QhA_@z@[|Ae@|Ae@XIjA[|Aa@bBc@lHeBrKkCf@MxEmApJ{BbK}BtD_AjEuAjBu@zDiBzC}AvFmDpHuEbBiAtBsA`Ao@bBeAdC_BZQrCeBjAy@dBaAjB_A~BcA`EuAhBc@`AQpEm@zBSpEa@pAO|BUpAMpAMz@I`AKjAKhAMbAKhAMhAKfFi@bBQjI{@`BSpBYzBa@xBg@rA]fBk@fAa@dAa@bDuAtEwBtCuAj@WtAq@v@]fD{AzBiA`Bs@z@c@b@S|DkBxAo@fD}Az@a@vBcAxAq@nIcElDcB^QdIwDr\\sOjD}AtLwFzE_CvDcBd@SzEyBfEiB|As@pAk@pAm@nBcArB_A`Ac@p@YtBgAhC}A`BgAzAcAdDiCzBqBFEdFoEtFqFDCpHgH|WsVrFsFVWz@}@hAeA`A_A`@a@lKeKf@g@~IuI\\YFGZUdAy@hAu@lAq@v@c@pCoAnBw@dCu@NEXG`B_@x@Q|A]|A]`Ck@vD{@`AUjAUbBa@rAYnAY`AUdCg@fASRENCp@M~A]xBc@dAUfBa@xA]jBc@`IcBbCe@dBa@`ASbAWXI\\IvA_@pAY|A_@jAWlAYfAYbAYn@Ur@WRGPIfAc@~BkA~BsAj@]bAi@fB}@bAi@vAy@|DsBlBy@p@[fAa@xAc@TIREbAUh@IxAUbBWpDg@tCc@pB]hGcA`G{@|ASREjC]fBWjDi@b@I`G}@|Es@NA\\E@AlAQhBWdBWpB[hAQPChDe@z@KnB[zDi@`BWzB[nBYbBWj@Ir@MpBYjEm@LCZE~@MdFs@b`@uFRCVElAQvDi@bCa@nAQlFw@vCc@fBYtCc@nB]x@Q~@SvCo@hAYxDeA~@YbCu@BA`VaHvA_@dAW`Cu@hGgBdBg@pEsAlIaCnCu@tSaGnEmALElCu@~H}B`DaA`D{@j@SjI_ClD_AbLcDtEuAJEhGcBdBm@xAo@pBeAfAs@jA}@jCcCp@s@fAmAbAsA~A{BjFmHtD}E~AsBzAoBhBeCfDcFn@_A^i@BCV_@~AwBvEmGnBkCfEaGz@mApFoHdEwFxDqFn@_Az@mA|@kA|AsBhCoD@ClBkCjCkDLQnFoHz@mAV]V]hCoDvAiB\\g@h@s@nBiCjEaGjE_GvC_ElCuDdA{AHMRWBCHMFIr@cAdCeDj@u@dCqD|EwG~@qALOfAaBfEqF~@sADIbBuBrAmBxAsBNS`J{LfMaQtGeJbQcVZc@JM@AHMBCHM~HoKrHaKdAsAv@cAbAcAnAoAx@y@nAgAbBuAp@g@|@m@hBiAhJ}Ed@W|BkAnIyE`LiGdH{D~@c@`B_A`Ag@tF}C~DuBtAu@bPyI|QyJlAo@hNuHhLqGjFqCv@a@~GwDrIyEtC{AxDsBvEaCnBiA~BoApDmBxA_A`By@nIuE~EkCbAi@jEaCvBqAzBsAlD}Bh@]nAaAfByAnDaDbCwBnDaDDCrDcD|L}KlB_BxDuC~DoDzEuE~EuEfC{BnEyDfBaBJG|DqDlP}N`@]~FkFtBiBtI{HfA}@PMz@u@~AsA|BoB~BwB|AsArAmAxF_FxBmBnCcC`ByATQd@c@d@a@JKJKRQRQ\\[n@i@d@c@f@c@p@m@jBaBNMZY^[dAaA^[^[h@c@bAw@d@]JIVQ^WRMf@[XSl@]d@Y^Sb@WrAo@l@YTKNGx@]dAc@t@Y|Bw@t@Wd@Ol@SjAa@fA_@zAg@|@[~@Y`A]dA]~@[nAa@\\MDAr@UnAa@rBs@~Ai@nAc@bBi@jBo@@?NG~Bw@zBu@~Bw@dA_@~Bu@|Bw@zBw@nAa@HCjC{@hC{@zAg@RGj@S\\Mv@WdBk@vAe@|Ai@lAa@tBq@vAe@NGjBm@fC{@jBo@bBk@~Ai@nBo@tBs@b@OxBu@~EaBf@Od@Qd@Qh@OhBm@lBq@fC{@hCy@fDkAJEhBm@jDiAbDgArBs@~Ai@lBo@jC{@nBo@zBw@pBq@dCy@hA_@`@Mf@QpAe@n@WfAg@|@c@x@a@x@g@v@c@|AeA|@o@jA}@|BkBLK@AJIr@k@VShCwBfFeETQHGz@o@bAy@tB}AvC}B`BuA~@w@Z[d@_@VUn@k@\\YvAiAFGxAkAv@o@jA_A~@u@pAeAzBiB`DiClAaA~BmBjCwBdCqB~CgCpB_B`DiC`@]dAy@fBwAjB{Ap@i@|@u@xAkAl@e@hA_A`Aw@n@c@`@Y\\SLIPIPINIRIVING`@Kh@MTEb@Gb@GNCNA^A^AR?r@?p@Bp@Dbg@~FtGv@vDb@pKpAzAPzAPbJfAhEf@t@Jn@Fl@D`@Bj@Dl@@n@Bh@?p@@p@?t@C^Ah@Cr@Cf@Eh@Gd@EfAOrAQpHeAhEo@`BWzB]~B]pBY~Dm@xCc@nAOlBY~Dm@zAUbC_@~@MzB[zCe@bFu@hC_@`Dc@jHgAjLeBxIoAnG_AdHcAbBWxDi@`Em@fEm@n@KpCc@pAQfCa@l@ItCc@t@K|@OdAOd@KlAS~@QhAWdCi@tA]fD_A|C}@bBe@bBi@~C}@|DgAtDgAr@SrEsAdEmA~DiAzC}@BAbD_AhBi@fDaA|C}@zAc@v@Sf@Ot@WvCy@xDiAbD_AjJmCvBm@fEoAbAYrDcAzA_@|Aa@t@O|A]zA]nAWn@Mf@It@O~@OxGkAfF}@hLqBz@O~@OhASzAWx@On@ItAUdAOz@MbASjAUz@Qx@OtAYvDs@nGeA`ASfASv@M~UcEdAQpAUpB_@NCl@Md@IrAUdAQZEtGiA`Ew@|FiA`E}@hFmAfGyAvCu@lA[vBm@xCy@fD{@fAYpCs@vBi@TGdDy@rLwCx[eIzGcBdIkBbJ}BxFuAfAUfAW`QgEtA]nAW`@KnASz@KbAMhAKvAK~BKV?V?n@ApTYhGG`@AH?TApAA~IGpSUjBAzAC`EEvGGxDEvDEnDG|CEr@?b@A`BCrBCpAAbCAxAAlBCbAChBCpA?rABrABnABxAF|BLn@DnAJdBNL@zAL~BR|Eb@bIr@dF`@xDZ`@BxAL~J`AxALdAH`BJzALv@F~@HzAJvALjBPlBPb@FJ@XBxBPvALbBLnAJxAFzADvA@`B?zACnAEpBOvFa@`AIVCTCPAvEc@lE[`@EB?ZCdHm@tIq@xBOlBO|@GxHm@`Jw@bCUrE]`CQdE[n@E\\EjAMdIm@bBOnBShBOfAKvBQlAKlBQ\\GbAOd@GxAWv@OVGzA[xBk@jBg@f@O|@[lAc@zDyAhFkB~CiAhP{FfA_@jBm@nCy@rBk@|DcArU}FbBe@lA_@p@SnGoBhCy@~Bu@bA_@h@Uf@Qf@S`@S`@QfAi@vCwA~@e@|Aw@zEaCvEyBrBaA`EoBdD_BdCgA~Aq@`@OnB_ApAo@nEoBdAa@fDuATC`Bo@xDwAvCeAdC}@pCcA|NkFzG_CvTaIrBu@~@]xFsBrBu@n@Uf@O"
+                     },
+                     "start_location" : {
+                        "lat" : 22.7591177,
+                        "lng" : -105.6552517
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 390
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 21.6920916,
+                        "lng" : -105.0532644
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eSan Blas/Carr. Federal 15\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "gdlcC`vd`St@IT?F?XBPDLDHFTPFFFHJR`@`AzBlFf@rAJPHLNN"
+                     },
+                     "start_location" : {
+                        "lat" : 21.694283,
+                        "lng" : -105.050728
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20.3 mi",
+                        "value" : 32629
+                     },
+                     "duration" : {
+                        "text" : "33 mins",
+                        "value" : 1998
+                     },
+                     "end_location" : {
+                        "lat" : 21.550786,
+                        "lng" : -105.2543087
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMéxico 74\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qvkcCzee`SHTFTdBxFv@hCb@xAPj@Lb@FNN\\LVPZLPLRrAbBnAxAV`@NZFNBP@P@H?R?LAPANCJWzA{@nFe@dCw@xEo@rDs@bEEZIb@Mf@IZIXOb@Qd@Uj@GNGPENEJOb@M`@M^EREPIXI\\Id@GZOx@_@pBWxAEZEZEVAJ?J?J?J@RDPDNBJFPFJHJFHHHFDDDFBJFJBNDLBH@J@H?J@H?H?pBAlAE^?R@TBZDRHTLXTPPLPJRJVDTBV@V@ZA|@An@EzDAtBAp@@\\@Z@TDVFZBNDLFRFNLVj@fAfAvBLVDLFLFNBJBJ@HBLBRBR?P?JAbBIhEANIxDCxAc@zUElBC`@AZCVEVABAJCFENGNKVMV]n@s@pAi@`As@lAYd@KPuAdCMTq@nAa@r@KRGNIPCJCHELAJAFAHALAN?H?F?J@JBRDVF^F^\\xBBPDPH`@FTDPFNJN@BBDDFFDJJLHJDHDLDRDT@T@X?jDBjB@hA@dB@zC@x@@R@RBTFXHXLTHHHHDDDBDJJJNHNXn@Tp@Tl@dA~CHPHRLTHLFHDDFFDDDBFDNHNFPF`@JjAT~@VHDF@FDFBJHFFFFPTR^Zn@b@|@\\r@T^DHFFHHHFJFHDPHTHXDl@FhCVjALLBLBLBNDJDJDJDHDTNZZd@f@fAnAzAbBfAlA`@h@TZPXJXHVDTBTBZBp@FjBBnADvB?h@E~@MdBKtAOlBGfAC\\@L?F@LDNDNHRHRHJJLNLPJJFJDFBXDNBJ?L?L?PALC\\KXMRQLMTW^g@fBaCPSNOPONMPKNEHCLCVATAN?L?H@NBTDRF`@JhD~@|Br@`@LZLRJLHPNRPNPLNdDpEzDnFvGzIfCnDfB`CpDbFp@~@d@l@d@j@PPPLPHJDLFRDRFZBl@BpB?jBAhAAdCA|EEzDCz@@P?RBNBXBLDLBh@TRJRLLJd@^l@h@~ApAvGpFzBlB\\VLJLFHFHDJDHBHBHBJ@L@L@N?PANAPCXIXIXIjAa@|Ak@~@]`DkAzEiBhDoAb@MJCHAD?H?F?P@L@H@H@JDHBHFHDFHJHPPFJDJHPl@dBj@`BFPp@rBDJx@zBh@|ATn@t@xBl@`B`@dAXfABJBN@J@J@N?NAL?JK|AOdBKbBI|@A^AP?P?R@R@RBVDZP~@rAjHNv@XxALr@Jp@x@jEp@pDd@fC^pBl@hDf@jCX`Bd@`CRnAXzA\\hB`@zBXzAb@zB~@lFj@|CdA~FpA~Gb@bCH^RdAH`@Hb@FZHRDNDLFJJTP^fAtBtAlCPTDHHHFFLHPJHDLDH@F@JBL@N?P?NCJCRGLENGd@WvAu@fAi@^O^M^I~AUhDc@hFo@fDc@pAQTEZEJELCRKd@UROVSTYPSLOLMHILMJGLGLELCNANAL@PBJDLDJHFDDDFFFFFJf@t@\\j@d@t@NRJNRPPNRNVL~FlCpCnAnAj@xEtBTJRJTLRLNJLLLNJRHPHTFTBX@T?R?TCRCPENM`@o@fBWr@Ul@Sj@ITKVKRORMROPUXe@l@a@b@Y\\QTGHEFADEJEFAFADAFAFAD?DAN?L?R@N@LDNDPDJDLDDBDDDBBDFHFJFJFJDLDLBH@J@J?LAH?HAJATE|@QHAJANAL?J@F?D@H@D@BBF@DDFBDBDFFDDDDFDHBHDH@HBH@H@J?H?`@?d@?bB?tB?r@@j@Bj@HnBPrDN~DRtEJzCBT@RBPBLDNDPJZN^NXZd@b@r@f@t@T\\t@jAlAjBjAlBfAbBJNr@fAd@x@Zd@p@dAbBjCfBnCbErGr@fAlCdEhDnFfBpChC`EzA~BtAxBvAxB~@xAnApBZf@\\d@PVPTXZNLTP\\VZTt@b@vBlA~A|@~@h@|A|@fDlB~CfB~@f@j@^XR\\Xb@d@\\b@R^PZRf@Rr@`@vAj@rB\\lA`@nAHVHRFLFLDHFJFJHHHJHHJJJHJHJHHFHDJFLFXL`@Lb@NrBl@lBh@n@Ph@NtCt@`AV\\LPFJFHFJFHFHFHHFHT\\V^bAfBr@hA~ApCrCxEd@v@f@z@\\l@Xh@JXFXBR@T?VA\\Cj@MbCGhAEfAErAInBAn@?VD\\FZHXN^NXV\\tA|AfBpBVXX\\JPHJDLDJBJ@J?J@LANANAHEPGNIXENELETCR?R?ZBZLfDBb@@\\Bd@B^Hz@NjAx@~Hb@rDt@hHf@vEb@jELz@Lt@Lh@Lb@N`@L\\NZLVLTRXRVVVX\\j@j@rEtEdAdAnBrB\\Z|A~AnBnBrArArAtApClClBnBbB`BnCpCvBxBjAjA`AbAvAxA`CzBl@l@b@`@LJJFLFFBFBHBFBH@JBL@LBT@f@DLBH@JBJDHBHFFDDFDFBFBHBNBNBf@F~AFnBF`ABZDZJ\\Jd@Nn@BN@N?NANGPGPKR]t@c@v@ILCJAH?D@FBJFNDHFFFDJFPJd@T`@PTNJHLJHLHLDNL`@HVFPFLHJBBDBDBFDF@FBJ?J?JAJCFCDEFGJMHKHMRWFGDEJGHEFABAB?D?B?D@D?DBB@DBDBHHDBBFBB@D@D@B@J?L?ZAr@EnBE~A?h@?D?D@B@DBB@DBDDDBDDBJFD@F@D@F?D@D?FABAHADCDCPKNMZS`@YdAq@fAw@r@c@~@s@n@c@ZQPEPCPAH@J@H@HBFDFBFFFFHLFJn@bB`A`Ch@~A^bAN\\JTHJHJNJPNNLTNp@f@PPLPFRBZBX?j@@`@B\\FVJRLNJFLFLDL@J@L?PAd@GlDa@lBQl@CT@NBLFLFLLNPLVp@~A`AxBd@lAF^D^@VA\\C^Ah@At@?T?L?NBL@J@?L^FNJPf@r@b@p@n@x@JPLRFNDJBHBJBL@J?L@L?l@CjAAjAEvD?DEvC?XAf@?\\?\\?j@?h@@n@?L@JBNBPDTHVDPFNHPr@zAJT`ArBhAdC|AfDZp@HPHRHVFXD\\BX?RCZGZM`@CNw@lCI^]nACXAZ?P?T?NDPBPFPDNFLFHHJJJLJLLPJPFLDRDP@L@R?RANCPCPEPININKNMRSVYb@g@zEsFRY^c@JKJITSVOPMJEHEHCDAFALANAN?L?H@N@TD^FnARdBZ`Dh@vB`@nCb@ZFXDZJNFNF\\NjDdBjFlClB~@l@\\j@XRPLPJNHPDPDTBR@XB\\B\\DVFZDVHPHRJNJNJLLJLJTJTLj@VBBxAl@PDLDL@N@P?RALCHAJCPGdCaAxCiArAg@b@QPCNCTAZ@Z@TBNDRJ^TXXNTHNFTNt@Hf@Jp@Hh@FXN`@N^LR|AlCjAnBR^\\p@LXHVBNBV?R?VANCNGb@CVAP@X@TBPDRDRJ^HXb@jAf@vA\\fAVv@Tp@Pp@DXDRBRHjAHlAL|BBZDr@Fr@NvA^fDLnAHf@Hl@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.6920916,
+                        "lng" : -105.0532644
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.3 mi",
+                        "value" : 19830
+                     },
+                     "duration" : {
+                        "text" : "16 mins",
+                        "value" : 942
+                     },
+                     "end_location" : {
+                        "lat" : 21.4279035,
+                        "lng" : -105.1837962
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSan Blas-Tepic/Tepic-San Blas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mcpbClnlaSPANAb@GZCb@I~@Kp@Kh@IPCRETGZIn@Qh@Ol@SfBi@z@Yn@Sp@Sd@O\\KdA]hAa@jBi@`AWzBq@|E}ApDgAjEsAnGmBrEyAt@WzC_AzAc@h@Qv@SxEuAbHwBdA]^IXCVAR?Z@l@Df@D|@FV@P@V@TARCNCLEPIJGHGNMJIJKLKJKPKJGNELCPEj@IvBYb@GXGDCBABCBCBG@C@C@I?Q?KGq@MaAWeCKaAOqAGw@Ea@AYAM?O?Y@Y@]ToCBa@vA_QXeDz@{K`@{E@S?Ab@kFNcBFu@@GHy@Fa@D]FYFYH_@J_@J_@FQZ}@\\y@`A}BN]jAmCTi@^{@lAwCXo@Zs@\\q@R_@T[Za@NUp@w@jAsAjAqAbAgAx@{@f@k@t@{@vA_BnBwB|DiEhBsBxCgDPQ|@aA|@aAtCwC|B{Bx@u@`EcErJqJ`D_DfFaF`@a@rDqDn@i@XUfCeCrFqF~B{B~@}@pAoA~BaC`C{Bd@c@rFmEzD_DtAiAZUdA}@JIJGv@o@NK`JqH|PaNtAiAv@m@`Ay@fA{@xAmA~@s@tAgAlA_Av@s@pCwBl@k@PSLQJQPa@L_@BQBKBS@O?K@]A]AWCSCSG[Mc@IQMUMSMQSQuC_BqDkCGGEIAIAIAk@?UAOCSG[KQEKKMQOSKUKUISGWIMGKIIIGKEOAM?G?I@O@KDIDIFEHELCH?F@TBRFt@PHBL@L?D?D?HCJEJGLKLQNQHODKBIBMV{B?C@CBGBCFKBCFCFEHAJ?L?J?JBRDTH`A`@^RVLJHNNHLLNPTJLFFJHJDFBF@J?J?JAHEFEHETUPQ\\YHKDEBGBKBOBO@Q@m@@i@BU@MBMFWFMn@gAJSTi@R_@JQLMPOTMRI`@KdAQ^IRCVEREXGj@IVCVAH@N@XDVHLHJFNJJNPZxAtCP\\Pb@PZTd@T`@^l@RXZVRPp@h@bAt@f@\\VTZVVXRTJJdBxBDFxAtBZj@b@p@\\f@PXBDHNPVPVPPHHZT\\Td@RVLRLLLLNBDBH@FBF?D@PAHE^I`@Mz@e@nCSnAIf@Kb@Ib@O|@Kf@ATAR@PBJDJDHHFJFLFNDRFtB`@nCd@tAXTFTDPBPBP@P@L@NAPATAjAUJCXEd@KlAS~@QVG\\KZKf@Sf@Yb@Yf@Y^YZS^Wp@c@f@[dEqC~CoBfD{BpCmBlCcB~B}AnAy@bAq@hBmA~AeAt@e@f@]l@c@nAy@`Am@n@c@b@[VO`@Wh@YTQf@[`@Y~@m@~A_AbAu@xB{AzByAXQXQTOTQh@Yt@_@~@c@x@SnAYp@Sp@Oz@U|Ac@tBi@~Ac@x@Sj@O\\Kb@Kh@Kb@Ed@Al@?f@D^FVDZB\\BVBJ?PANCJCJIFGDGBE@E@K?KB[@[?S?M?O@OFMDKHKJGLENCN?`@BZDf@Hf@Ft@HZBJ?JATENILKLKTSX]JKTURKNED?L?LBDBHFHHHHJTFVL\\Ld@HNBJFFDDJDJDP@RATGVG`@Q`@QNGPA`@DVD`@Pn@Xp@ZrB~@tCtArBbAlAl@nAf@ZJVFX@`@AXE\\Gt@SrAe@xBw@nCaAhBq@j@UdAa@fEyAZOZOVKVK`@Mh@Qj@MPEZC`AKzBKxAGhAEl@EpAGbAEd@CZ@f@Hn@N`@L`@Ff@Ft@Hn@Fh@Dj@FlAJpBNzCZlD\\lCTbE^dAJVB^Hh@Pb@Vd@`@VT^ZbAv@r@h@dA|@bA|@v@n@HFFBH@F?F?LCPErBqCnCqDhCsD~BeD~CkExB_D"
+                     },
+                     "start_location" : {
+                        "lat" : 21.550786,
+                        "lng" : -105.2543087
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16.5 mi",
+                        "value" : 26625
+                     },
+                     "duration" : {
+                        "text" : "23 mins",
+                        "value" : 1369
+                     },
+                     "end_location" : {
+                        "lat" : 21.3075628,
+                        "lng" : -105.1538187
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kcxaCvu~`SPGJENEFALANAnAt@nGvFFFPJXLZJ`APZFP@R@J?F?ZGLGRKRONMJODMDMrAsEt@cD\\}ALk@Lg@NYNY|E_HtB_Dj@q@LOLKf@c@XSJEHCLCNIVUVY\\W^Wd@[\\QfCq@dBa@n@QtCy@nCu@vDaAlBe@\\KJENMHOJOL]HWLYNg@\\aAhA{Cr@oBb@eAHOJKHIHIHELEJEPA^?~HtAl@L\\LVLPRNRNTJZH\\J|@NhCNdE@f@Cl@E\\Sv@k@lBK^G`@KbAKnDM|D@T@`BFn@b@zBZnC@|@@xAMpCIhCHfBJvDDtAJfAL`ARpAHb@Fd@J\\JPTV^VNFH@^?VEXIRKPUb@aALo@Zu@n@w@z@w@TWRc@DSB_@Bo@Da@JYJQJQ|@k@f@g@FKFMD]LgBR{@l@yAn@wAHUPOf@Ob@Md@KJGLIHKFOBI?IAMAKCGCEKMc@e@]]KOGG?AEICQAUCO@WDWDMJQLOPMVQLGPGx@Gr@Cd@Mp@_@RMb@MPAP?f@IPGDCFIDMHOFQN{@N_APcAL[T]FGNITIJANATAP?JBJFLHLLJRt@|C`@dALP`@l@vCvEpCnEnCpEpD`GV^\\d@Xj@f@z@R\\LJFFJFLDJ?P?N?XELMFKJODK@KFc@PwCDq@BWJmABIDIJMJIPEVEP?ZDTJLLFLDNDx@DnAb@rGIjAM|@Ip@Ap@DXLh@hA|Ch@~@PNVLRHPBlCN`DJn@Hj@Tb@\\VXHLJ`@~@bJLjAJ|@Hd@Hd@DLDNHPJPNRNNNPfAx@nCnBvAdATPxCbCfLnIh@b@b@h@V`@N^H\\Lx@TxBx@`IbCbVHr@Jn@HTHLHJRNVP\\XHLJRRn@\\xADR@TAVEbA@`@B\\`@nBf@zBT`A@R@ZCTERKTEHEDKD_@Jk@Fe@HYHSL[RUX_@n@S`@Gb@?XB`@H^JZ\\vAJXHNDFDDPLRJPDP?VAtBe@\\GLCF@N@LFLDPJNNJPFHFNDj@dAhKLlA@T?XWvAO|@Gp@?T?RLh@HTJNJJlEtBnATjA?`CKx@@`@Dd@Hz@b@nDvBpFxCxBbA`Cx@|GjBtElA|C|@fBd@lEjA\\Jh@Pz@`@RNNLFFRRT\\P\\FPJRLr@Hj@Dh@JzDBjA@^Dl@@HBHBDDDPJZRXPVZJXBL@`@?`@?XBTDLBHJPHJJFLHPH\\Jj@R~Al@h@VRDb@NZHb@DTAd@Bj@BXDVF\\R^XvF`Gp@`@RFTDRBn@FTF\\PvHxEFHHNFRDR@T?RE^Mb@Kl@APAJ?D?L@XDXDNJZPd@Xz@BH@H@P@T?N?@AJ?FAFCHGNYXa@VOJg@\\IJGLGRCX?H@PBH@HDFFJVTZJVFvAZfCf@vAf@v@f@VPLHLNDHFPDPBRBL@d@Bd@@LDTDNFNHJNNBB^RzChArAf@nBv@rAh@fAb@LFLDNB`@HF@hBNjAHjDP\\@ZCLARINEl@_@JIj@o@dByAt@s@T]NYLg@Jk@b@mC^wBV{AVsARy@`@iAP]z@qAv@gAt@kAXc@Pa@Ni@Ji@Fg@?k@@cBAkD?oA?{@?c@?}@De@He@?CDSFON[R_@p@iAJWH[BU@KBu@E_BKqECy@Cq@Ac@AQ?MCk@Ae@EaBEcBCc@EiAAm@@U@U@WBYBOBIH[FSHUJULQNQHINK`As@jAw@RQNOR[DGJUXo@?Ab@sAl@}Ad@qAj@cBTg@|@wBr@aBl@uANYVi@pCcF`@u@xBaEHMxE_J~@gBZk@nA_Cb@w@v@yAb@s@`@k@\\i@rBmCxAkBb@m@JMbG{HdByBtD}EpIuKfDiEPUbBuB^e@`@k@Ze@HKd@w@Zm@Vo@n@mB`AuCtB}GnCsITs@~@{Cr@gCd@_Cp@wDx@wEhAiGlA_Hx@sEtAeId@uCHa@\\cBb@gCX_Bx@{EbBoJ@Cj@aDd@kC`@qBTkAH_@L]\\aA\\{@\\u@HOvAcDlFsLzAkDdDgH~@wBnAoCbA}BVi@xAyCXk@Vq@L[H[Py@`@wB\\cBToALq@Lg@HUL[Zk@V]|@iAxCeDdBkBb@a@XSTMl@[z@]zAk@BAjGcCb@UZOVUVUNSJQTa@J[JWDSDSDS@_@@g@Ae@Ce@Cg@Ak@@a@@S@UHc@DUfFmNHQVg@XUVSp@a@j@W^O^IVCVAb@?X@p@JZHRHpAl@d@Vf@PRFRDVB\\BX@`@Cd@E`@E~@IXCTAZ@P?"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4279035,
+                        "lng" : -105.1837962
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.6 mi",
+                        "value" : 7437
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 604
+                     },
+                     "end_location" : {
+                        "lat" : 21.2501502,
+                        "lng" : -105.1647785
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eNAY 16\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gs`aCjzx`Sr@HH@JBF@JDTHtChATJlAd@HDj@Vb@PD@^RZNJHNHNNNLdCdCpAnAlAhALLNLZRPHHDDBPB\\BrAHzF^nRjAbBHzAJfKh@zf@tClG`@dDPdVpAxF\\pEVlJl@`EPjDP`CJfBLZDVHPFNHPLTTPTRb@Zr@b@nAHRz@xBfBrEdAjCVp@L\\r@jBp@hBp@bBXt@N^LRRZRVRRLLLFRF\\Jf@Lx@Nr@LrATdAPd@FVDV@V?x@@v^B~A?tA?dACxBIjAIdJe@nKm@pAGt@A\\Ad@BH@d@FRDXLRJnBjA~FtDrBrATNJFJDb@N\\HnARxBX~@Nd@DTBL?LCTEnA[^K`@QVUXe@BO?gCAuBBsC?eB?sBCeB@aB"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3075628,
+                        "lng" : -105.1538187
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.4 mi",
+                        "value" : 8755
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 636
+                     },
+                     "end_location" : {
+                        "lat" : 21.1816287,
+                        "lng" : -105.1394391
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv Insurgentes Sur/NAY 16\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow NAY 16\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mlu`Cz~z`S^CJD@?B?nAA`C?nCG`CAhCGP?jBGtBChCCd@KxACXAtCGLAh@GXGn@UvCkAPGVMrB_AHC~Ao@x@[pGgCdBs@RGZGVAX?\\BXDx@LtCl@PB~@NbDn@`@HfMdCzNpCvAXnDp@lJfBvSdEdHpA`@FvJjBnMbC|Dp@VDX@H?P?REd@OXMl@a@lA_A|LkJbK_I`\\qVxD{CdBsA~AkAtEoDvBaB|N}KnDsCvDsCdJcHvAiAhCsBrG{Ez@q@lG{ErFmEtBeBtCyB~AoAnB{AjA_AjGwEvKqItB_BfF{DfByAXU|@o@`Aq@lA_ArAaA@Cb@U"
+                     },
+                     "start_location" : {
+                        "lat" : 21.2501502,
+                        "lng" : -105.1647785
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 21.1796882,
+                        "lng" : -105.1400168
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZacatecas Nte.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e`h`Cn`v`SNLHDTFXF|Cf@zCf@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.1816287,
+                        "lng" : -105.1394391
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 21.1772309,
+                        "lng" : -105.1406483
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eZacatecas Sur\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "atg`Cbdv`SbGbAvB\\nBZ"
+                     },
+                     "start_location" : {
+                        "lat" : 21.1796882,
+                        "lng" : -105.1400168
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 21.1760926,
+                        "lng" : -105.1423267
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdolfo López Mateos\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "udg`C`hv`SNZhAbCt@rA`@r@PTLHFBB@@@@?@?"
+                     },
+                     "start_location" : {
+                        "lat" : 21.1772309,
+                        "lng" : -105.1406483
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40.5 mi",
+                        "value" : 65120
+                     },
+                     "duration" : {
+                        "text" : "59 mins",
+                        "value" : 3554
+                     },
+                     "end_location" : {
+                        "lat" : 20.7654375,
+                        "lng" : -105.3704369
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdolfo López Mateos/Puerto Vallarta - Tepic/Tepic - Puerto Vallarta/México 200\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow México 200\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "q}f`Cprv`SJRR`@|@bBf@bAJR^p@`@n@`BzBTVtAjBjAxAtDzEd@n@h@p@LRr@pAT^PTNTN\\JRDJPf@DNJZJf@Hf@Jx@N|A@HHbAFr@BTBPD`@Fh@Jh@Lb@L\\Td@R^Z`@j@n@JH^ZXNZPp@\\dAf@v@^LFt@Z~@b@~@b@vAl@VLFB~@^jAf@~@^DBj@VZL`A^hAd@tAh@lAd@p@RlA^pAb@pA`@pA`@nA`@nA`@pA`@rAb@tAb@tAb@tAd@tAb@vAb@tAb@vAd@RFbAZtAd@j@PzBr@nA`@lA`@hA^hA\\fA\\dA^fA\\HB|@XhA^jA^jA`@nA^v@VPFfA\\`@NbD~@x@TnBr@x@Z\\Jv@VlDjAdBh@jBf@dAb@fAVdARb@FbBPJ@lAFtCTd@BhAHh@DPBNDNBTDRFVHRHd@Rf@VbAh@fAl@dAj@bAj@x@f@`@Rd@VZR^Pf@RPHRH`@Lh@J`@F^Fj@DJ@zDPvAHrCJ~BFbBHzAHbJ^`J`@lBFpENlEXdBPjBTlBNtANtALZDrHp@tCX|APd@H~@NLB^HXJTJXNNJPJXRRP\\\\`@b@Z^X`@V^h@z@Vd@n@~@fAbB\\h@hIdMbC~DZb@lAhBLNPTNXVX\\^NPXRh@^z@b@n@XhCz@@@`Cn@d@Nf@NpA`@nAb@nA^hA`@jA^jA^lC|@|HfCxAf@vAb@B@nA`@tAb@VFl@TjA^jA\\hA^hA^jA^hA\\jA^jA^v@VTHf@R\\NZPVR|@n@`@ZjBnAhBnAVP~AfAbBjApBvAtBzAVPz@j@VPh@XXNn@XhA\\`AVpA\\pA^RF~@Vx@R\\Jh@NbCl@tA^b@Lp@PlA`@ZNt@b@^Vf@^TTp@v@x@pAFJpAlCN^P^BDf@fAt@zApChGzAzC|DpIpC`GbAxBxAzChA`C|B`FhB|DzA`Df@hA`BhDvBtEXj@dA|BvAxCtAvCvAzCtA|CvAxCh@jAl@nAzBzEtAxC~BdFz@jBZn@@BJTtArCzA~CfA`CHNxAbD~@lBnAfCrAtCdBzDhDfHtAvCt@|Af@v@x@nAz@dAh@d@fA|@TPt@f@PPfAt@hEvCz@j@bC|A`IfFRNj@XNHPFvDdCv@f@|@p@jLvH`EjCfHxElFhDhAp@VNn@`@nDfC~AdA~@l@DJbDxB`HpE`ElCvDbCbAp@lErCrClBr@b@jCfB|BxA^RhH~ErIpFt@`@TNh@ZlDbCr@f@LHb@\\bAn@jAv@dBhAxExCdAn@t@f@`An@hBnA|@h@TPx@j@bAp@jAv@f@ZRLJH|@l@@?b@XRL@?nA|@NHb@ZXPtAz@DDzA`A`Ap@d@\\r@l@fBjBFHPV`CzDjBxCFJ@@NXrCtENTz@nARXbBrC`A`BxBjDlAnB~@xAFLhC|D|BtDzFlJrCrEzBjDbA`Bz@tAtA`CzGnKHLDFFFx@~@RTTLbAh@dEnB`DzAnLvFn@ZdGvCdAh@dAh@bFxBv@\\p@RHBn@PNDNBNBJ@PBH@F@b@B~BDlD@fCALCj@@rBBdB?h@Ar@B|@@P@d@?~@AXDh@BrC?dB@xGFlCD~@Bf@Dd@DPBRDPDRDRHXJNFXJZJNJLJRPRVTVh@|@|@rAJJj@x@NTp@`At@dAvCrEp@dAn@bAt@jAr@fAv@jAv@lAz@nAx@pAz@pAp@dApApBp@bAp@bAhAdBj@|@rApBbDbFzGhKx@nAHLp@bAx@pAx@nAz@pAz@pAT\\d@v@z@pA^j@DHPZFF\\j@BB~@vA`@n@d@p@t@lAd@t@bAxAr@hAr@hAnAjBT\\v@jAt@hAn@`ADFr@fAt@hAt@jAx@nAx@nAT^n@`Al@~@h@v@h@z@p@dAp@bAJNn@bA~@xA~@xA~@xA~@vAJNl@`Ax@lAl@x@LPv@`AVX^\\pAbAnAv@pAv@rAx@rAz@pAv@pAx@d@Vj@^pAv@pAv@nAv@nAt@pAv@pAv@pAv@f@Xj@^rAv@z@f@TNrAx@rAx@vAz@B?tAz@vAz@pAv@BBrAx@rAx@rAx@tAz@rAz@rAv@pAv@rAx@hAz@HHNLNLJLLNPRHJJLX\\RVLNJLFHDH^h@RVHJ~@nA~@lA~@lA~@lAFFh@p@@@h@r@FHNRb@j@\\b@|@jAb@j@FFFJv@`Ax@dArAdBd@j@|@lA|@jAr@~@HJRVj@r@|@lA~@lA~@jA~@jA~@nA~@lA`AlA~@lA~@lAZ`@b@j@~@jAz@hAv@dAp@z@DFl@v@@@z@dA~@nA`AlAbAnA@@`ApAdApA~@nAbApA~@lAt@`A`@j@PT~@lA^d@TX\\d@JLHJT\\^n@d@fALf@H^Hd@Hl@Dx@?@?bBAVAhAAl@Al@Cf@MvAQbAS`AUx@Od@GRKTK\\K`@M`@K\\CL_@xASfAE^Gh@C^AR?\\?Z@Z@LDv@BXJ|@L`BFb@Fv@Fn@D^N|ALtA@BLnADf@JdAB\\JdALzANxALxALxANvA?BP~APlAJr@T`ADT@H?DBHLf@ZdAV~@Tz@^lA\\hABF\\nABD\\jADPT~@N`@FRDJ?@ZhANd@Nf@p@nBBF@DHNXl@LTNP@B@BJHhA`Bb@d@XTh@l@r@x@HF|@bAZ\\`@b@v@z@DFNLd@l@`BfBf@l@bDjDPTJLDHBDLPXl@DNDJFNH\\H^J^Jf@Pz@n@|CDR\\r@\\f@PP`@ZHDJDHDJ@TFp@Dl@@PAn@OjBs@DC`@Sb@S^Qh@UbDuAXMXKTGJAJCHALCJ?b@@n@JhAPJBNF|An@f@J^DN?^CZI\\MTSVWJSNe@Jc@DQBYDW@_@Fi@@YBKBQBKDKFSHOPW\\e@\\YTMn@U`AQj@Ah@Bh@LRDXJt@b@fAx@zAlAFBLHXLh@X^Hb@Fn@Bj@En@Kn@OrA_@dA]xAo@j@SVGREREVAJALAJ?P@N?VBVBPBH@F@LBPFNDHDJBHDNFJHLHZRLJRP|AvAnAbAdA~@hB`BzApApAhATTLNJNFJHRJVFRDNBRBRB^?b@Ix@QfAGXi@~CE^A^Bn@F\\HXNZTX\\VbAx@b@f@JPVl@DTBRBV@b@?lA@dI?jA@~D@tA?p@Bb@@^B`@BTBXBTFXFZDZH`@Jd@\\bBlAnGH`@RbAj@~Af@hAh@`AT^j@r@l@r@dAjA@@|B`C~BbC`DhDbAhAn@n@|@bA~@`AdAv@l@`@d@Pj@L|@LpANl@DrAJH@hAJ|@HNDNB^Lt@\\NHVRNLHFRRHNNXJZHTFVD^Hf@FhABtB?b@B^D\\Jl@Ld@Lb@\\j@Z^bHjGf@b@nAhAn@h@dAx@XR\\PVNTHZJPDZF^FXDPDf@DfDZ|@Jt@JlAPfATTHNFdAb@~A|@pBjA|Az@tCbBdAn@TLPJ`Aj@pBhAfBfA\\Rt@f@~AjA~DbDJF`DhC`ClBv@l@b@^^ZzEvD~@v@|AlAPNPNHHh@h@d@n@FLJPHPJTDRFTDXFZDZB^JlDTbHRbGPjE@N?NDdAPtEBz@JtCBf@B^HbATxBTtB^bENrABR@RHp@b@dEp@vGNz@H\\J\\LZLVPV^b@|@x@tAhAv@h@\\TZR^Nb@LZH`@DRB^@X@V?`@?zCE`@?fHChAAx@?dBCn@Cn@?^?\\B\\BZD`@FPDh@P~@\\~An@jBx@bAb@TJVPRPRPXXLTLTNZJZPn@fArEZrAHf@Jp@NvAB\\Bj@?j@EfDB^@N@LBL@FBLFPFPFNFNDJDHBDv@xAbAdBnAnBJTL^FZH\\NrAt@~KBd@DVDZDTFRTh@N\\b@v@LLNJLH\\VZLFBPFTHXFzJ~AdGx@VFvMtBfALLBX@\\@L?`@?`AIvC]xFi@vG{@zJ_Ar@KlC]|ASpC_@J@D?B?h@ErC[fAINA~@IvAK\\ERCd@Ix@OdA[b@QDADCFG`Bo@dCy@PGxBs@n@ORCTCV?TAd@?b@?b@B`@Hn@Lr@RnA`@n@P~@PXDPBL@`@@ZAhACxBEbFWnEWfAEvE]~AQTE\\InAc@pAm@~@c@n@[`CkAtGeDXQlB_A|@a@dAi@fB}@xBeA|As@nAq@|@e@rBcALG`@SXORONMLKLKFIBCHKLONULWHSL[DSHUDWBMBU@UBU?W?[AS?SCSCKCQCMEOAKK[GQKWKUOWKQe@m@SSSSk@q@SWW]IMKOKWGOEQ?ACGAIEOAQAOAM?M?K@[@[BMBUDMHYJYHKDIHKHKNOHGFENKPIJGHCLEJCXI\\GZETETC@?REJAHANERCTGNERGPINILIXW^c@p@oAbAmB|AaDxBoEtAyCZg@`@k@z@eAtAyApCyCd@e@xA_BhBoBVUXQZMZMRGHAPCb@AV?`@BZDfCp@F@B@XHNBXFPBNBJ@R@L?N?LATATCZCb@Gn@MbAOx@Ml@INEz@Op@KjFu@rAU^Iz@KNAt@?bABd@BhE\\vEVz@DV@X?NALAPCNCPCHG^UXYNYDOF]Bi@?M?OAOAKCMCKCKCGACEIKQIMOOII_@][Y_@[OQOQMOIQGSCYAQ@[De@BMBOJSxA{BdAuAd@k@h@s@PSZk@Ng@FYBe@Bs@@cB@_B@o@@WFYL]LWV[\\_@f@]h@]v@i@jAs@dAo@h@_@RYTa@JWDUFe@Dq@DqBFoBHyABYJe@Tm@r@cAdAiA|@_AbBgBzC{CdAcARMTQ\\Sf@Ob@On@QtAYjDw@zEiATGb@Ir@Ib@Gd@AxBDH?zEFlA@j@B\\?X?JAHAXGXKLGLGROVSHGPQj@e@nBgBlCwBrD}Cd@_@d@[\\QRGVEXEN?d@Dn@NfAXdAV^FZ@v@?f@Ct@G`AAl@CX@NBb@H\\Nd@ZTPlAfARLr@Rt@RnCf@|ATrBZ`Cb@x@P^FzDZVBb@L`@Lb@Vf@b@RRd@`@v@f@PJ|@TV@b@A\\Cb@K\\OPOBGRWJQVy@Rg@b@kAV_@NMROLGJCLEFAJALAJ?LAJ@J?H@LBPBLBJB`ATNDd@FVBT@F?VANCRGn@WNKpBqA^W^URMRGJCBANCLARAB?J?H@P@LBJBRFTLRL\\VLJz@z@LJPJPJXJTFXDL?N?R?NAr@IjDo@PCNAVEPCPANCTAP?P?V@^BXDB@xDf@pBXrBXxC`@nBVf@Bd@?tAG~DSrAIn@KNGTKNILKNMPSNUJWJ]FOPu@x@iDdBuHZ}ANkAHc@VgA~C}Lh@mAd@cAr@eAx@aAVWrDaD@CzBmBp@k@TQb@YRMVMf@Uh@Sf@QZGNCPCTE`AI|@Gb@Al@?b@ATAh@Ib@G~@S\\MN?z@[bC_AxCwAp@[fFgC\\QZSXUz@s@FGr@aAf@y@d@iA^{AN}@bAuF"
+                     },
+                     "start_location" : {
+                        "lat" : 21.1760926,
+                        "lng" : -105.1423267
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.5 mi",
+                        "value" : 12047
+                     },
+                     "duration" : {
+                        "text" : "15 mins",
+                        "value" : 889
+                     },
+                     "end_location" : {
+                        "lat" : 20.7144039,
+                        "lng" : -105.2767821
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBlvrd Riviera Nayarit/Tepic - Puerto Vallarta\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Blvrd Riviera Nayarit\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "_wv}BfdcbS\\sB@M`@eCBSLq@TuAN}@RqA`@_CZsBRqAJm@d@kFHgAH{AZkEP_C@OX}EN_CNcC^qFR}Cf@oHDk@LmBxB{[x@aNL}@Ns@No@Ng@Zy@d@kALWLYpAcCRc@P]Re@fGuLr@wA^w@f@_AbAqBpE_Jn@uADG@EpAiCNWp@sAJS?ABEFM?ATc@f@cA\\q@P_@h@gANWN[Xk@@EL[FOPi@HYDQNo@DSLi@XqAFUJe@Li@Ps@Ns@Nk@Jc@Nk@H]@GxA_HVcAF[T}@VcAn@mCl@mCb@uBn@kCx@mDXqAFS?CFST}@Ns@Lk@T_APu@Ps@T}@ZuAJa@XuAJc@dDeNVaAl@mC\\uAt@}ChDcOj@cC|B}JbAmEBKT_AZsAr@{CtAcGDQ?A~@}DZwA?ApAsF|DoPBMHYF[|GsZhEyQh@}B?CFSJc@pAaGNe@TgAJa@@GRm@Pe@Nc@h@iAj@cAn@{@l@q@|@w@\\[\\Wl@g@bCsBzC_ClGcF`E_DjDoCbCoB|GgF\\Wj@i@PQtByA\\YzAoAbAu@bBqA~@m@jAm@~@c@nMeD@?JCZIdGsAnCm@pCq@NEdJyBHCdAUl@OrKiChAWnA[nSgF"
+                     },
+                     "start_location" : {
+                        "lat" : 20.7654375,
+                        "lng" : -105.3704369
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.4 mi",
+                        "value" : 7040
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 421
+                     },
+                     "end_location" : {
+                        "lat" : 20.6890327,
+                        "lng" : -105.2348838
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eBlvrd Riviera Nayarit/Tepic - Puerto Vallarta\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Tepic - Puerto Vallarta\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "_xl}BzzpaSjR{Ej@Mj@OxEkAbFqA~Cm@l@QhPyDjCo@`EeAjAY~Cy@nCq@v@SLCxAe@ZKTKNIb@S\\Qb@YzAiAZ[\\]f@k@f@s@BEJSjB}CVe@v@oAb@u@~@_BZm@xCeFLSrA}Bt@oAP]hBwCR]pAyBf@{@n@iAd@w@`CcEbAeBFKFMvHsMLQJQNUHKhEuHLUFKXg@R[^q@f@}@R_@P_@Pa@Na@Na@Lc@Jc@DSDOHc@Hc@Fa@Da@Da@Bc@Ba@@c@@a@?c@Aa@Ac@Ac@Cc@Ee@Ec@Gc@Gc@K_@G]K_@K_@K[M_@Oa@O_@Q_@O[{BiEIMGMO[aByCeDkGwD_Hs@oAa@u@U_@Q_@Qc@Uk@Wq@MYQc@]_AIWSc@g@cAe@{@Ya@i@w@mAaBOSU]c@w@m@kAgA_CuAsCUo@ISEUG[Ea@A[Aa@?_@B_@Bg@F_@H_@H_@N_@HSJUPYTYpFqFjBiBj@k@zAyAXSTQ\\Mf@S^ILCVGZGVAb@A`@?b@BTBb@HLBPFLDPFPHTHVNVPTRRRJLxAdBvBfC"
+                     },
+                     "start_location" : {
+                        "lat" : 20.7144039,
+                        "lng" : -105.2767821
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 546
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 20.6853325,
+                        "lng" : -105.2317656
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePalma Real\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "myg}B~thaSHLDBJNRQPOf@g@n@q@p@s@rBiB`A{@VSxAoAZ[LKBA`ByA~AqA"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6890327,
+                        "lng" : -105.2348838
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 828
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 20.6799005,
+                        "lng" : -105.2339154
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Manuel Lepe\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ibg}BpahaSd@l@~CnEpC~DFJp@bA?@?DBJDHDFBDFFDFDBFDD@D?BB\\X\\\\TJ\\PZJ`@JXDX?d@?XEb@G\\Mj@[ZY~DmE"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6853325,
+                        "lng" : -105.2317656
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 803
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 20.6821583,
+                        "lng" : -105.2265871
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePaseo de Las Flores\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "k`f}B~nhaSIa@UcAcAsEm@eD]eBwBaK]wAOk@mBmJ"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6799005,
+                        "lng" : -105.2339154
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1842
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : 20.6658838,
+                        "lng" : -105.2272677
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv Mexico\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "onf}BdagaSn@Ml@Gj@EjAEjBCpFEl@AjAAhAAPAXELAFCREJE|Bm@n@QJEd@KDABAjBa@n@Mt@If@?t@?j@Dl@HxC`@F@rGz@rALTBjEd@vDXbCRN@f@D|BTBAbCZjEd@fAL`ANl@P"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6821583,
+                        "lng" : -105.2265871
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 390
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 20.6624702,
+                        "lng" : -105.2281355
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMezquital\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "whc}BlegaSr@Pb@HfBTrEr@XBz@LF@vAV~AZ"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6658838,
+                        "lng" : -105.2272677
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 835
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 20.6550604,
+                        "lng" : -105.2287469
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMezquite\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "msb}BzjgaSvBLzFXhDVd@BhAEn@EJ@XCx@?fLEnA?X?PB`@L`@Rd@T\\L"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6624702,
+                        "lng" : -105.2281355
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 463
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 106
+                     },
+                     "end_location" : {
+                        "lat" : 20.6560607,
+                        "lng" : -105.2249821
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCalle Prisciliano Sánchez\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cea}BtngaSN@?WBqA@]Be@Aa@GUCMOQYQ}Au@SOW[ISIUUqAGg@Ce@@}@Fs@BYFc@"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6550604,
+                        "lng" : -105.2287469
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 438
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 20.6521829,
+                        "lng" : -105.2256805
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv Grandes Lagos\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kka}BbwfaSl@NrE`@H?`E`@|Db@RBfBN"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6560607,
+                        "lng" : -105.2249821
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 20.6533991,
+                        "lng" : -105.2252793
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eRío Volga\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "cs`}Bn{faSLc@aGk@"
+                     },
+                     "start_location" : {
+                        "lat" : 20.6521829,
+                        "lng" : -105.2256805
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ezynEhmupUev@elNacAofPdr@qeLsOcoa@y_Cui_@pzBgqQdDwhUfJon]bs@{fYrjGy_PdsNihPfRyo]pg@a`[lwAchTp~AwzJdkLu~Rd`K__S`zCuvKhgF{kWroEadi@jEubq@yfGquo@|nDwt^n`Iyz_@fzCazWsWy_\\xR}xVtOu`\\obEcvYkoG{ww@peVyf|CriWu{zBvb@mlJcdEecReBytm@h@_`a@iAmbGr}DuiAt_CwgGrl@{iDb~Er@|yNvM|z]wnVpgZseT``M_rIjfP_LfuNqzTv|GmpQdyMiqTl~Km{Ij~OsqNl|N_|TxqZwxWbxImxArwI|m@bq]h\\zdU}CnwNhbExhJrqEbaJxs@tsMcjAhjKubBhkPg_L~pMatC`fBnqA`rC`l@`dOni@~uErPpqIamCpiHccFfkN_sCvaM_cDdnI}c@vhHa`CxiNhpAb}DfIb|K~hD`qD|rH`_FxxB|gAxbCqC|gFrfJtrQf|Dfq@vgHauBpaOi@tqj@vYnck@btA|wD|d@`xL}kH|ii@eqFf|oAc{RnfSgcBj`EloC|v@b_CddKbw@tfQuoAj~Uxo@l|u@rxO`dMfC`y]m_@`iL{jDvjWapIjcIi`C|rCufPbgHq~NpyBwdNhhDocSv~JciTvm`@k`VbuI{mNhjEssk@igBelQxqBwlCnoEwx@~}Pok@jg_@eoh@~i_@{qh@jzGsfH~hEkZ`nWqzBpj]ykOvkp@wwi@dzQmgO`_IehDxeMl~B`_Y~eDf}ZobEnuCc`BfxCl{AdaDllDlkFan@rtN_jKxuFqiD~pBsvK~uIqnX~gMgwY`iT{ug@`}IglVtq@clKpkJmsK~zIgcHxzIya@bmMedSncSmqJhmWe{[bcMqsIvkOmnWhgKo~FtkFpAvxPgcNtlh@eea@nnX_~V|vVsaOvkw@yze@vcQs`IxdGu{CzpFkfLxkW_zKr~OyeLzqKwhPv~OqpKlrL}{MnuAiiL~hJsgLb|F{cQ~{b@kvv@ro^mi^huMi|Ld_HauErxOktD|~GcQ~yGqfDp_JowSpdVw{Qddb@gjRb_OybEjjP{kOxmIc}EteJcdCl|`@esEv{GwaC~IdeBdFnnCvaGnrC`jKdhSvmBb_C|iBpsAnuCoeCthG_zEh`Iaj@ntA{z@vy@~o@~rAoAn_F~cHhcHakMlpGpq@zjMy_Br|CmSxzAf`AztGptBb`SxiQzsOf`RzcIpkJ|qHgvCjxGyyBpuCktH|pAsuFxxFkkCz_@i}ErqCiaArvByC"
+         },
+         "summary" : "I-10 E",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
