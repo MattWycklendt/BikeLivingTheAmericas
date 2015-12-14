@@ -110,7 +110,16 @@ function display_route(route, poly, bound) {
 
 $.ajax({
     type: "GET",
-    url: "/raw/ancorage_to_LA.json",
+    url: "/raw/ancorage_to_portland.json",
+    dataType: "json",
+    success: function(route) {
+        display_route(route);
+    }
+});
+
+$.ajax({
+    type: "GET",
+    url: "/raw/portland_to_LA.json",
     dataType: "json",
     success: function(route) {
         display_route(route);
@@ -178,6 +187,16 @@ $.ajax({
         display_route(route, poly, true);
     }
 });
+
+$.ajax({
+    type: "GET",
+    url: "/raw/ancorage_to_portland.json",
+    dataType: "json",
+    success: function(route) {
+        display_route(route, poly, true);
+    }
+});
+
 
 var stops = [
     {
@@ -430,7 +449,27 @@ var stops = [
     },
     {
         title: "12/04/2015",
-        position: { lat: 42.05161, lng: -124.28230 },
+        position: { lat: 43.118004, lng: -124.413343 },
+    },
+    {
+        title: "12/05/2015",
+        position: { lat: 42.747567, lng: -124.497454 },
+    },
+    {
+        title: "12/06/2015",
+        position: { lat: 41.761232, lng: -124.197621 },
+    },
+    {
+        title: "12/07/2015",
+        position: { lat: 41.290016, lng: -124.058445 },
+    },
+    {
+        title: "12/08/2015",
+        position: { lat: 40.805443, lng: -124.134033 },
+    },
+    {
+        title: "12/09/2015",
+        position: { lat: 40.338420, lng: -123.934063 },
         show: true
     }
 ];
