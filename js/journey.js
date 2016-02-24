@@ -561,7 +561,11 @@ var stops = [
     },
     {
         title: "01/17/2015",
-        position: { lat: 28.64041, lng: -114.02190 },
+        position: { lat: 28.64041, lng: -114.02190 }
+    },
+    {
+        title: "01/20/2015 - 02/25/2015",
+        position: { lat: 24.145090, lng: -110.309722 },
         show: true
     }
 ];
