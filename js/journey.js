@@ -608,8 +608,8 @@ var stops = [
         position: { lat: 20.74399, lng: -103.35630 }
     },
     {
-        title: "03/09/2015",
-        position: { lat: 20.61552, lng: -103.07810 },
+        title: "03/09/2015 - 03/15/2015",
+        position: { lat: 20.61546, lng: -103.07820 },
         show: true
     }
 ];
