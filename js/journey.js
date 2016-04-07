@@ -641,9 +641,45 @@ var stops = [
     },
     {
         title: "03/27/2015",
-        position: { lat: 19.16598, lng: -96.11624 },
+        position: { lat: 19.16598, lng: -96.11624 }
+    },
+    {
+        title: "03/28/2015",
+        position: { lat: 18.15497, lng: -95.53612 }
+    },
+    {
+        title: "03/29/2015",
+        position: { lat: 18.01010, lng: -94.55134 }
+    },
+    {
+        title: "03/30/2015",
+        position: { lat: 16.75047, lng: -93.38412 }
+    },
+    {
+        title: "03/31/2015 - 04/01/2015",
+        position: { lat: 16.75582, lng: -93.11533 }
+    },
+    {
+        title: "04/02/2015",
+        position: { lat: 16.73041, lng: -92.63844 }
+    },
+    {
+        title: "04/03/2015",
+        position: { lat: 16.24987, lng: -92.13774 }
+    },
+    {
+        title: "04/04/2015",
+        position: { lat: 15.64146, lng: -91.98168 }
+    },
+    {
+        title: "04/05/2015",
+        position: { lat: 15.31196, lng: -91.48060 }
+    },
+    {
+        title: "04/06/2015",
+        position: { lat: 15.31187, lng: -91.48056 },
         show: true
-    }
+    },
 ];
 
 for (var k = 0; k < stops.length; k++) {
