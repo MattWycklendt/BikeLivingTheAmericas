@@ -561,18 +561,22 @@ var stops = [
     },
     {
         title: "01/23/2015",
-        position: { lat: 27.284026, lng: -112.898035 }
+        position: { lat: 27.9683362, lng: -114.0587749}
     },
     {
         title: "01/24/2015",
-        position: { lat: 26.889443, lng: -111.984690 }
+        position: { lat: 27.284026, lng: -112.898035 }
     },
     {
         title: "01/25/2015",
+        position: { lat: 26.889443, lng: -111.984690 }
+    },
+    {
+        title: "01/26/2015",
         position: { lat: 26.021068, lng: -111.354050 }
     },
     {
-        title: "01/26/2015 - 02/29/2015",
+        title: "01/27/2015 - 02/29/2015",
         position: { lat: 24.145090, lng: -110.309722 }
     },
     {
@@ -612,6 +616,14 @@ var stops = [
         position: { lat: 20.61546, lng: -103.07820 },
     },
     {
+        title: "03/16/2015",
+        position: { lat: 19.9925472, lng: -102.3247923 }
+    },
+    {
+        title: "03/17/2015",
+        position: { lat: 19.8201039, lng: -101.8190806 }
+    },
+    {
         title: "03/18/2015",
         position: { lat: 19.95796, lng: -101.13510 }
     },
@@ -642,6 +654,10 @@ var stops = [
     {
         title: "03/27/2015",
         position: { lat: 19.16598, lng: -96.11624 }
+    },
+    {
+        title: "03/28/2015",
+        position: { lat: 18.774258, lng: -95.761802 }
     },
     {
         title: "03/28/2015",
@@ -677,7 +693,31 @@ var stops = [
     },
     {
         title: "04/06/2015",
-        position: { lat: 15.31187, lng: -91.48056 },
+        position: { lat: 15.31187, lng: -91.48056 }
+    },
+    {
+        title: "04/07/2015",
+        position: { lat: 15.13191, lng: -91.53591 }
+    },
+    {
+        title: "04/08/2015",
+        position: { lat: 14.71522, lng: -91.28854 }
+    },
+    {
+        title: "04/09/2015",
+        position: { lat: 14.70047, lng: -91.28791 }
+    },
+    {
+        title: "04/10/2015",
+        position: { lat: 14.70062, lng: -91.28776 }
+    },
+    {
+        title: "04/11/2015",
+        position: { lat: 14.70027, lng: -91.28783 }
+    },
+    {
+        title: "04/05/2015",
+        position: { lat: 14.70020, lng: -91.28776 },
         show: true
     },
 ];
