@@ -716,8 +716,32 @@ var stops = [
         position: { lat: 14.70027, lng: -91.28783 }
     },
     {
-        title: "04/05/2015",
-        position: { lat: 14.70020, lng: -91.28776 },
+        title: "04/12/2015",
+        position: { lat: 14.70020, lng: -91.28776 }
+    },
+    {
+        title: "04/13/2015",
+        position: { lat: 14.70032, lng: -91.28770 }
+    },
+    {
+        title: "04/14/2015",
+        position: { lat: 14.55522, lng: -90.73534 }
+    },
+    {
+        title: "04/15/2015",
+        position: { lat: 14.53290, lng: -90.58585 }
+    },
+    {
+        title: "04/16/2015",
+        position: { lat: 13.93678, lng: -89.85509 }
+    },
+    {
+        title: "04/17/2015",
+        position: { lat: 13.84294, lng: -89.74839 }
+    },
+    {
+        title: "04/18/2015",
+        position: { lat: 13.49613, lng: -89.39133 },
         show: true
     },
 ];
