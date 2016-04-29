@@ -741,7 +741,47 @@ var stops = [
     },
     {
         title: "04/18/2015",
-        position: { lat: 13.49613, lng: -89.39133 },
+        position: { lat: 13.49613, lng: -89.39133 }
+    },
+    {
+        title: "04/19/2015",
+        position: { lat: 13.50365, lng: -88.90290 }
+    },
+    {
+        title: "04/20/2015",
+        position: { lat: 13.21593, lng: -88.09683 }
+    },
+    {
+        title: "04/21/2015",
+        position: { lat: 13.21597, lng: -88.09669 }
+    },
+    {
+        title: "04/22/2015",
+        position: { lat: 12.63312, lng: -87.13422 }
+    },
+    {
+        title: "04/23/2015",
+        position: { lat: 12.33481, lng: -86.66904 }
+    },
+    {
+        title: "04/24/2015",
+        position: { lat: 12.04852, lng: -86.19794 }
+    },
+    {
+        title: "04/25/2015",
+        position: { lat: 11.92859, lng: -85.95342 }
+    },
+    {
+        title: "04/26/2015",
+        position: { lat: 11.38734, lng: -86.03234 }
+    },
+    {
+        title: "04/27/2015",
+        position: { lat: 11.38733, lng: -86.03220 }
+    },
+    {
+        title: "04/28/2015",
+        position: { lat: 10.62829, lng: -85.44334 },
         show: true
     },
 ];
