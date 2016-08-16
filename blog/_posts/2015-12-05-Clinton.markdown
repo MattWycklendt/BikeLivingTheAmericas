@@ -6,7 +6,7 @@ date:       2015-12-05 3:00:00
 author:     "Gordon Dunlop"
 header-img: "blog/2015-12-05-Cover.jpg"
 ---
-##Saturday 24th October: Clinton to Lillooet
+## Saturday 24th October: Clinton to Lillooet
 
 Despite having reached the Clinton Valley and the promise of warmer weather, we survived our
 coldest night of camping yet as the mercury tumbled to -4°C (24°F.)  A frosty morning meant an early
@@ -41,7 +41,7 @@ camping by the roadside, others in the lovely homes of many a warm showers host,
 school bus and another in an airstream caravan, this was certainly the most unexpected
 accommodation we’d encountered!
 
-##Sunday 25th October: The day of reckoning – Lillooet to Pemberton
+## Sunday 25th October: The day of reckoning – Lillooet to Pemberton
 
 Meg and I had been deliberating since the offset on whether or not to take this route as we’d been
 warned of the arduous climbs but that we’d be rewarded with incredible scenery.  The day started
@@ -87,7 +87,7 @@ beating the cars downhill and, by the time we got to the bottom, we could actual
 from our disc brakes!  From the bottom of the mountain we had a nice easy ride into Pemberton and
 a most welcome of Warm Showers with Anna and Nikki.
 
-##Monday 26th October: Destination Whistler!
+## Monday 26th October: Destination Whistler!
 
 I’d been looking forward to this day since we first decided we’d attack Highway 99. As a Scotsman
 travelling a long way from home, I don’t have too many opportunities to bump into many friends en
