@@ -13,7 +13,7 @@ instagram_username: bikelivingtheamericas
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 1
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "Gemfile.lock"]
