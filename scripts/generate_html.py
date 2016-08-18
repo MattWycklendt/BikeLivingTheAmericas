@@ -2,17 +2,17 @@ import json
 
 markup = """
         <li>
-            <img alt="{caption}"  src={src}>
+            <img src={src}>
             <div class="text">{caption}</div>
         </li>
 """
 
-output = ""
 
 with open('albums.json', 'r') as fd:
     albums = json.loads(json.load(fd))
 
-for album in [albums[0]]:
+for album in albums:
+    output = ""
     album_dir = album['name'].replace(' ', '_')
 
     with open(album_dir + '/album_data.json', 'r') as fd:
@@ -22,7 +22,7 @@ for album in [albums[0]]:
             cap = img.get('name','')
             output = output + markup.format(caption=cap, src=('/img/' + album_dir + '/' + img['id'] + '.jpg'))
 
-    with open('out.html', 'w') as fd:
+    with open(album_dir + '.html', 'w') as fd:
         fd.write(output)
 
 
