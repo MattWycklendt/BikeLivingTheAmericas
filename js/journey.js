@@ -488,343 +488,343 @@ var stops = [
         position: { lat: 37.761479, lng: -122.406016 }
     },
     {
-        title: "01/05/2015",
+        title: "01/05/2016",
         position: { lat: 36.49562, lng: -121.93700 },
     },
     {
-        title: "01/06/2015",
+        title: "01/06/2016",
         position: { lat: 36.24937, lng: -121.78230 },
     },
     {
-        title: "01/07/2015",
+        title: "01/07/2016",
         position: { lat: 35.59701, lng: -121.12580 },
     },
     {
-        title: "01/08/2015",
+        title: "01/08/2016",
         position: { lat: 35.13037, lng: -120.63570 },
     },
     {
-        title: "01/09/2015",
+        title: "01/09/2016",
         position: { lat: 34.64815, lng: -120.43370 },
     },
     {
-        title: "01/10/2015",
+        title: "01/10/2016",
         position: { lat: 34.39310, lng: -119.52200 },
     },
     {
-        title: "01/11/2015",
+        title: "01/11/2016",
         position: { lat: 34.04853, lng: -118.93340 }
     },
     {
-        title: "01/12/2015",
+        title: "01/12/2016",
         position: { lat: 33.76797, lng: -118.18230 }
     },
     {
-        title: "01/13/2015",
+        title: "01/13/2016",
         position: { lat: 33.58250, lng: -117.71650 }
     },
     {
-        title: "01/14/2015",
+        title: "01/14/2016",
         position: { lat: 33.17077, lng: -117.33030 }
     },
     {
-        title: "01/15/2015",
+        title: "01/15/2016",
         position: { lat: 32.78869, lng: -117.23720 }
     },
     {
-        title: "01/16/2015",
+        title: "01/16/2016",
         position: { lat: 32.78835, lng: -117.23660 }
     },
     {
-        title: "01/17/2015",
+        title: "01/17/2016",
         position: { lat: 32.58128, lng: -117.11470 }
     },
     {
-        title: "01/18/2015",
+        title: "01/18/2016",
         position: { lat: 31.71189, lng: -116.56990 },
     },
     {
-        title: "01/19/2015",
+        title: "01/19/2016",
         position: { lat: 30.71252, lng: -115.99710 }
     },
     {
-        title: "01/20/2015",
+        title: "01/20/2016",
         position: { lat: 30.05204, lng: -115.29970 }
     },
     {
-        title: "01/21/2015",
+        title: "01/21/2016",
         position: { lat: 29.66009, lng: -114.64370 }
     },
     {
-        title: "01/22/2015",
+        title: "01/22/2016",
         position: { lat: 28.87055, lng: -114.13480 }
     },
     {
-        title: "01/23/2015",
+        title: "01/23/2016",
         position: { lat: 27.9683362, lng: -114.0587749}
     },
     {
-        title: "01/24/2015",
+        title: "01/24/2016",
         position: { lat: 27.284026, lng: -112.898035 }
     },
     {
-        title: "01/25/2015",
+        title: "01/25/2016",
         position: { lat: 26.889443, lng: -111.984690 }
     },
     {
-        title: "01/26/2015",
+        title: "01/26/2016",
         position: { lat: 26.021068, lng: -111.354050 }
     },
     {
-        title: "01/27/2015 - 02/29/2015",
+        title: "01/27/2016 - 02/29/2016",
         position: { lat: 24.145090, lng: -110.309722 }
     },
     {
-        title: "03/01/2015",
+        title: "03/01/2016",
         position: { lat: 24.25695, lng: -110.32770 }
     },
     {
-        title: "03/02/2015",
+        title: "03/02/2016",
         position: { lat: 23.19910, lng: -106.41740 }
     },
     {
-        title: "03/03/2015",
+        title: "03/03/2016",
         position: { lat: 22.99890, lng: -105.85890 }
     },
     {
-        title: "03/04/2015",
+        title: "03/04/2016",
         position: { lat: 22.11886, lng: -105.21490 }
     },
     {
-        title: "03/05/2015",
+        title: "03/05/2016",
         position: { lat: 21.49613, lng: -104.90560 }
     },
     {
-        title: "03/06/2015",
+        title: "03/06/2016",
         position: { lat: 21.03379, lng: -104.36740 }
     },
     {
-        title: "03/07/2015",
+        title: "03/07/2016",
         position: { lat: 20.88633, lng: -103.84010 }
     },
     {
-        title: "03/08/2015",
+        title: "03/08/2016",
         position: { lat: 20.74399, lng: -103.35630 }
     },
     {
-        title: "03/09/2015 - 03/15/2015",
+        title: "03/09/2016 - 03/15/2016",
         position: { lat: 20.61546, lng: -103.07820 },
     },
     {
-        title: "03/16/2015",
+        title: "03/16/2016",
         position: { lat: 19.9925472, lng: -102.3247923 }
     },
     {
-        title: "03/17/2015",
+        title: "03/17/2016",
         position: { lat: 19.8201039, lng: -101.8190806 }
     },
     {
-        title: "03/18/2015",
+        title: "03/18/2016",
         position: { lat: 19.95796, lng: -101.13510 }
     },
     {
-        title: "03/19/2015",
+        title: "03/19/2016",
         position: { lat: 19.88547, lng: -100.66430 }
     },
     {
-        title: "03/20/2015",
+        title: "03/20/2016",
         position: { lat: 19.93414, lng: -99.84182 }
     },
     {
-        title: "03/21/2015",
+        title: "03/21/2016",
         position: { lat: 19.97936, lng: -99.04319 }
     },
     {
-        title: "03/22/2015",
+        title: "03/22/2016",
         position: { lat: 18.98021, lng: -97.79923 }
     },
     {
-        title: "03/23/2015",
+        title: "03/23/2016",
         position: { lat: 18.44426, lng: -97.40807 }
     },
     {
-        title: "03/24/2015 - 03/26/2015",
+        title: "03/24/2016 - 03/26/2016",
         position: { lat: 18.82770, lng: -97.08976 }
     },
     {
-        title: "03/27/2015",
+        title: "03/27/2016",
         position: { lat: 19.16598, lng: -96.11624 }
     },
     {
-        title: "03/28/2015",
+        title: "03/28/2016",
         position: { lat: 18.774258, lng: -95.761802 }
     },
     {
-        title: "03/28/2015",
+        title: "03/28/2016",
         position: { lat: 18.15497, lng: -95.53612 }
     },
     {
-        title: "03/29/2015",
+        title: "03/29/2016",
         position: { lat: 18.01010, lng: -94.55134 }
     },
     {
-        title: "03/30/2015",
+        title: "03/30/2016",
         position: { lat: 16.75047, lng: -93.38412 }
     },
     {
-        title: "03/31/2015 - 04/01/2015",
+        title: "03/31/2016 - 04/01/2016",
         position: { lat: 16.75582, lng: -93.11533 }
     },
     {
-        title: "04/02/2015",
+        title: "04/02/2016",
         position: { lat: 16.73041, lng: -92.63844 }
     },
     {
-        title: "04/03/2015",
+        title: "04/03/2016",
         position: { lat: 16.24987, lng: -92.13774 }
     },
     {
-        title: "04/04/2015",
+        title: "04/04/2016",
         position: { lat: 15.64146, lng: -91.98168 }
     },
     {
-        title: "04/05/2015",
+        title: "04/05/2016",
         position: { lat: 15.31196, lng: -91.48060 }
     },
     {
-        title: "04/06/2015",
+        title: "04/06/2016",
         position: { lat: 15.31187, lng: -91.48056 }
     },
     {
-        title: "04/07/2015",
+        title: "04/07/2016",
         position: { lat: 15.13191, lng: -91.53591 }
     },
     {
-        title: "04/08/2015",
+        title: "04/08/2016",
         position: { lat: 14.71522, lng: -91.28854 }
     },
     {
-        title: "04/09/2015",
+        title: "04/09/2016",
         position: { lat: 14.70047, lng: -91.28791 }
     },
     {
-        title: "04/10/2015",
+        title: "04/10/2016",
         position: { lat: 14.70062, lng: -91.28776 }
     },
     {
-        title: "04/11/2015",
+        title: "04/11/2016",
         position: { lat: 14.70027, lng: -91.28783 }
     },
     {
-        title: "04/12/2015",
+        title: "04/12/2016",
         position: { lat: 14.70020, lng: -91.28776 }
     },
     {
-        title: "04/13/2015",
+        title: "04/13/2016",
         position: { lat: 14.70032, lng: -91.28770 }
     },
     {
-        title: "04/14/2015",
+        title: "04/14/2016",
         position: { lat: 14.55522, lng: -90.73534 }
     },
     {
-        title: "04/15/2015",
+        title: "04/15/2016",
         position: { lat: 14.53290, lng: -90.58585 }
     },
     {
-        title: "04/16/2015",
+        title: "04/16/2016",
         position: { lat: 13.93678, lng: -89.85509 }
     },
     {
-        title: "04/17/2015",
+        title: "04/17/2016",
         position: { lat: 13.84294, lng: -89.74839 }
     },
     {
-        title: "04/18/2015",
+        title: "04/18/2016",
         position: { lat: 13.49613, lng: -89.39133 }
     },
     {
-        title: "04/19/2015",
+        title: "04/19/2016",
         position: { lat: 13.50365, lng: -88.90290 }
     },
     {
-        title: "04/20/2015",
+        title: "04/20/2016",
         position: { lat: 13.21593, lng: -88.09683 }
     },
     {
-        title: "04/21/2015",
+        title: "04/21/2016",
         position: { lat: 13.21597, lng: -88.09669 }
     },
     {
-        title: "04/22/2015",
+        title: "04/22/2016",
         position: { lat: 12.63312, lng: -87.13422 }
     },
     {
-        title: "04/23/2015",
+        title: "04/23/2016",
         position: { lat: 12.33481, lng: -86.66904 }
     },
     {
-        title: "04/24/2015",
+        title: "04/24/2016",
         position: { lat: 12.04852, lng: -86.19794 }
     },
     {
-        title: "04/25/2015",
+        title: "04/25/2016",
         position: { lat: 11.92859, lng: -85.95342 }
     },
     {
-        title: "04/26/2015",
+        title: "04/26/2016",
         position: { lat: 11.38734, lng: -86.03234 }
     },
     {
-        title: "04/27/2015",
+        title: "04/27/2016",
         position: { lat: 11.38733, lng: -86.03220 }
     },
     {
-        title: "04/28/2015",
+        title: "04/28/2016",
         position: { lat: 10.62829, lng: -85.44334 }
     },
     {
-        title: "04/29/2015",
+        title: "04/29/2016",
         position: { lat: 9.98548, lng: -84.73507 }
     },
     {
-        title: "04/30/2015",
+        title: "04/30/2016",
         position: { lat: 9.65639, lng: -84.63522 }
     },
     {
-        title: "05/01/2015",
+        title: "05/01/2016",
         position: { lat: 9.27139, lng: -83.88146 }
     },
     {
-        title: "05/02/2015",
+        title: "05/02/2016",
         position: { lat: 8.89072, lng: -83.37721 }
     },
     {
-        title: "05/03/2015",
+        title: "05/03/2016",
         position: { lat: 8.42718, lng: -82.44389 }
     },
     {
-        title: "05/04/2015",
+        title: "05/04/2016",
         position: { lat: 8.42707, lng: -82.44376 }
     },
     {
-        title: "05/05/2015",
+        title: "05/05/2016",
         position: { lat: 8.22552, lng: -81.67007 }
     },
     {
-        title: "05/06/2015",
+        title: "05/06/2016",
         position: { lat: 8.11402, lng: -80.96288 }
     },
     {
-        title: "05/07/2015",
+        title: "05/07/2016",
         position: { lat: 8.51419, lng: -80.35048 }
     },
     {
-        title: "05/08/2015",
+        title: "05/08/2016",
         position: { lat: 8.57957, lng: -79.88423 },
     },
     {
-        title: "05/09/2015",
+        title: "05/09/2016",
         position: { lat: 8.99704, lng: -79.59095 },
         show: true
     }
@@ -851,7 +851,7 @@ for (var k = 0; k < stops.length; k++) {
 /*
 $.ajax({
     type: "GET",
-    url: "/raw/2015-8-30-afternoon.tcx",
+    url: "/raw/2016-8-30-afternoon.tcx",
     dataType: "xml",
     success: function(xml) {
         var points = [];
