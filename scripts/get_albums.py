@@ -3,9 +3,7 @@ import json
 import os
 from urllib.request import urlretrieve
 
-###### DELETE BEFORE COMMIT ###########
-TOKEN = "EAACEdEose0cBAFFQrpcZB1ktDgAAUCpYHQ75RngLZBRKSveFzhGH6K8O8wgnOZBu2nJZB4KSFyZA4OoWrZAigUgg6QRuk52yqv2fc15pNqQza9reSaRujQBeR09mZAuBZBh52xKPQtWgD5IMY6HXsxwGNFe0CBSPHnPhF1Venal1awZDZD"
-#######################################
+TOKEN =
 
 r = requests.get("https://graph.facebook.com/me/albums?limit=1000&access_token=" + TOKEN)
 bikeLiving_albums = [{'id': d['id'], 'name': d['name']} for d in r.json()['data'] if 'BikeLiving' in d['name']]
