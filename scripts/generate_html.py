@@ -8,12 +8,12 @@ markup = """
 """
 
 
-with open('albums.json', 'r') as fd:
+with open("../img/" + 'albums.json', 'r') as fd:
     albums = json.loads(json.load(fd))
 
 for album in albums:
     output = ""
-    album_dir = album['name'].replace(' ', '_')
+    album_dir = "../img/" + album['name'].replace(' ', '_')
 
     with open(album_dir + '/album_data.json', 'r') as fd:
         album_data = json.loads(json.load(fd))
