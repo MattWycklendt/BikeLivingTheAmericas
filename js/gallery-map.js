@@ -1124,35 +1124,29 @@ var stops = [
 
 var bounds = new google.maps.LatLngBounds ();
 for (var k = 0; k < stops.length; k++) {
+    var p = new google.maps.LatLng(stops[k].position.lat, stops[k].position.lng);
     var imgs = ''
     for (var i= 0; i < stops[k]['ids'].length; i++) {
         imgs = (imgs + '<span><img style="width:30vw" src=/img/' +
                        stops[k].album + '/' + stops[k]['ids'][i] + '.jpg></span>')
     }
-    console.log(imgs);
+
     var marker = new google.maps.Marker({
         position: stops[k].position,
         map: map,
         icon: '/img/camera.png',
-        info: new google.maps.InfoWindow({
-                content: '<span>' + stops[k].city + '</span><br>' + imgs
-           })
+        city: stops[k].city,
+        imgs: imgs
     });
-
-    var p = new google.maps.LatLng(stops[k].position.lat, stops[k].position.lng);
-    bounds.extend(p);
 
     marker.addListener('click', function() {
-        this.info.open(map, this);
-        $.ajax({
-            type: "GET",
-            url: "/raw/So_Far.json",
-            dataType: "json",
-            success: function(route) {
-                display_route(route, poly, true);
-            }
+        var infowindow = new google.maps.InfoWindow({
+            content: '<span>' + this.city  + '</span><br>' + this.imgs
         });
+        infowindow.open(map, this);
     });
+
+    bounds.extend(p);
 }
 
 map.fitBounds(bounds);
