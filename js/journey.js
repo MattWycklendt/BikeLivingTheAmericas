@@ -850,6 +850,70 @@ var stops = [
     {
         title: "09/25/2016",
         position: { lat: 4.31803, lng: -76.07366 },
+    },
+    {
+        title: "09/26/2016",
+        position: { lat: 3.43774, lng: -76.54094 },
+    },
+    {
+        title: "09/27/2016",
+        position: { lat: 3.43774, lng: -76.54094 },
+    },
+    {
+        title: "09/28/2016",
+        position: { lat: 3.43775, lng: -76.54093 },
+    },
+    {
+        title: "09/30/2016",
+        position: { lat: 2.63886, lng: -76.53104 },
+    },
+    {
+        title: "10/1/2016",
+        position: { lat: 2.44334, lng: -76.60393 },
+    },
+    {
+        title: "10/2/2016",
+        position: { lat: 1.21702, lng: -77.29621 },
+    },
+    {
+        title: "10/3/2016",
+        position: { lat: 1.02180, lng: -77.47596 },
+    },
+    {
+        title: "10/4/2016",
+        position: { lat: 0.81440, lng: -77.66336 },
+    },
+    {
+        title: "10/5/2016",
+        position: { lat: 0.43440, lng: -77.96838 },
+    },
+    {
+        title: "10/6/2016",
+        position: { lat: 0.23073, lng: -78.26048 },
+    },
+    {
+        title: "10/7/2016",
+        position: { lat: -0.00102, lng: -78.17644 },
+    },
+    {
+        title: "10/8/2016",
+        position: { lat: -0.17627, lng: -78.35873 },
+    },
+    {
+        title: "10/9/2016",
+        position: { lat: -0.20928, lng: -78.40691 },
+    },
+    {
+        title: "10/24/2016",
+        position: { lat: 4.91670, lng: -75.90400 },
+    },
+    {
+        title: "10/24/2016",
+        position: { lat: 4.91670, lng: -75.90400 },
+    },
+    {
+        title: "10/10/2016",
+        position: { lat: -0.20946, lng: -78.40677 },
         show: true
     }
 ];
