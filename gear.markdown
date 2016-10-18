@@ -2,7 +2,7 @@
 layout: page
 title: "Tips and Gear"
 description: "Tips and Gear that will help you get through your trip!"
-header-img: "img/about-bg.jpg"
+header-img: "img/gear/title.jpg"
 ---
 
 __*italic*__ = more details below
@@ -127,7 +127,11 @@ Some people think in terms of on-the-bike clothes and off-the-bike clothes, but 
 
  - Flexible emergency spoke - Due to the flexible, there is no need to remove the rear cassette or disc rotors, making roadside repairs quicker and easier! This would have helped us when we broke a spoke on day 6 and  didn’t have the tools  to remove the rear cassette.
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/spoke.png"/>
+
  - Brooks Saddle - We have met so many bicycle tourists with these saddles and wish we knew that they were the best! It has high quality leather (don’t go for a knockoff!), they form to your body and can be tightened the more you ride.  I’ll be getting one for my next tour, or even  for my next commuter bike.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/saddle.png"/>
 
 ### Things we got rid of or sent home during the tour:
 
@@ -138,6 +142,10 @@ Some people think in terms of on-the-bike clothes and off-the-bike clothes, but 
  - Multiple books
  - Food: After Canada and the U.S. we carried much less food and grocery shopped daily or every other day to save weight
 
+--------
+--------
+--------
+--------
 --------
 
 ### The Two Essentials
@@ -164,6 +172,8 @@ We use the Bontrager LT Hybrid Tire  but we also recommend Schwalbe Marathon tir
 
 #### Hydration packs
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/packs.jpg"/>
+
  - 12L total with water bottles
  - Dromedary Bags are fantastic! They are flexible, durable and don’t leak. They also have a versatile cap, are easy to fill and BPA-free. We have two 4L bags but they come in all sizes.
 
@@ -175,7 +185,11 @@ Both of these brands are awesome! Our panniers are in great shape after a year o
 
 **Waterproof panniers are essential!!**
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/thule.png"/>
+
 THULE PACK N' PEDAL SHIELD PANNIER SET LG COBALT
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/bontrager.png"/>
 
 BAG BONTRAGER PANNIER INTERCHANGE WATERPROOF LARGE BLACK
 
@@ -185,11 +199,15 @@ BAG BONTRAGER PANNIER INTERCHANGE WATERPROOF LARGE BLACK
 
 THESE ARE THE BEST LIGHTS! We highly recommend them because they are rechargeable and incredibly bright. I will never use another kind of bike light for any kind of cycling.
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/taillight.jpg"/>
+
 BONTRAGER FLARE R TAIL LIGHT
  - DAYTIME VISIBLE FROM UP TO 2KM AWAY
  - CREE LED can be seen from over 2km day or night.
  - 65 Lumens and 270 degrees of visibility
  - Two day-time visibility modes and two night modes
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/headlight.jpg"/>
 
 BONTRAGER ION 700 R
  - Fully charges in 5 hours through sealed Micro USB port
@@ -197,13 +215,21 @@ BONTRAGER ION 700 R
 
 #### Kryptonite U-Lock
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/ulock.png"/>
+
 After Meg’s bike lock was cut, we both got these locks. Yes, they are heavy but a bike thief has to have some serious tools to break it.
 
 #### Tire liners
 
 We didn’t start with these because of the extra weight but really when you are touring, you don’t notice the weight. All you notice is not stopping so much to change out flat tires. These are great for catching thorns and metal pieces on the road. There are surprisingly a lot of them.
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/tireliner1.jpg"/>
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/tireliner2.jpg"/>
+
 #### Clipless/clip pedals
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/clipless.jpg"/>
 
 We have Shimano pd-a530 spd pedals.
  - We love having the option to clip in or clip out and they go great with our bontrager shoes. You’ll want clip-ins for climbs so that you are using more muscles of your legs but you won’t want to clip in all the time or else your knees will be hurting. This happens if your legs ares forced to be in the same position on the pedals for too long.
@@ -211,6 +237,11 @@ We have Shimano pd-a530 spd pedals.
 ### Clothing
 
 #### Touring shoes
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/shoe1.jpg"/>
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/shoe2.jpg"/>
+
 Bontrager SSR Multisport shoe
 
 These shoes are the best! You can clip them in or use them on flat pedals. They have flex in the sole so are comfortable as day shoes as well. (I wouldn’t hike in them though- too stiff for that kind of walking)  They last forever in extreme conditions, they don’t break or tear easily and are so comfortable. “For that sport called “Life”
@@ -218,17 +249,29 @@ These shoes are the best! You can clip them in or use them on flat pedals. They 
 #### Waterproof shoe covers
 These are handy and keep your feet dry and warm but we have yet to find ones that last. If you invest in these, don’t expect that they will last long without the bottoms ripping. Something to think about.
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/cover1.jpg"/>
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/cover2.jpg"/>
+
 #### Underwear
  - (2 to 4 pair)
  - You do not need a bunch of underwear because you wear bike shorts almost all the time. DO NOT wear underwear under your bike shorts unless you want a painful rash. Seriously, this is not a light suggestion. You can hand-wash your bike short pads with camping soap and  a brush and have them dry overnight so you don’t need a bunch of pairs of those either.
 
 #### Packable warm jacket
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/jacket.png"/>
+
 Great for chilly nights and lightweight packing. Always go for bright clothes if possible so you are visable when biking!
 
 #### Cycling gloves
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/gloves.jpg"/>
+
 BONTRAGER RXL STORMSHELL ROAD
 
  - Comfortable and padded thumb for protection from numbness and soreness.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/gloves2.jpg"/>
 
 BONTRAGER RXL SOFTSHELL GLOVE
 
@@ -243,14 +286,22 @@ BONTRAGER RXL SOFTSHELL GLOVE
 ### Miscellaneous
 
 #### Contact cards to give people
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/cards.png"/>
+
 Many other bicycle tourists that we were meeting had these contact cards and they were a great way to keep in touch with people, follow their blog,  and have a quick memory of what they looked like. Many hosts on Warm Showers also have guestbooks where these are handy to tape in.
 
 #### Packable backpacks
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/backpack.png"/>
+
 good for hikes, walking into town, grocery shopping, etc.
 
 ### Electronics
 
 #### Cycling computer/GPS/cellphone with bike app
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/garmin.png"/>
 
 GARMIN EDGE TOURING CYCLING COMPUTER
 
@@ -259,6 +310,9 @@ GARMIN EDGE TOURING CYCLING COMPUTER
 ### Tools and Spare Parts
 
 #### The Topeak Alien II multi-tool
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/multi.jpg"/>
+
  - Best. Multitool. Ever.
  - pressed stainless steel with engineering-grade plastic for lightweight durability
  - splits apart for ease of use
@@ -281,11 +335,16 @@ Tools
 
 #### Mini-pump
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/pump.png"/>
+
 Look for one with a gauge and can stand on the ground for easier pumping.
 
 Topeak Road Morph Pump with Gauge
 
 #### Presta Valve Adapter
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/presta.png"/>
+
  - to use air at gas stations
 
 #### Stien Mini Cassette Lockring Driver
@@ -295,10 +354,18 @@ Topeak Road Morph Pump with Gauge
  - Secures the lockring from turning by locking it to the dropout so that when the cranks are turned with the bike in low gear the pedaling force will actually break the lockring free
  - Tool can also be used in reverse to install the lockring
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/lockring1.png"/>
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/lockring2.png"/>
+
 ### Camping
 
 #### 2 Sleeping bags
 Down bags are warmer, weigh less, and pack smaller, but useless if wet. Synthetic bags are heavier and bulkier, but less expensive for comparable warmth and they will keep you warm even if wet. It’s all personal preference, but make sure it’s warm enough! You do not want to be freezing at night just because it’s lighter and more packable. We use compression packs to get the size down.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/sleepingbag1.jpg"/>
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/sleepingbag2.png"/>
 
 #### 2 Sleeping pads
  - Closed-cell foam pads work well and are light, but inflatable  pads are more comfortable and packable
@@ -311,7 +378,14 @@ Big Agnes Wyoming Trail 2 Camp Tent - 2 Person, 3 Season
  - 45.5 sq ft / 13.9 sq m
  - This tent is a dream! The sleeping space is small but fits the two sleeping mats perfectly. We love the huge vestibule. It feels both bikes, all of our gear, and has extra space. It helps us feel secure being able to zip everything up in the tent and it protects our gear from weather. For how big it sets up, it packs down smaller than my sleeping bag (not including the poles), and is decently lightweight. We also like that it is free-standing. Many lightweight tents need to be pinned to the ground but with this tent we can set up anywhere with the space. We highly recommend this tent for bicycle touring!
 
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/tent1.jpg"/>
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/tent2.jpg"/>
+
 #### Cooking set
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/cookingset.jpg"/>
+
  - BUGABOO BACKPACKER
  - Super small and packable, has everything we need for two people, and includes a frypan! (Many don’t)
  - Includes:
@@ -323,12 +397,18 @@ Big Agnes Wyoming Trail 2 Camp Tent - 2 Person, 3 Season
  - WEIGHT: 28.8 oz.
 
 #### Stove and fuel bottle
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/stove.jpg"/>
+
  - WHISPERLITE™ INTERNATIONAL
  - Make sure to test beforehand so you know how to use it!
  - MULTI-FUEL BACKPACKING STOVE
  - Lightweight, tiny, reliable multi-fuel (can use fuel from any gas station if need to)
 
 #### Meals/Snacks
+
+<img class="img-responsive center-block" src ="{{ site.url }}/img/gear/food.png"/>
+
 Originally we were eating a lot of boiled eggs and peanut-butter nutella sandwiches. Half-way through the journey Meg pinned down that she had a dairy and egg intolerance.  We have started to concentrate more on getting nutritious foods that will REALLY fuel our bodies. We eat a lot of nuts and seeds, potatoes, veggies, FRUIT, brown rice, quinoa, and beans.
 
  - For remote touring Harmony House (www.harmonyhousefoods.com) has great products that are very affordable!

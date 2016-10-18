@@ -2,7 +2,7 @@
 layout: page
 title: "Tips and Gear"
 description: "Tips and Gear that will help you get through your trip!"
-header-img: "img/about-bg.jpg"
+header-img: "img/tips.jpg"
 ---
 # 10 Common Bicycle touring Questions:
  1. [What is Cycle Touring?](#what-is-cycle-touring)
