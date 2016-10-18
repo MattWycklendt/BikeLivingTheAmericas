@@ -906,6 +906,22 @@ var stops = [
     {
         title: "10/10/2016",
         position: { lat: -0.20946, lng: -78.40677 },
+    },
+    {
+        title: "10/11/2016",
+        position: { lat: -0.34015, lng: -78.45004 },
+    },
+    {
+        title: "10/12/2016",
+        position: { lat: -0.24903, lng: -79.16359 },
+    },
+    {
+        title: "10/13/2016 - 10/16/2016",
+        position: { lat: -0.69507, lng: -79.37087 },
+    },
+    {
+        title: "10/17/2016",
+        position: { lat: -1.30904, lng: -79.85315 },
         show: true
     }
 ];
