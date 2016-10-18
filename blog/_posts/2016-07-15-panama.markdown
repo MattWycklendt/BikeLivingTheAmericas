@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Panama"
+subtitle:   ""
+date:       2016-07-15 3:00:00
+author:     "Gordon Dunlop"
+header-img: "blog/2016-07-15-panamericana.jpg"
+---
+Shortly after arriving in our last Central American country, Panama, we reached the city of David where we had a rest day sleeping in a tree-house style hostel. There we enjoyed the company of Blakely, a Floridian surfer come builder who had since moved his young family to Costa Rica and were thoroughly enjoying the simple life on a remote stretch of coastline.  He had a great outlook on life and we enjoyed some philosophising over a glass of wine.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2016-07-15-panama.jpg"/>
+
+With only 5 days until our flights to Peru, it was time to get the heads down and rack up some miles. We enjoyed great roads in Panama, most of the Pan American highway had nice wide shoulders, had been newly paved and some stretches hadn’t yet been re-opened to cars so we had it all to ourselves! Nothing could stop us. Or could it…
+
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2016-07-15-panamericana.jpg"/>
+
+Unfortunately I started to experience a spate of punctures and, in these more remote regions, it was difficult to find inner tubes to suit my size of wheel. I had to resort to multiple patches on existing tubes which only compounded the problem. Rather than the triumphant crossing I had envisaged, at the Panama Canal, mine was more of a limp over the finish line! Nevertheless, we felt a great sense of achievement at what we’d accomplished in the past 8 months and the fact that we’d made in to Panama City in time for our flights to Peru and our summer of work with Operation Groundswell.
+
+#### Roger
+
+The four month stopover in Peru provided a logistical headache, however, as to where we would leave our bikes for the duration. Our initial plan to leave it in a storage unit connected to a Warm Showers host fell through, though thankfully, help was at hand in Roger.
+
+Roger is an absolute gem of a human being. We contacted him through the ‘Couchsurfing’ website -which works on the same premise as Warm Showers – in the hope of having a couch to sleep on before our flight the next day. Not only did Roger offer us a room for the night but, upon hearing of our logistical predicament, he insisted we leave the bikes at his home over the summer. This was such a weight off our shoulders and yet his hospitality didn’t end there.  The next day, he dug himself out of bed after only a few hours’ sleep, coming off his night-shift, to take us on a tour of the Panama Canal! Having worked on the locks for over 20 years, he was the perfect guide for our tour. We spent a fantastic afternoon with Roger as he showed us around the locks and the museum and gave us the inside info on the workings of the canal. It was fascinating to see such a feat of engineering at such close quarters.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2016-07-15-canal.jpg"/>
+
+We then took Roger for lunch at a marina overlooking what is an incredible cityscape. We shared stories with Roger and revelled in his travelling stories and his ‘couchsurfing’ experiences. It was heartening to hear of his love for his country, his place of work and how he gets such joy from sharing it with his ‘Couchsurfing’ guests. We certainly felt privileged to have him share it with us.
+
+As the sun began to set over Panama City – a crossroads of both oceans and continents - I was in reflective mood at the journey we’d had over these past 8 months. When I considered the beautiful landscapes and amazing people - not least our present company - which had adorned our journey from Alaska to Panama, it served only to fuel my excitement for what lay ahead in South America.
+
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2016-07-15-city.jpg"/>
