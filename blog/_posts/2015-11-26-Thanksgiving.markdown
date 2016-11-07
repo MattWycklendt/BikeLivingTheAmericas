@@ -4,7 +4,7 @@ title:      "Thanksgiving the Americas"
 subtitle:   ""
 date:       2015-11-26 8:00:00
 author:     "Gordon Dunlop"
-header-img: "news/2015-11-26-Pacific.jpg"
+header-img: "blog/2015-11-26-Pacific.jpg"
 ---
 As I experience my first American Thanksgiving, having just reached the Oregon coast and caught a first glimpse of our travel companion for the next few months, the Pacific Ocean, I'm in reflective mood.  We're feeling very thankful to a number of people who have helped us between Anchorage and Seaview, Oregon, to reach this milestone.
 
@@ -61,7 +61,7 @@ Before setting off on our adventure, Meg and I had harboured hopes of having a f
  Dunbar, after a long 12 hour, 94 mile ride from Whistler a week later.  We were so grateful for their hospitality after our longest day on the road and the warm shower and roast dinner were manna from heaven for two weary cyclists.   I had also arrived with a broken front rack which Chris duly replaced, the next morning, with a spare they had lying around! They offered us the option of staying for a rest day in Vancouver which, after such an intense day of cycling, we simply couldn’t refuse.
  As if a second day’s hospitality wasn’t enough, Chris and Margo – who are keen cycle tourists themselves, having cycled from Bangkok to Paris in 2009 – got up at the crack of dawn to escort us out of Vancouver and avoid the worst of the rush hour traffic.
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-11-26-Margo_and_Chris.jpg"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-11-26-Margo_and_Chris.jpg"/>
 
  Then the real fun started.  Having been refused an extended visa waiver at the US border, Chris and Margo welcomed me back into their home as I began a ten day duel with US bureaucracy (see forthcoming Lillooet to U.S. Border blog) to try to obtain a US visa for an extended stay.  Having a place to stay at such a time was a lifeline and I’ll be forever grateful to Chris and Margo as their generosity and kindness really took the stress out of what was a difficult period (my issue with the visa
  was compounded by Meg’s bike issues – read on for more on that!) I spent a memorable ten days with them, being supremely well fed (Margo is quite the baker) and enjoying endless hours of stimulating conversation. Margo is the daughter of a Scottish émigré who hails from a town across the water from my hometown and Chris, a nuclear physicist at CERN no less, we shared some wonderful insights on all things political, social, travel and more.  To go a little way to repaying their generosity, I
@@ -78,19 +78,19 @@ Thanks Gordon, well said.
  old-fashion beg at the consulate in Vancouver for a longer, emergency visa. Wendy and Simon invited us out to dinner downtown with their friend, Kether who happened to volunteer at Pisco Sin Fronteras (the same place Gordon and I met) 5 months before we were there. She was also on a bicycle tour around South America at the time so we had plenty to talk about! As a gang of bicycle travelers, we decided to bike the couple of miles to dinner. After a delicious meal and fun "small world" stories,
  we stepped back outside to find that my lock was cut and my bike had been stolen (along with one of my broken panniers that was zip-tied to the bike, housing our tent).
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-11-26-Simon.jpg"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-11-26-Simon.jpg"/>
 
  On the outside I was calm, rational and positive but on the inside I was devastated. My bike had been my home. I loved that bike and I was excited for the places it was going to take me. The Trek520 was an ideal touring bike that our friends and sponsors at Bicycle Doctor helped us decide on and it proved to be a great decision. It was comfortable, strong, light, and it was gone. Although in different ways, both Gordon and I were stuck.
  Just like every other hurdle Gordon and I have had to get past, we went into brainstorming mode.  Looking back I realize that giving up did not cross either of our minds. These were just more problems to solve along our adventure.  While Gordon spent 10 days in Vancouver with Margo and Chris, Simon and Wendy let me live on their sailboat (fulfilling another dream of mine to live on a boat)! I found it quite ironic that my bike was stolen in Bellingham,WA, because immediately when we arrived to
  town I had a feeling like I was going to live in Bellingham someday. Everything about it I loved. It’s funny that a town I connected with so much is where I lost my “home.” I didn't end up staying too many nights on the boat as the news of our story spread and new friends invited me into their homes. As Gordon's visa wait became longer, Simon invited me to come back to his house to be more sheltered from the storming weather while Wendy was visiting some family. As I continued to get to know
  Simon, I realized that I would really miss him when I leave Bellingham. I'm so thankful for his hospitality and helpfulness through my bike struggles, but even moreso, for his friendship and conversation.
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-11-26-Chris_repairing.jpg"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-11-26-Chris_repairing.jpg"/>
 
  I took the opportunity to explore Bellingham, took free dance classes, joined a science-fiction book club (that I intend on continuing and skype into the monthly discussions), went to the circus with friends from the Farmer's market, and spent three full days building a new bike! Bellingham has a non-profit, community bike shop called "the hub". It is the coolest place all about recycling bikes and encouraging community. Everyone at the hub was incredibly helpful after hearing our story.  A
  volunteer mechanic, Jim, was the owner of a trek store in Alaska. He spent over 10 hours teaching me how to Frankenstein a bike and we fixed up an old trek bike (since I'm forever a proud Trek girl). I still have hope that my bike will eventually show up since I have called every pawn shop in WA and have the police involved. In the meantime, I have a bike that will last and invaluable knowledge of actually having built it myself.
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-11-26-Jim.jpg"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-11-26-Jim.jpg"/>
 
  Just ten days after our original border cross, Gordon made his way back to Bellingham with a visa and my Frankenstein bike was ready for the road. For the first time in a week, the skies opened up and we set off with blue skies, giggling about our bad/good luck.
 

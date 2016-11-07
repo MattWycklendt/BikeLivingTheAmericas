@@ -4,22 +4,22 @@ title:      "EBus Distance Learning"
 subtitle:   ""
 date:       2015-12-16 8:00:00
 author:     "Megan Wycklendt"
-header-img: "news/2015-12-16-Town.jpg"
+header-img: "blog/2015-12-16-Town.jpg"
 ---
  As we were biking through British Colombia, I couldn’t help but wonder how all of the children living in remote areas were getting access to education. If you didn’t know, BC is massive. Seriously, look on a map (California landmass fits in almost 2 times) The majority of people live in the south near Vancouver. Towns like Vanderhoof, BC are actually talked about as Northern BC even though on a map it is half way down the province. While we were staying with Warm Showers hosts Jolinka and John
  in Vanderhoof, they told us about EBus, the largest online school in BC. We’ve met numerous people along our journey in Canada who homeschool their children for various reasons. Some were due to lack of access or resources, others were looking for alternatives that provide flexible timetables and more options for individualized programming.
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-12-16-BUS.jpg"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-12-16-BUS.jpg"/>
 
  Founded in 1993 in Vanderhoof (which only has a population of 4,480 people), EBus currently enrolls over 3,000 students ranging from Kindergarten to Adult. Having worked in various roles within school systems for the majority of my adult life and completed graduate school for School Counseling, I’ve always had a belief that the social learning is as important as the academic learning that happens in schools. I’ve been concerned about children that participate in online programs, getting the
  same social interaction opportunities.
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-12-16-Town.jpg"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-12-16-Town.jpg"/>
 
  I now acknowledge that I have been way too narrow-minded. For regions in B.C, the virtual classrooms that EBus provides may be a great source of connection for children. Additionally, the ability for programs to be individualized to meet unique needs and interests of students is something I want to see more in traditional school systems. Even if a child has access to a public school, it may not be the right fit for them. Distance learning provides the flexibility and tailored assignments to
  help students maintain their love of learning. For example, one family that we met in Iskut has 3 children in a distance learning program and they now use our live tracking page on our website in their geography lessons to learn more about each state or country as we are biking through.
 
-<img class="img-responsive center-block" src ="{{ site.url }}/news/2015-12-16-BC.gif"/>
+<img class="img-responsive center-block" src ="{{ site.url }}/blog/2015-12-16-BC.gif"/>
 
  I was very impressed as I learned more about the EBus community and I’m glad that it has helped me to see a new perspective about online school programs and it’s many benefits.
 
