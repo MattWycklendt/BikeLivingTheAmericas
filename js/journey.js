@@ -968,8 +968,48 @@ var stops = [
         position: { lat: -8.10093, lng: -79.05000 }
     },
     {
-        title: "11/06/2016",
-        position: { lat: -8.08333, lng: -79.12286 },
+        title: "11/06/2016 - 11/07/2016",
+        position: { lat: -8.08333, lng: -79.12286 }
+    },
+    {
+        title: "11/08/2016",
+        position: { lat: -8.08294, lng: -78.884567 }
+    },
+    {
+        title: "11/09/2016",
+        position: { lat: -8.67758, lng: -78.35984 }
+    },
+    {
+        title: "11/10/2016",
+        position: { lat: -8.73873, lng: -77.90308 }
+    },
+    {
+        title: "11/11/2016",
+        position: { lat: -9.04828, lng: -77.80922 }
+    },
+    {
+        title: "11/12/2016",
+        position: { lat: -9.52286, lng: -77.52373 }
+    },
+    {
+        title: "11/13/2016",
+        position: { lat: -9.52288, lng: -77.52375 }
+    },
+    {
+        title: "11/14/2016",
+        position: { lat: -9.80437, lng: -77.43020 }
+    },
+    {
+        title: "11/15/2016",
+        position: { lat: -10.48794, lng: -77.74929 }
+    },
+    {
+        title: "11/16/2016",
+        position: { lat: -11.12008, lng: -77.61204 }
+    },
+    {
+        title: "11/17/2016 - 11/25/2016",
+        position: { lat: -12.12020, lng: -77.03620 },
         show: true
     }
 ];
