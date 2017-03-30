@@ -9,5 +9,6 @@ If you ment to be here go ahead and look through the code and fork it if you wan
 This was originally based off of:
 http://startbootstrap.com/template-overviews/clean-blog/
 
+`bundle exec jekyll serve` to run locally.
 
 

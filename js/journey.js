@@ -65,138 +65,6 @@ var map = new google.maps.Map(document.getElementById("map"), {
     }
 });
 
-map.mapTypes.set(customMapTypeId, customMapType);
-map.setMapTypeId(customMapTypeId);
-
-
-var bounds = new google.maps.LatLngBounds ();
-
-//Takes a google json path and
-function display_route(route, poly, bound) {
-    var route;
-    var steps = route.routes[0].legs[0].steps;
-    var points = [];
-    for (i = 0; i < steps.length; i++) {
-        path = google.maps.geometry.encoding.decodePath(steps[i].polyline.points);
-        for (j = 0; j < path.length; j++) {
-            var lat = path[j].lat();
-            var lon = path[j].lng();
-            var p = new google.maps.LatLng(lat, lon);
-            points.push(p);
-            if(bound){bounds.extend(p);}
-        }
-    };
-
-    if (poly === undefined) {
-        poly = new google.maps.Polyline({
-            // use your own style here
-            path: points,
-            strokeColor: "#FF00AA",
-            strokeOpacity: .7,
-            strokeWeight: 4,
-            zIndex: 1
-        });
-    }
-    else {
-        poly.path = points;
-        poly = new google.maps.Polyline(poly);
-    }
-
-    poly.setMap(map);
-
-    // fit bounds to track
-    if(bound){map.fitBounds(bounds);}
-};
-
-$.ajax({
-    type: "GET",
-    url: "/raw/ancorage_to_portland.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/portland_to_LA.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/LA_to_LaPaz.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/LaPaz_to_PuertoVallarta.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/PuertoVallarta_to_Panama.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/Turbo_to_Santiago.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/Santiago_to_Ushuaia.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route);
-    }
-});
-
-var poly = {
-    // use your own style here
-    strokeColor: "#00CC00",
-    strokeOpacity: .7,
-    strokeWeight: 4,
-    zIndex: 2
-};
-
-$.ajax({
-    type: "GET",
-    url: "/raw/So_Far.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route, poly, true);
-    }
-});
-
-$.ajax({
-    type: "GET",
-    url: "/raw/ancorage_to_portland.json",
-    dataType: "json",
-    success: function(route) {
-        display_route(route, poly, true);
-    }
-});
-
 
 var stops = [
     {
@@ -1149,10 +1017,203 @@ var stops = [
     },
     {
         title: "02/11/2017",
-        show: true,
         position: { lat: -30.40808, lng: -68.69201 }
+    },
+    {
+        title: "02/12/2017",
+        position: { lat: -32.91439, lng: -68.70357 }
+    },
+    {
+        title: "02/13/2017",
+        position: { lat: -33.91665, lng: -64.68513 }
+    },
+    {
+        title: "02/14/2017",
+        position: { lat: -34.83596, lng: -61.54922 }
+    },
+    {
+        title: "02/15/2017",
+        position: { lat: -32.91421, lng: -68.70364 }
+    },
+    {
+        title: "02/16/2017",
+        position: { lat: -34.60569, lng: -68.32671 }
+    },
+    {
+        title: "02/17/2017",
+        position: { lat: -39.05442, lng: -68.66660 }
+    },
+    {
+        title: "02/18/2017",
+        position: { lat: -39.00137, lng: -70.08891 }
+    },
+    {
+        title: "02/19/2017",
+        position: { lat: -39.94068, lng: -71.07520 }
+    },
+    {
+        title: "02/20/2017",
+        position: { lat: -40.19854, lng: -71.36044 }
+    },
+    {
+        title: "02/21/2017",
+        position: { lat: -40.64571, lng: -71.70235 }
+    },
+    {
+        title: "02/22/2017",
+        position: { lat: -41.13810, lng: -71.32579 }
+    },
+    {
+        title: "02/23/2017",
+        position: { lat: -41.13165, lng: -71.39156 }
+    },
+    {
+        title: "02/24/2017",
+        position: { lat: -41.43765, lng: -71.48548 }
+    },
+    {
+        title: "02/25/2017",
+        position: { lat: -41.99715, lng: -71.52751 }
+    },
+    {
+        title: "02/26/2017",
+        position: { lat: -42.40785, lng: -71.10862 }
+    },
+    {
+        title: "02/27/2017",
+        position: { lat: -42.91946, lng: -71.33575 }
+    },
+    {
+        title: "02/28/2017",
+        position: { lat: -43.20260, lng: -71.56146 }
+    },
+    {
+        title: "03/01/2017",
+        position: { lat: -43.27312, lng: -71.95953 }
+    },
+    {
+        title: "03/02/2017",
+        position: { lat: -43.72436, lng: -72.34573 }
+    },
+    {
+        title: "03/03/2017",
+        position: { lat: -44.33841, lng: -72.56072 }
+    },
+    {
+        title: "03/04/2017",
+        position: { lat: -44.70580, lng: -72.22560 }
+    },
+    {
+        title: "03/05/2017",
+        position: { lat: -45.27834, lng: -72.30424 }
+    },
+    {
+        title: "03/06/2017",
+        position: { lat: -30.40808, lng: -72.05567 }
+    },
+    {
+        title: "03/07/2017",
+        position: { lat: -47.25477, lng: -72.57682 }
+    },
+    {
+        title: "03/08/2017",
+        position: { lat: -47.70250, lng: -73.10445 }
+    },
+    {
+        title: "03/09/2017",
+        position: { lat: -48.12896, lng: -72.83647 }
+    },
+    {
+        title: "03/10/2017",
+        position: { lat: -30.40808, lng: -72.55888 }
+    },
+    {
+        title: "03/11/2017",
+        position: { lat: -48.99893, lng: -72.83968 }
+    },
+    {
+        title: "03/12/2017",
+        position: { lat: -49.32240, lng: -72.89406 }
+    },
+    {
+        title: "03/13/2017",
+        position: { lat: -49.32228, lng: -72.89620 }
+    },
+    {
+        title: "03/14/2017",
+        position: { lat: -49.59135, lng: -72.26531 }
+    },
+    {
+        title: "03/15/2017",
+        position: { lat: -50.34145, lng: -72.28905 }
+    },
+    {
+        title: "03/16/2017",
+        position: { lat: -50.34256, lng: -72.28754 }
+    },
+    {
+        title: "03/17/2017",
+        position: { lat: -50.34115, lng: -72.28880 }
+    },
+    {
+        title: "03/18/2017",
+        position: { lat: -50.32697, lng: -72.19948 }
+    },
+    {
+        title: "03/19/2017",
+        position: { lat: -50.61836, lng: -71.36998 }
+    },
+    {
+        title: "03/20/2017",
+        position: { lat: -51.12921, lng: -71.92298 }
+    },
+    {
+        title: "03/21/2017",
+        position: { lat: -51.25916, lng: -72.34366 }
+    },
+    {
+        title: "03/22/2017",
+        position: { lat: -51.80743, lng: -72.16517 }
+    },
+    {
+        title: "03/23/2017",
+        position: { lat: -52.28055, lng: -71.34726 }
+    },
+    {
+        title: "03/24/2017",
+        position: { lat: -52.94803, lng: -70.84437 }
+    },
+    {
+        title: "03/25/2017",
+        position: { lat: -53.15985, lng: -70.89317 }
+    },
+    {
+        title: "03/26/2017",
+        position: { lat: -53.15998, lng: -70.89337 }
+    },
+    {
+        title: "03/27/2017",
+        position: { lat: -53.42151, lng: -70.01919 }
+    },
+    {
+        title: "03/28/2017",
+        position: { lat: -53.78148, lng: -67.71733 }
+    },
+    {
+        title: "03/29/2017",
+        position: { lat: -54.51546, lng: -67.20488 }
+    },
+    {
+        title: "03/30/2017",
+        show: true,
+        position: { lat: -54.51019, lng: -67.19761 }
     }
 ];
+
+var bounds = new google.maps.LatLngBounds ();
+
+map.mapTypes.set(customMapTypeId, customMapType);
+map.setMapTypeId(customMapTypeId);
 
 for (var k = 0; k < stops.length; k++) {
     var marker = new google.maps.Marker({
@@ -1170,78 +1231,6 @@ for (var k = 0; k < stops.length; k++) {
     }
 }
 
-
-
-/*
-$.ajax({
-    type: "GET",
-    url: "/raw/2016-8-30-afternoon.tcx",
-    dataType: "xml",
-    success: function(xml) {
-        var points = [];
-        var currPos;
-        var bounds = new google.maps.LatLngBounds ();
-
-        $(xml).find("Position").each(function() {
-            var lat = $(this).find("LatitudeDegrees").html();
-            var lon = $(this).find("LongitudeDegrees").html();
-            var p = new google.maps.LatLng(lat, lon);
-            points.push(p);
-
-            currPos = p;//{'lat': int(lat), 'log': ing(clon};
-            bounds.extend(p);
-        });
-
-        // Define the symbol, using one of the predefined paths ('CIRCLE')
-        // supplied by the Google Maps JavaScript API.
-        var lineSymbol = {
-            path: google.maps.SymbolPath.CIRCLE,
-            scale: 8,
-            strokeColor: '#393'
-        };
-
-
-        var poly = new google.maps.Polyline({
-            // use your own style here
-            path: points,
-            strokeColor: "#6600CC",
-            strokeOpacity: .7,
-            strokeWeight: 4,
-            icons: [{
-                icon: lineSymbol,
-                offset: '100%'
-            }],
-        });
-
-        poly.setMap(map);
-        //animateCircle(poly);
-
-        // fit bounds to track
-        map.fitBounds(bounds);
-
-        var marker = new google.maps.Marker({
-            position: currPos,
-            map: map,
-            title: 'Hello World!'
-        });
-
-        // Use the DOM setInterval() function to change the offset of the symbol
-        // at fixed intervals.
-        function animateCircle(line) {
-            var count = 0;
-            window.setInterval(function() {
-                if (count === 199) {
-                    return;
-                }
-                count = (count + 1) % 200;
-
-                var icons = line.get('icons');
-                icons[0].offset = (count / 2) + '%';
-                line.set('icons', icons);
-            }, 20);
-        }
-    }
-});
-*/
-
-
+bounds.extend(new google.maps.LatLng(61.2167, -149.9000));
+bounds.extend(new google.maps.LatLng(-54.51019, -67.19761));
+map.fitBounds(bounds);
