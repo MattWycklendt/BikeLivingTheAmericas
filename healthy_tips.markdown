@@ -17,28 +17,27 @@ Additionally, be sure to drink more water than you think you need to prevent deh
 3. **Use a travel foam roller!**
 I can not suggest bringing a foam roller on your tour enough. My foam roller has been a life-saver on numerous occasions. By using a foam roller, you are releasing muscle tightness and trigger points. It’s something that I would recommend to anyone, whatever their day looks like, but especially for bicycle tourists. By applying pressure to specific points on your body, you are helping those muscles to recover to a elastic, healthy and strong state.
 It is common to feel “knots” in your muscles and without releasing them, your muscles can tighten further which puts you at more risk for injury. Although stretching is good, it is not always successful in releasing tight knots. A couple minutes of foam rolling before and after a day on the bike can easily release muscle tightness and support normal blood flow and function through your muscles. It hurts so good!
-
 <img class="img-responsive center-block" src ="{{ site.url }}/img/gear/foam_roller.png"/>
 
 4. **Vitamins and Minerals are your friends.**
 A Vitamin deficiency can cause a lot of issues and although you will be eating a lot of food, it is important to eat the right kinds of foods to make sure you are getting all of the vitamins needed for your active lifestyle. There are 5 main vitamins to keep track of.
 
- - Vitamin C: Immune Booster
-    - Foods: Citrus fruits, tomatoes, strawberries, pineapple kale, broccoli.
+    - Vitamin C: Immune Booster
+      - Foods: Citrus fruits, tomatoes, strawberries, pineapple kale, broccoli.
 
- - Vitamin E: Antioxidant, protects your cells, muscles, and lungs.
-    - Foods: almonds, olive oil, eggs, leafy greens
+    - Vitamin E: Antioxidant, protects your cells, muscles, and lungs.
+      - Foods: almonds, olive oil, eggs, leafy greens
 
- - Magnesium: Muscle and nerve function, blood pressure.
-    - Foods: green leafy vegetables, nuts, seeds, whole grains, chocolate (easy to get through your diet, but also easy to lose through sweat)
+    - Magnesium: Muscle and nerve function, blood pressure.
+      - Foods: green leafy vegetables, nuts, seeds, whole grains, chocolate (easy to get through your diet, but also easy to lose through sweat)
 
- - Potassium: Helps to maintain balance of fluid inside our cells.
-    - Foods: bananas, figs, raisins, dates
+    - Potassium: Helps to maintain balance of fluid inside our cells.
+      - Foods: bananas, figs, raisins, dates
 
- - Iron: builds red blood cells that carry oxygen to your muscles (low= risk of developing anemia, leaving your chronically tired. Women are more at risk due to menstruation)
-    - Foods: spinach, meats (avoid coffee if you develop an iron deficiency)
+    - Iron: builds red blood cells that carry oxygen to your muscles (low= risk of developing anemia, leaving your chronically tired. Women are more at risk due to menstruation)
+      - Foods: spinach, meats (avoid coffee if you develop an iron deficiency)
 
-I was experiencing cramping due to vitamin deficiency and after being more intentional with my foods,  taking a daily multi-vitamin and drinking more electrolytes, my cramping has stopped.
+    I was experiencing cramping due to vitamin deficiency and after being more intentional with my foods,  taking a daily multi-vitamin and drinking more electrolytes, my cramping has stopped.
 
 5. **Take a rest day at least once a week**
 Rest days save you time in the long run. Biking a slow 60 miles (100km) in a day might not seem like a huge feat but biking that length day after day adds up. Your body needs time to recover. As long as you aren’t racing or working towards a record, there’s no rush. If you won’t do it for your body, do it for your mind.
