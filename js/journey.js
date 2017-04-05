@@ -1024,14 +1024,6 @@ var stops = [
         position: { lat: -32.91439, lng: -68.70357 }
     },
     {
-        title: "02/13/2017",
-        position: { lat: -33.91665, lng: -64.68513 }
-    },
-    {
-        title: "02/14/2017",
-        position: { lat: -34.83596, lng: -61.54922 }
-    },
-    {
         title: "02/15/2017",
         position: { lat: -32.91421, lng: -68.70364 }
     },
@@ -1108,10 +1100,6 @@ var stops = [
         position: { lat: -45.27834, lng: -72.30424 }
     },
     {
-        title: "03/06/2017",
-        position: { lat: -30.40808, lng: -72.05567 }
-    },
-    {
         title: "03/07/2017",
         position: { lat: -47.25477, lng: -72.57682 }
     },
@@ -1122,10 +1110,6 @@ var stops = [
     {
         title: "03/09/2017",
         position: { lat: -48.12896, lng: -72.83647 }
-    },
-    {
-        title: "03/10/2017",
-        position: { lat: -30.40808, lng: -72.55888 }
     },
     {
         title: "03/11/2017",
