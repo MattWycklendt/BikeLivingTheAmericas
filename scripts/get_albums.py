@@ -3,14 +3,14 @@ import json
 import os
 from urllib.request import urlretrieve
 
-TOKEN =
-
+TOKEN = "EAACEdEose0cBAHmkyB5313djPa2pp9OgoYwi25UTeJZCvz7O9vo4ZBFxY8xv8hUmLZBmmFPldDV2bhUahuWmnJVlp0FVeqzI4VfqLypD1rfuVbUjYBsgr5FXpAjdUQjKUgENBJ3p9a6fkNUuWZBhrLHZASZBrrmX9THCI1mMgzN77Ejn8xafF8FgEDHj7PrIgZD"
 r = requests.get("https://graph.facebook.com/me/albums?limit=1000&access_token=" + TOKEN)
 bikeLiving_albums = [{'id': d['id'], 'name': d['name']} for d in r.json()['data'] if 'BikeLiving' in d['name']]
 
 with open('albums.json', 'w') as outfile:
     json.dump(json.dumps(bikeLiving_albums), outfile)
 
+"""
 for album in bikeLiving_albums:
     print("!!! GETTING ALBUM" + album['name'])
     r = requests.get("https://graph.facebook.com/" + album['id'] + "/photos?limit=1000&access_token=" + TOKEN)
@@ -26,3 +26,4 @@ for album in bikeLiving_albums:
         print(p['id'])
         urlretrieve(p['images'][0]['source'],
                     dir_name + '/' + p['id'] + ".jpg")
+"""
